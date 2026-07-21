@@ -26,7 +26,7 @@ View(ESA_Poster)
 intraspp_colonization <- glm(
   colonization ~ treat * seed_id + treat * soil_id,
   family = binomial(link = "logit"),
-  data = BRCBIO_JOINEDCLEANED_data
+  data = ESA_Poster
 )
 
 summary(intraspp_colonization)
@@ -77,11 +77,10 @@ ggsave(
 homeaway_colonization <- glm(
   colonization ~ treat * home_away,
   family = binomial(link = "logit"),
-  data = BRCBIO_JOINEDCLEANED_data
+  data = ESA_Poster
 )
 
 summary(homeaway_colonization)
-
 #RESULTS:
 
 
@@ -99,14 +98,6 @@ plot_predictions(
 
 #CAPTION
 
-###
-homeaway_seed <- glm(
-  colonization ~ treat * home_away * seed_id,
-  family = binomial(link = "logit"),
-  data = BRCBIO_JOINEDCLEANED_data
-)
-
-
 #Saving the plot
 ggsave(
   filename = "ESA_2/Figures/HomeAway_Colonization.png",
@@ -121,9 +112,8 @@ ggsave(
 homeaway_garden <- glm(
   colonization ~ treat * home_away * garden,
   family = binomial(link = "logit"),
-  data = BRCBIO_JOINEDCLEANED_data
+  data = ESA_Poster
 )
-
 summary(homeaway_garden)
 
 #Results
@@ -137,7 +127,7 @@ plot_predictions(
 )
 
 
-#renaming the gadens from the plot
+#renaming the gardens from the plot
 plot_predictions(
   homeaway_garden,
   condition = c("garden", "home_away", "treat")

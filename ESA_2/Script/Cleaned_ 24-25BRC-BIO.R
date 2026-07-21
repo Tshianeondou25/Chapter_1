@@ -130,7 +130,7 @@ RAW_fate_long <- RAW_long %>%
     values_to = "n_seeds"
   )
 
-#Saving the new data with Fate seed col
+#Saving the new data with Fate seed col name
 write.csv(
   RAW_fate_long,
   "RAW_fate_long.csv",
@@ -142,54 +142,17 @@ write.csv(
 Combined_exp1and2 <- read_excel("ESA_2/Raw data/BRBIO-CombinedExp1and2_batch.xlsx")
 View(Combined_exp1and2)
 
-
 #checking if the col names match
 names(Combined_exp1and2)
 
-names(RAW_fate_long_clean)
-View(RAW_fate_long_clean)
-
-###making sure raw fate long is looking good
-RAW_fate_long_clean <- RAW_fate_long_clean %>%
-  filter(
-    !is.na(garden),
-    !is.na(meso_id),
-    !is.na(soil_id),
-    !is.na(seed_id)
-  )
-
-Combined_exp1and2$seed_code
-RAW_fate_long_clean$bag
-
 #checking data format
 head(Combined_exp1and2$seed_code, 20)
-head(RAW_fate_long_clean$bag, 20)
-
 unique(Combined_exp1and2$seed_code)[1:20]
-unique(RAW_fate_long_clean$bag)[1:20]
-
-#I could not find the bag col on data from exp 1 and 2
-#doing this to correct it and avoid joining errors
-fate_summary <- RAW_fate_long_clean %>%
-  filter(
-    !is.na(garden),
-    !is.na(meso_id),
-    !is.na(soil_id),
-    !is.na(seed_id)
-  ) %>%
-  group_by(garden, meso_id, soil_id, seed_id, seed_fate) %>%
-  summarise(
-    n_seeds = sum(n_seeds, na.rm = TRUE),
-    .groups = "drop"
-  ) %>%
-  pivot_wider(
-    names_from = seed_fate,
-    values_from = n_seeds,
-    values_fill = 0
-  )
-
+ 
+ 
+#######
 #doing this because the seed fate col data was still not joining because of the seedbags
-fate_summary <- RAW_fate_long_clean %>%
+fate_summary <- RAW_fate_long %>%
   group_by(garden, meso_id, soil_id, seed_id, seed_fate) %>%
   summarise(
     n_seeds = sum(n_seeds, na.rm = TRUE),
@@ -218,11 +181,6 @@ combined_summary %>%
   count(garden, meso_id, soil_id, seed_id) %>%
   filter(n > 1)
 
-
-combined_summary %>%
-  count(garden, meso_id, soil_id, seed_id) %>%
-  filter(n > 1)
-
 #combining fate and summary
 analysis_data <- fate_summary %>%
   left_join(
@@ -238,13 +196,9 @@ analysis_data <- fate_summary %>%
 #checking if this is working
 #if it works, everything should be the same
 nrow(fate_summary)
-nrow(analysis_data)
-#it worked pheeww!
 
-#checking unmatched rows just incase it didnt work 
-analysis_data %>%
-  filter(is.na(n_plated))
-#okay, it didnt work properly, now i have to to double check again the negative values for germinated and missing
+
+
 
 fate_summary %>%
   filter(
