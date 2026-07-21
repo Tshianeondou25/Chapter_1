@@ -1,0 +1,2215 @@
+"garden","meso_id","soil_id","treat","n_bags","...31","entered_by","bag","seed_id","intact","obs","date","notes","seed_fate","n_seeds"
+"SUM",1,"RC","Live",3,1,"HL",1,"TI",1,"SF","45807",NA,"germinated",9
+"SUM",1,"RC","Live",3,1,"HL",1,"TI",1,"SF","45807",NA,"burst",0
+"SUM",1,"RC","Live",3,1,"HL",1,"TI",1,"SF","45807",NA,"missing",0
+"WIL",1,"RC","Live",3,1,"HL",1,"NG",2,"HL","45812",NA,"germinated",5
+"WIL",1,"RC","Live",3,1,"HL",1,"NG",2,"HL","45812",NA,"burst",0
+"WIL",1,"RC","Live",3,1,"HL",1,"NG",2,"HL","45812",NA,"missing",3
+"SUM",1,"RC","Live",3,1,"HL",2,"NG",1,"SF","45807",NA,"germinated",9
+"SUM",1,"RC","Live",3,1,"HL",2,"NG",1,"SF","45807",NA,"burst",0
+"SUM",1,"RC","Live",3,1,"HL",2,"NG",1,"SF","45807",NA,"missing",0
+"WIL",1,"RC","Live",3,1,"HL",2,"TI",3,"HL","45812","1intact shriveled","germinated",5
+"WIL",1,"RC","Live",3,1,"HL",2,"TI",3,"HL","45812","1intact shriveled","burst",2
+"WIL",1,"RC","Live",3,1,"HL",2,"TI",3,"HL","45812","1intact shriveled","missing",0
+"SUM",1,"RC","Live",3,1,"HL",3,"BB",7,"SF","45807","1 intact may have just begun germinating","germinated",3
+"SUM",1,"RC","Live",3,1,"HL",3,"BB",7,"SF","45807","1 intact may have just begun germinating","burst",0
+"SUM",1,"RC","Live",3,1,"HL",3,"BB",7,"SF","45807","1 intact may have just begun germinating","missing",0
+"WIL",1,"RC","Live",3,1,"HL",3,"BB",4,"HL","45812",NA,"germinated",6
+"WIL",1,"RC","Live",3,1,"HL",3,"BB",4,"HL","45812",NA,"burst",0
+"WIL",1,"RC","Live",3,1,"HL",3,"BB",4,"HL","45812",NA,"missing",0
+"SUM",2,"BB","Live",2,2,"HL",1,"SR",2,"SF","45807","bag not fully sealed","germinated",6
+"SUM",2,"BB","Live",2,2,"HL",1,"SR",2,"SF","45807","bag not fully sealed","burst",0
+"SUM",2,"BB","Live",2,2,"HL",1,"SR",2,"SF","45807","bag not fully sealed","missing",2
+"WIL",2,"BB","Live",2,2,"HL",1,"SR",3,"SF","45812","1 intact in pieces","germinated",6
+"WIL",2,"BB","Live",2,2,"HL",1,"SR",3,"SF","45812","1 intact in pieces","burst",1
+"WIL",2,"BB","Live",2,2,"HL",1,"SR",3,"SF","45812","1 intact in pieces","missing",0
+"SUM",2,"BB","Live",2,2,"HL",2,"CR",7,"SF","45807","1 intact black, shriveled","germinated",3
+"SUM",2,"BB","Live",2,2,"HL",2,"CR",7,"SF","45807","1 intact black, shriveled","burst",0
+"SUM",2,"BB","Live",2,2,"HL",2,"CR",7,"SF","45807","1 intact black, shriveled","missing",0
+"WIL",2,"BB","Live",2,2,"HL",2,"CR",9,"SF","45812",NA,"germinated",0
+"WIL",2,"BB","Live",2,2,"HL",2,"CR",9,"SF","45812",NA,"burst",0
+"WIL",2,"BB","Live",2,2,"HL",2,"CR",9,"SF","45812",NA,"missing",1
+"SUM",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",3,"SR","Dead",2,3,"HL",1,"NG",6,"SF","45810","1 intact may be germ","germinated",4
+"SUM",3,"SR","Dead",2,3,"HL",1,"NG",6,"SF","45810","1 intact may be germ","burst",0
+"SUM",3,"SR","Dead",2,3,"HL",1,"NG",6,"SF","45810","1 intact may be germ","missing",0
+"WIL",3,"SR","Dead",2,3,"HL",1,"NG",3,"SF","45811",NA,"germinated",7
+"WIL",3,"SR","Dead",2,3,"HL",1,"NG",3,"SF","45811",NA,"burst",0
+"WIL",3,"SR","Dead",2,3,"HL",1,"NG",3,"SF","45811",NA,"missing",0
+"SUM",3,"SR","Dead",2,3,"HL",2,"BB",2,"SF","45810",NA,"germinated",8
+"SUM",3,"SR","Dead",2,3,"HL",2,"BB",2,"SF","45810",NA,"burst",0
+"SUM",3,"SR","Dead",2,3,"HL",2,"BB",2,"SF","45810",NA,"missing",0
+"WIL",3,"SR","Dead",2,3,"HL",2,"BB",3,"SF","45811",NA,"germinated",7
+"WIL",3,"SR","Dead",2,3,"HL",2,"BB",3,"SF","45811",NA,"burst",0
+"WIL",3,"SR","Dead",2,3,"HL",2,"BB",3,"SF","45811",NA,"missing",0
+"SUM",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",4,"CR","Dead",2,4,"HL",1,"TI",1,"HL","45810",NA,"germinated",7
+"SUM",4,"CR","Dead",2,4,"HL",1,"TI",1,"HL","45810",NA,"burst",1
+"SUM",4,"CR","Dead",2,4,"HL",1,"TI",1,"HL","45810",NA,"missing",1
+"WIL",4,"CR","Dead",2,4,"HL",1,"TI",2,"SF","45811","1 intact, black and mushy","germinated",8
+"WIL",4,"CR","Dead",2,4,"HL",1,"TI",2,"SF","45811","1 intact, black and mushy","burst",0
+"WIL",4,"CR","Dead",2,4,"HL",1,"TI",2,"SF","45811","1 intact, black and mushy","missing",0
+"SUM",4,"CR","Dead",2,4,"HL",2,"BB",4,"HL","45810",NA,"germinated",6
+"SUM",4,"CR","Dead",2,4,"HL",2,"BB",4,"HL","45810",NA,"burst",0
+"SUM",4,"CR","Dead",2,4,"HL",2,"BB",4,"HL","45810",NA,"missing",0
+"WIL",4,"CR","Dead",2,4,"HL",2,"BB",7,"SF","45811",NA,"germinated",3
+"WIL",4,"CR","Dead",2,4,"HL",2,"BB",7,"SF","45811",NA,"burst",0
+"WIL",4,"CR","Dead",2,4,"HL",2,"BB",7,"SF","45811",NA,"missing",0
+"SUM",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",5,"NG","Live",3,5,"HL",1,"NG",3,"SF","45810","1 intact black, shriveled","germinated",7
+"SUM",5,"NG","Live",3,5,"HL",1,"NG",3,"SF","45810","1 intact black, shriveled","burst",0
+"SUM",5,"NG","Live",3,5,"HL",1,"NG",3,"SF","45810","1 intact black, shriveled","missing",0
+"WIL",5,"NG","Live",3,5,"HL",1,"RC",3,"HL","45811","pink growth (fusarium)","germinated",7
+"WIL",5,"NG","Live",3,5,"HL",1,"RC",3,"HL","45811","pink growth (fusarium)","burst",0
+"WIL",5,"NG","Live",3,5,"HL",1,"RC",3,"HL","45811","pink growth (fusarium)","missing",0
+"SUM",5,"NG","Live",3,5,"HL",2,"RC",6,"SF","45810","1 intact shriveled","germinated",4
+"SUM",5,"NG","Live",3,5,"HL",2,"RC",6,"SF","45810","1 intact shriveled","burst",0
+"SUM",5,"NG","Live",3,5,"HL",2,"RC",6,"SF","45810","1 intact shriveled","missing",0
+"WIL",5,"NG","Live",3,5,"HL",2,"HR",4,"HL","45811","possibly another intact but got squished","germinated",4
+"WIL",5,"NG","Live",3,5,"HL",2,"HR",4,"HL","45811","possibly another intact but got squished","burst",0
+"WIL",5,"NG","Live",3,5,"HL",2,"HR",4,"HL","45811","possibly another intact but got squished","missing",2
+"SUM",5,"NG","Live",3,5,"HL",3,"HR",10,"SF","45810",NA,"germinated",0
+"SUM",5,"NG","Live",3,5,"HL",3,"HR",10,"SF","45810",NA,"burst",0
+"SUM",5,"NG","Live",3,5,"HL",3,"HR",10,"SF","45810",NA,"missing",0
+"WIL",5,"NG","Live",3,5,"HL",3,"NG",3,"HL","45811",NA,"germinated",7
+"WIL",5,"NG","Live",3,5,"HL",3,"NG",3,"HL","45811",NA,"burst",0
+"WIL",5,"NG","Live",3,5,"HL",3,"NG",3,"HL","45811",NA,"missing",0
+"SUM",6,"BB","Live",3,6,"HL",1,"BB",10,"HL","45810",NA,"germinated",0
+"SUM",6,"BB","Live",3,6,"HL",1,"BB",10,"HL","45810",NA,"burst",0
+"SUM",6,"BB","Live",3,6,"HL",1,"BB",10,"HL","45810",NA,"missing",0
+"WIL",6,"BB","Live",3,6,"HL",1,"BB",6,"SF","45812",NA,"germinated",3
+"WIL",6,"BB","Live",3,6,"HL",1,"BB",6,"SF","45812",NA,"burst",0
+"WIL",6,"BB","Live",3,6,"HL",1,"BB",6,"SF","45812",NA,"missing",1
+"SUM",6,"BB","Live",3,6,"HL",2,"RC",3,"HL","45810",NA,"germinated",4
+"SUM",6,"BB","Live",3,6,"HL",2,"RC",3,"HL","45810",NA,"burst",0
+"SUM",6,"BB","Live",3,6,"HL",2,"RC",3,"HL","45810",NA,"missing",3
+"WIL",6,"BB","Live",3,6,"HL",2,"RC",8,"SF","45812","intact are black/shriveled","germinated",2
+"WIL",6,"BB","Live",3,6,"HL",2,"RC",8,"SF","45812","intact are black/shriveled","burst",0
+"WIL",6,"BB","Live",3,6,"HL",2,"RC",8,"SF","45812","intact are black/shriveled","missing",0
+"SUM",6,"BB","Live",3,6,"HL",3,"HR",9,"HL","45810",NA,"germinated",0
+"SUM",6,"BB","Live",3,6,"HL",3,"HR",9,"HL","45810",NA,"burst",0
+"SUM",6,"BB","Live",3,6,"HL",3,"HR",9,"HL","45810",NA,"missing",1
+"WIL",6,"BB","Live",3,6,"HL",3,"HR",8,"SF","45812",NA,"germinated",2
+"WIL",6,"BB","Live",3,6,"HL",3,"HR",8,"SF","45812",NA,"burst",0
+"WIL",6,"BB","Live",3,6,"HL",3,"HR",8,"SF","45812",NA,"missing",0
+"SUM",7,"SR","Dead",3,7,"HL",1,"SR",3,"SF","45807",NA,"germinated",6
+"SUM",7,"SR","Dead",3,7,"HL",1,"SR",3,"SF","45807",NA,"burst",1
+"SUM",7,"SR","Dead",3,7,"HL",1,"SR",3,"SF","45807",NA,"missing",0
+"WIL",7,"SR","Dead",3,7,"HL",1,"SR",1,"SF","45811",NA,"germinated",9
+"WIL",7,"SR","Dead",3,7,"HL",1,"SR",1,"SF","45811",NA,"burst",0
+"WIL",7,"SR","Dead",3,7,"HL",1,"SR",1,"SF","45811",NA,"missing",0
+"SUM",7,"SR","Dead",3,7,"HL",2,"HG",4,"SF","45807",NA,"germinated",6
+"SUM",7,"SR","Dead",3,7,"HL",2,"HG",4,"SF","45807",NA,"burst",0
+"SUM",7,"SR","Dead",3,7,"HL",2,"HG",4,"SF","45807",NA,"missing",0
+"WIL",7,"SR","Dead",3,7,"HL",2,"HG",7,"SF","45811",NA,"germinated",3
+"WIL",7,"SR","Dead",3,7,"HL",2,"HG",7,"SF","45811",NA,"burst",0
+"WIL",7,"SR","Dead",3,7,"HL",2,"HG",7,"SF","45811",NA,"missing",0
+"SUM",7,"SR","Dead",3,7,"HL",3,"AH",9,"SF","45807",NA,"germinated",1
+"SUM",7,"SR","Dead",3,7,"HL",3,"AH",9,"SF","45807",NA,"burst",0
+"SUM",7,"SR","Dead",3,7,"HL",3,"AH",9,"SF","45807",NA,"missing",0
+"WIL",7,"SR","Dead",3,7,"HL",3,"AH",8,"SF","45811",NA,"germinated",1
+"WIL",7,"SR","Dead",3,7,"HL",3,"AH",8,"SF","45811",NA,"burst",1
+"WIL",7,"SR","Dead",3,7,"HL",3,"AH",8,"SF","45811",NA,"missing",0
+"SUM",8,"BB","Live",3,8,"HL",1,"BB",10,"SF","45810",NA,"germinated",0
+"SUM",8,"BB","Live",3,8,"HL",1,"BB",10,"SF","45810",NA,"burst",0
+"SUM",8,"BB","Live",3,8,"HL",1,"BB",10,"SF","45810",NA,"missing",0
+"WIL",8,"BB","Live",3,8,"HL",1,"BB",8,"SF","45812",NA,"germinated",2
+"WIL",8,"BB","Live",3,8,"HL",1,"BB",8,"SF","45812",NA,"burst",0
+"WIL",8,"BB","Live",3,8,"HL",1,"BB",8,"SF","45812",NA,"missing",0
+"SUM",8,"BB","Live",3,8,"HL",2,"RC",3,"SF","45810","intact super shriveled","germinated",6
+"SUM",8,"BB","Live",3,8,"HL",2,"RC",3,"SF","45810","intact super shriveled","burst",0
+"SUM",8,"BB","Live",3,8,"HL",2,"RC",3,"SF","45810","intact super shriveled","missing",1
+"WIL",8,"BB","Live",3,8,"HL",2,"RC",5,"SF","45812","1 intact fell apart","germinated",4
+"WIL",8,"BB","Live",3,8,"HL",2,"RC",5,"SF","45812","1 intact fell apart","burst",0
+"WIL",8,"BB","Live",3,8,"HL",2,"RC",5,"SF","45812","1 intact fell apart","missing",1
+"SUM",8,"BB","Live",3,8,"HL",3,"HR",10,"SF","45810","white dots on intact","germinated",0
+"SUM",8,"BB","Live",3,8,"HL",3,"HR",10,"SF","45810","white dots on intact","burst",0
+"SUM",8,"BB","Live",3,8,"HL",3,"HR",10,"SF","45810","white dots on intact","missing",0
+"WIL",8,"BB","Live",3,8,"HL",3,"HR",8,"SF","45812","1 intact, white/fuzzy","germinated",2
+"WIL",8,"BB","Live",3,8,"HL",3,"HR",8,"SF","45812","1 intact, white/fuzzy","burst",0
+"WIL",8,"BB","Live",3,8,"HL",3,"HR",8,"SF","45812","1 intact, white/fuzzy","missing",0
+"SUM",9,"OH","Live",2,9,"HL",1,"TI",1,"SF","45810",NA,"germinated",8
+"SUM",9,"OH","Live",2,9,"HL",1,"TI",1,"SF","45810",NA,"burst",0
+"SUM",9,"OH","Live",2,9,"HL",1,"TI",1,"SF","45810",NA,"missing",1
+"WIL",9,"OH","Live",2,9,"HL",1,"TI",6,"HL","45811",NA,"germinated",3
+"WIL",9,"OH","Live",2,9,"HL",1,"TI",6,"HL","45811",NA,"burst",1
+"WIL",9,"OH","Live",2,9,"HL",1,"TI",6,"HL","45811",NA,"missing",0
+"SUM",9,"OH","Live",2,9,"HL",2,"NG",4,"SF","45810","germs in pieces, intact have white fuzz","germinated",5
+"SUM",9,"OH","Live",2,9,"HL",2,"NG",4,"SF","45810","germs in pieces, intact have white fuzz","burst",0
+"SUM",9,"OH","Live",2,9,"HL",2,"NG",4,"SF","45810","germs in pieces, intact have white fuzz","missing",1
+"WIL",9,"OH","Live",2,9,"HL",2,"NG",1,"HL","45811",NA,"germinated",8
+"WIL",9,"OH","Live",2,9,"HL",2,"NG",1,"HL","45811",NA,"burst",0
+"WIL",9,"OH","Live",2,9,"HL",2,"NG",1,"HL","45811",NA,"missing",1
+"SUM",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",10,"SR","Live",3,10,"HL",1,"SR",2,"SF","45810","1 intact dropped on counter","germinated",7
+"SUM",10,"SR","Live",3,10,"HL",1,"SR",2,"SF","45810","1 intact dropped on counter","burst",1
+"SUM",10,"SR","Live",3,10,"HL",1,"SR",2,"SF","45810","1 intact dropped on counter","missing",0
+"WIL",10,"SR","Live",3,10,"HL",1,"AH",10,"HL","45810","extra","germinated",1
+"WIL",10,"SR","Live",3,10,"HL",1,"AH",10,"HL","45810","extra","burst",0
+"WIL",10,"SR","Live",3,10,"HL",1,"AH",10,"HL","45810","extra","missing",0
+"SUM",10,"SR","Live",3,10,"HL",2,"HG",9,"SF","45810","1 intact could be germ","germinated",1
+"SUM",10,"SR","Live",3,10,"HL",2,"HG",9,"SF","45810","1 intact could be germ","burst",0
+"SUM",10,"SR","Live",3,10,"HL",2,"HG",9,"SF","45810","1 intact could be germ","missing",0
+"WIL",10,"SR","Live",3,10,"HL",2,"SR",9,"HL","45810",NA,"germinated",0
+"WIL",10,"SR","Live",3,10,"HL",2,"SR",9,"HL","45810",NA,"burst",0
+"WIL",10,"SR","Live",3,10,"HL",2,"SR",9,"HL","45810",NA,"missing",1
+"SUM",10,"SR","Live",3,10,"HL",3,"AH",10,"SF","45810",NA,"germinated",0
+"SUM",10,"SR","Live",3,10,"HL",3,"AH",10,"SF","45810",NA,"burst",0
+"SUM",10,"SR","Live",3,10,"HL",3,"AH",10,"SF","45810",NA,"missing",0
+"WIL",10,"SR","Live",3,10,"HL",3,"HG",10,"SF","45811","1 extra seed","germinated",1
+"WIL",10,"SR","Live",3,10,"HL",3,"HG",10,"SF","45811","1 extra seed","burst",0
+"WIL",10,"SR","Live",3,10,"HL",3,"HG",10,"SF","45811","1 extra seed","missing",0
+"SUM",11,"HR","Live",2,11,"HL",1,"HR",10,"SF","45810",NA,"germinated",0
+"SUM",11,"HR","Live",2,11,"HL",1,"HR",10,"SF","45810",NA,"burst",0
+"SUM",11,"HR","Live",2,11,"HL",1,"HR",10,"SF","45810",NA,"missing",0
+"WIL",11,"HR","Live",2,11,"HL",1,"HR",8,"SF","45812","black furry growth","germinated",2
+"WIL",11,"HR","Live",2,11,"HL",1,"HR",8,"SF","45812","black furry growth","burst",0
+"WIL",11,"HR","Live",2,11,"HL",1,"HR",8,"SF","45812","black furry growth","missing",0
+"SUM",11,"HR","Live",2,11,"HL",2,"HG",7,"SF","45810",NA,"germinated",3
+"SUM",11,"HR","Live",2,11,"HL",2,"HG",7,"SF","45810",NA,"burst",0
+"SUM",11,"HR","Live",2,11,"HL",2,"HG",7,"SF","45810",NA,"missing",0
+"WIL",11,"HR","Live",2,11,"HL",2,"HG",4,"SF","45812",NA,"germinated",5
+"WIL",11,"HR","Live",2,11,"HL",2,"HG",4,"SF","45812",NA,"burst",0
+"WIL",11,"HR","Live",2,11,"HL",2,"HG",4,"SF","45812",NA,"missing",1
+"SUM",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",12,"AH","Live",3,12,"HL",1,"SR",7,"SF","45810",NA,"germinated",3
+"SUM",12,"AH","Live",3,12,"HL",1,"SR",7,"SF","45810",NA,"burst",0
+"SUM",12,"AH","Live",3,12,"HL",1,"SR",7,"SF","45810",NA,"missing",0
+"WIL",12,"AH","Live",3,12,"HL",1,"CR",6,"HL","45812","1 intact is flat","germinated",3
+"WIL",12,"AH","Live",3,12,"HL",1,"CR",6,"HL","45812","1 intact is flat","burst",1
+"WIL",12,"AH","Live",3,12,"HL",1,"CR",6,"HL","45812","1 intact is flat","missing",0
+"SUM",12,"AH","Live",3,12,"HL",2,"CR",7,"SF","45810",NA,"germinated",3
+"SUM",12,"AH","Live",3,12,"HL",2,"CR",7,"SF","45810",NA,"burst",0
+"SUM",12,"AH","Live",3,12,"HL",2,"CR",7,"SF","45810",NA,"missing",0
+"WIL",12,"AH","Live",3,12,"HL",2,"OH",8,"HL","45812",NA,"germinated",2
+"WIL",12,"AH","Live",3,12,"HL",2,"OH",8,"HL","45812",NA,"burst",0
+"WIL",12,"AH","Live",3,12,"HL",2,"OH",8,"HL","45812",NA,"missing",0
+"SUM",12,"AH","Live",3,12,"HL",3,"OH",9,"HL","45810","mystery seed material, could be from 10th seed","germinated",0
+"SUM",12,"AH","Live",3,12,"HL",3,"OH",9,"HL","45810","mystery seed material, could be from 10th seed","burst",0
+"SUM",12,"AH","Live",3,12,"HL",3,"OH",9,"HL","45810","mystery seed material, could be from 10th seed","missing",1
+"WIL",12,"AH","Live",3,12,"HL",3,"SR",4,"HL","45812",NA,"germinated",3
+"WIL",12,"AH","Live",3,12,"HL",3,"SR",4,"HL","45812",NA,"burst",3
+"WIL",12,"AH","Live",3,12,"HL",3,"SR",4,"HL","45812",NA,"missing",0
+"SUM",13,"HR","Dead",2,13,"HL",1,"HR",5,"SF","45806",NA,"germinated",5
+"SUM",13,"HR","Dead",2,13,"HL",1,"HR",5,"SF","45806",NA,"burst",0
+"SUM",13,"HR","Dead",2,13,"HL",1,"HR",5,"SF","45806",NA,"missing",0
+"WIL",13,"HR","Dead",2,13,"HL",1,"HR",7,"SF","45811",NA,"germinated",2
+"WIL",13,"HR","Dead",2,13,"HL",1,"HR",7,"SF","45811",NA,"burst",1
+"WIL",13,"HR","Dead",2,13,"HL",1,"HR",7,"SF","45811",NA,"missing",0
+"SUM",13,"HR","Dead",2,13,"HL",2,"HG",6,"SF","45806",NA,"germinated",2
+"SUM",13,"HR","Dead",2,13,"HL",2,"HG",6,"SF","45806",NA,"burst",0
+"SUM",13,"HR","Dead",2,13,"HL",2,"HG",6,"SF","45806",NA,"missing",2
+"WIL",13,"HR","Dead",2,13,"HL",2,"HG",7,"HL","45810",NA,"germinated",3
+"WIL",13,"HR","Dead",2,13,"HL",2,"HG",7,"HL","45810",NA,"burst",0
+"WIL",13,"HR","Dead",2,13,"HL",2,"HG",7,"HL","45810",NA,"missing",0
+"SUM",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",14,"HG","Live",3,14,"HL",1,"SR",0,"SF","45799",NA,"germinated",8
+"SUM",14,"HG","Live",3,14,"HL",1,"SR",0,"SF","45799",NA,"burst",1
+"SUM",14,"HG","Live",3,14,"HL",1,"SR",0,"SF","45799",NA,"missing",1
+"WIL",14,"HG","Live",3,14,"HL",1,"OH",5,"HL","45812",NA,"germinated",5
+"WIL",14,"HG","Live",3,14,"HL",1,"OH",5,"HL","45812",NA,"burst",0
+"WIL",14,"HG","Live",3,14,"HL",1,"OH",5,"HL","45812",NA,"missing",0
+"SUM",14,"HG","Live",3,14,"HL",2,"CR",9,"SF","45799",NA,"germinated",1
+"SUM",14,"HG","Live",3,14,"HL",2,"CR",9,"SF","45799",NA,"burst",0
+"SUM",14,"HG","Live",3,14,"HL",2,"CR",9,"SF","45799",NA,"missing",0
+"WIL",14,"HG","Live",3,14,"HL",2,"CR",7,"HL","45812",NA,"germinated",2
+"WIL",14,"HG","Live",3,14,"HL",2,"CR",7,"HL","45812",NA,"burst",0
+"WIL",14,"HG","Live",3,14,"HL",2,"CR",7,"HL","45812",NA,"missing",1
+"SUM",14,"HG","Live",3,14,"HL",3,"OH",9,"SF","45799",NA,"germinated",0
+"SUM",14,"HG","Live",3,14,"HL",3,"OH",9,"SF","45799",NA,"burst",0
+"SUM",14,"HG","Live",3,14,"HL",3,"OH",9,"SF","45799",NA,"missing",1
+"WIL",14,"HG","Live",3,14,"HL",3,"SR",2,"HL","45812",NA,"germinated",8
+"WIL",14,"HG","Live",3,14,"HL",3,"SR",2,"HL","45812",NA,"burst",0
+"WIL",14,"HG","Live",3,14,"HL",3,"SR",2,"HL","45812",NA,"missing",0
+"SUM",15,"HG","Live",3,15,"HL",1,"SR",4,"SF","45799","1 intact seed fell apart","germinated",6
+"SUM",15,"HG","Live",3,15,"HL",1,"SR",4,"SF","45799","1 intact seed fell apart","burst",0
+"SUM",15,"HG","Live",3,15,"HL",1,"SR",4,"SF","45799","1 intact seed fell apart","missing",0
+"WIL",15,"HG","Live",3,15,"HL",1,"OH",8,"HL","45812",NA,"germinated",2
+"WIL",15,"HG","Live",3,15,"HL",1,"OH",8,"HL","45812",NA,"burst",0
+"WIL",15,"HG","Live",3,15,"HL",1,"OH",8,"HL","45812",NA,"missing",0
+"SUM",15,"HG","Live",3,15,"HL",2,"CR",9,"SF","45799",NA,"germinated",1
+"SUM",15,"HG","Live",3,15,"HL",2,"CR",9,"SF","45799",NA,"burst",0
+"SUM",15,"HG","Live",3,15,"HL",2,"CR",9,"SF","45799",NA,"missing",0
+"WIL",15,"HG","Live",3,15,"HL",2,"CR",7,"HL","45812",NA,"germinated",3
+"WIL",15,"HG","Live",3,15,"HL",2,"CR",7,"HL","45812",NA,"burst",0
+"WIL",15,"HG","Live",3,15,"HL",2,"CR",7,"HL","45812",NA,"missing",0
+"SUM",15,"HG","Live",3,15,"HL",3,"OH",6,"SF","45799",NA,"germinated",4
+"SUM",15,"HG","Live",3,15,"HL",3,"OH",6,"SF","45799",NA,"burst",0
+"SUM",15,"HG","Live",3,15,"HL",3,"OH",6,"SF","45799",NA,"missing",0
+"WIL",15,"HG","Live",3,15,"HL",3,"SR",2,"HL","45812",NA,"germinated",6
+"WIL",15,"HG","Live",3,15,"HL",3,"SR",2,"HL","45812",NA,"burst",2
+"WIL",15,"HG","Live",3,15,"HL",3,"SR",2,"HL","45812",NA,"missing",0
+"SUM",16,"CR","Dead",3,16,"HL",1,"CR",4,"SF","45799","1 intact soft/black","germinated",6
+"SUM",16,"CR","Dead",3,16,"HL",1,"CR",4,"SF","45799","1 intact soft/black","burst",0
+"SUM",16,"CR","Dead",3,16,"HL",1,"CR",4,"SF","45799","1 intact soft/black","missing",0
+"WIL",16,"CR","Dead",3,16,"HL",1,"AH",9,"HL","45812","intact seeds black","germinated",1
+"WIL",16,"CR","Dead",3,16,"HL",1,"AH",9,"HL","45812","intact seeds black","burst",0
+"WIL",16,"CR","Dead",3,16,"HL",1,"AH",9,"HL","45812","intact seeds black","missing",0
+"SUM",16,"CR","Dead",3,16,"HL",2,"HG",8,"SF","45799","1 intact smushed","germinated",2
+"SUM",16,"CR","Dead",3,16,"HL",2,"HG",8,"SF","45799","1 intact smushed","burst",0
+"SUM",16,"CR","Dead",3,16,"HL",2,"HG",8,"SF","45799","1 intact smushed","missing",0
+"WIL",16,"CR","Dead",3,16,"HL",2,"CR",9,"HL","45812",NA,"germinated",1
+"WIL",16,"CR","Dead",3,16,"HL",2,"CR",9,"HL","45812",NA,"burst",0
+"WIL",16,"CR","Dead",3,16,"HL",2,"CR",9,"HL","45812",NA,"missing",0
+"SUM",16,"CR","Dead",3,16,"HL",3,"AH",8,"SF","45799","1 intact smushed, 1 intact very black","germinated",2
+"SUM",16,"CR","Dead",3,16,"HL",3,"AH",8,"SF","45799","1 intact smushed, 1 intact very black","burst",0
+"SUM",16,"CR","Dead",3,16,"HL",3,"AH",8,"SF","45799","1 intact smushed, 1 intact very black","missing",0
+"WIL",16,"CR","Dead",3,16,"HL",3,"HG",7,"HL","45812",NA,"germinated",3
+"WIL",16,"CR","Dead",3,16,"HL",3,"HG",7,"HL","45812",NA,"burst",0
+"WIL",16,"CR","Dead",3,16,"HL",3,"HG",7,"HL","45812",NA,"missing",0
+"SUM",17,"HR","Dead",3,17,"HL",1,"TI",5,"SF","45806",NA,"germinated",2
+"SUM",17,"HR","Dead",3,17,"HL",1,"TI",5,"SF","45806",NA,"burst",1
+"SUM",17,"HR","Dead",3,17,"HL",1,"TI",5,"SF","45806",NA,"missing",2
+"WIL",17,"HR","Dead",3,17,"HL",1,"TI",6,"SF","45812",NA,"germinated",3
+"WIL",17,"HR","Dead",3,17,"HL",1,"TI",6,"SF","45812",NA,"burst",1
+"WIL",17,"HR","Dead",3,17,"HL",1,"TI",6,"SF","45812",NA,"missing",0
+"SUM",17,"HR","Dead",3,17,"HL",2,"NG",9,"SF","45806",NA,"germinated",0
+"SUM",17,"HR","Dead",3,17,"HL",2,"NG",9,"SF","45806",NA,"burst",1
+"SUM",17,"HR","Dead",3,17,"HL",2,"NG",9,"SF","45806",NA,"missing",0
+"WIL",17,"HR","Dead",3,17,"HL",2,"NG",8,"SF","45812",NA,"germinated",2
+"WIL",17,"HR","Dead",3,17,"HL",2,"NG",8,"SF","45812",NA,"burst",0
+"WIL",17,"HR","Dead",3,17,"HL",2,"NG",8,"SF","45812",NA,"missing",0
+"SUM",17,"HR","Dead",3,17,"HL",3,"BB",9,"SF","45806",NA,"germinated",1
+"SUM",17,"HR","Dead",3,17,"HL",3,"BB",9,"SF","45806",NA,"burst",0
+"SUM",17,"HR","Dead",3,17,"HL",3,"BB",9,"SF","45806",NA,"missing",0
+"WIL",17,"HR","Dead",3,17,"HL",3,"BB",8,"SF","45812",NA,"germinated",2
+"WIL",17,"HR","Dead",3,17,"HL",3,"BB",8,"SF","45812",NA,"burst",0
+"WIL",17,"HR","Dead",3,17,"HL",3,"BB",8,"SF","45812",NA,"missing",0
+"SUM",18,"HR","Live",2,18,"HL",1,"HR",9,"SF","45807",NA,"germinated",1
+"SUM",18,"HR","Live",2,18,"HL",1,"HR",9,"SF","45807",NA,"burst",0
+"SUM",18,"HR","Live",2,18,"HL",1,"HR",9,"SF","45807",NA,"missing",0
+"WIL",18,"HR","Live",2,18,"HL",1,"HR",6,"SF","45811",NA,"germinated",4
+"WIL",18,"HR","Live",2,18,"HL",1,"HR",6,"SF","45811",NA,"burst",0
+"WIL",18,"HR","Live",2,18,"HL",1,"HR",6,"SF","45811",NA,"missing",0
+"SUM",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45807",NA,"germinated",1
+"SUM",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45807",NA,"burst",0
+"SUM",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45807",NA,"missing",0
+"WIL",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45811","2 intact black/mushy","germinated",0
+"WIL",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45811","2 intact black/mushy","burst",0
+"WIL",18,"HR","Live",2,18,"HL",2,"HG",9,"SF","45811","2 intact black/mushy","missing",1
+"SUM",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",19,"BB","Dead",3,19,"HL",1,"BB",5,"SF","45804",NA,"germinated",5
+"SUM",19,"BB","Dead",3,19,"HL",1,"BB",5,"SF","45804",NA,"burst",0
+"SUM",19,"BB","Dead",3,19,"HL",1,"BB",5,"SF","45804",NA,"missing",0
+"WIL",19,"BB","Dead",3,19,"HL",1,"RC",1,"HL","45811",NA,"germinated",5
+"WIL",19,"BB","Dead",3,19,"HL",1,"RC",1,"HL","45811",NA,"burst",4
+"WIL",19,"BB","Dead",3,19,"HL",1,"RC",1,"HL","45811",NA,"missing",0
+"SUM",19,"BB","Dead",3,19,"HL",2,"RC",5,"SF","45804",NA,"germinated",5
+"SUM",19,"BB","Dead",3,19,"HL",2,"RC",5,"SF","45804",NA,"burst",0
+"SUM",19,"BB","Dead",3,19,"HL",2,"RC",5,"SF","45804",NA,"missing",0
+"WIL",19,"BB","Dead",3,19,"HL",2,"HR",7,"HL","45811",NA,"germinated",3
+"WIL",19,"BB","Dead",3,19,"HL",2,"HR",7,"HL","45811",NA,"burst",0
+"WIL",19,"BB","Dead",3,19,"HL",2,"HR",7,"HL","45811",NA,"missing",0
+"SUM",19,"BB","Dead",3,19,"HL",3,"HR",6,"SF","45804",NA,"germinated",4
+"SUM",19,"BB","Dead",3,19,"HL",3,"HR",6,"SF","45804",NA,"burst",0
+"SUM",19,"BB","Dead",3,19,"HL",3,"HR",6,"SF","45804",NA,"missing",0
+"WIL",19,"BB","Dead",3,19,"HL",3,"BB",4,"HL","45811",NA,"germinated",6
+"WIL",19,"BB","Dead",3,19,"HL",3,"BB",4,"HL","45811",NA,"burst",0
+"WIL",19,"BB","Dead",3,19,"HL",3,"BB",4,"HL","45811",NA,"missing",0
+"SUM",20,"SR","Dead",2,20,"HL",1,"NG",2,"TN","45826",NA,"germinated",6
+"SUM",20,"SR","Dead",2,20,"HL",1,"NG",2,"TN","45826",NA,"burst",2
+"SUM",20,"SR","Dead",2,20,"HL",1,"NG",2,"TN","45826",NA,"missing",0
+"WIL",20,"SR","Dead",2,20,"HL",1,"NG",4,"HL","45811",NA,"germinated",6
+"WIL",20,"SR","Dead",2,20,"HL",1,"NG",4,"HL","45811",NA,"burst",0
+"WIL",20,"SR","Dead",2,20,"HL",1,"NG",4,"HL","45811",NA,"missing",0
+"SUM",20,"SR","Dead",2,20,"HL",2,"BB",5,"TN","45826",NA,"germinated",5
+"SUM",20,"SR","Dead",2,20,"HL",2,"BB",5,"TN","45826",NA,"burst",0
+"SUM",20,"SR","Dead",2,20,"HL",2,"BB",5,"TN","45826",NA,"missing",0
+"WIL",20,"SR","Dead",2,20,"HL",2,"BB",3,"HL","45811",NA,"germinated",7
+"WIL",20,"SR","Dead",2,20,"HL",2,"BB",3,"HL","45811",NA,"burst",0
+"WIL",20,"SR","Dead",2,20,"HL",2,"BB",3,"HL","45811",NA,"missing",0
+"SUM",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",21,"OH","Dead",3,21,"HL",1,"OH",7,"SF","45806","1 seed landed on counter","germinated",3
+"SUM",21,"OH","Dead",3,21,"HL",1,"OH",7,"SF","45806","1 seed landed on counter","burst",0
+"SUM",21,"OH","Dead",3,21,"HL",1,"OH",7,"SF","45806","1 seed landed on counter","missing",0
+"WIL",21,"OH","Dead",3,21,"HL",1,"OH",9,"SF","45812",NA,"germinated",1
+"WIL",21,"OH","Dead",3,21,"HL",1,"OH",9,"SF","45812",NA,"burst",0
+"WIL",21,"OH","Dead",3,21,"HL",1,"OH",9,"SF","45812",NA,"missing",0
+"SUM",21,"OH","Dead",3,21,"HL",2,"HG",9,"SF","45806","1 intact has white fuzz","germinated",0
+"SUM",21,"OH","Dead",3,21,"HL",2,"HG",9,"SF","45806","1 intact has white fuzz","burst",1
+"SUM",21,"OH","Dead",3,21,"HL",2,"HG",9,"SF","45806","1 intact has white fuzz","missing",0
+"WIL",21,"OH","Dead",3,21,"HL",2,"HG",10,"SF","45812",NA,"germinated",0
+"WIL",21,"OH","Dead",3,21,"HL",2,"HG",10,"SF","45812",NA,"burst",0
+"WIL",21,"OH","Dead",3,21,"HL",2,"HG",10,"SF","45812",NA,"missing",0
+"SUM",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45806",NA,"germinated",0
+"SUM",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45806",NA,"burst",0
+"SUM",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45806",NA,"missing",0
+"WIL",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45812",NA,"germinated",0
+"WIL",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45812",NA,"burst",0
+"WIL",21,"OH","Dead",3,21,"HL",3,"AH",10,"SF","45812",NA,"missing",0
+"SUM",22,"TI","Live",3,22,"HL",1,"TI",2,"SF","45806","1 intact super shriveled","germinated",8
+"SUM",22,"TI","Live",3,22,"HL",1,"TI",2,"SF","45806","1 intact super shriveled","burst",0
+"SUM",22,"TI","Live",3,22,"HL",1,"TI",2,"SF","45806","1 intact super shriveled","missing",0
+"WIL",22,"TI","Live",3,22,"HL",1,"TI",2,"HL","45811",NA,"germinated",7
+"WIL",22,"TI","Live",3,22,"HL",1,"TI",2,"HL","45811",NA,"burst",0
+"WIL",22,"TI","Live",3,22,"HL",1,"TI",2,"HL","45811",NA,"missing",1
+"SUM",22,"TI","Live",3,22,"HL",2,"RC",1,"SF","45806",NA,"germinated",8
+"SUM",22,"TI","Live",3,22,"HL",2,"RC",1,"SF","45806",NA,"burst",0
+"SUM",22,"TI","Live",3,22,"HL",2,"RC",1,"SF","45806",NA,"missing",1
+"WIL",22,"TI","Live",3,22,"HL",2,"RC",6,"HL","45811",NA,"germinated",4
+"WIL",22,"TI","Live",3,22,"HL",2,"RC",6,"HL","45811",NA,"burst",0
+"WIL",22,"TI","Live",3,22,"HL",2,"RC",6,"HL","45811",NA,"missing",0
+"SUM",22,"TI","Live",3,22,"HL",3,"HR",6,"SF","45806",NA,"germinated",4
+"SUM",22,"TI","Live",3,22,"HL",3,"HR",6,"SF","45806",NA,"burst",0
+"SUM",22,"TI","Live",3,22,"HL",3,"HR",6,"SF","45806",NA,"missing",0
+"WIL",22,"TI","Live",3,22,"HL",3,"HR",8,"HL","45811",NA,"germinated",2
+"WIL",22,"TI","Live",3,22,"HL",3,"HR",8,"HL","45811",NA,"burst",0
+"WIL",22,"TI","Live",3,22,"HL",3,"HR",8,"HL","45811",NA,"missing",0
+"SUM",23,"OH","Live",3,23,"HL",1,"OH",3,"SF","45806",NA,"germinated",3
+"SUM",23,"OH","Live",3,23,"HL",1,"OH",3,"SF","45806",NA,"burst",0
+"SUM",23,"OH","Live",3,23,"HL",1,"OH",3,"SF","45806",NA,"missing",4
+"WIL",23,"OH","Live",3,23,"HL",1,"AH",7,"HL","45811",NA,"germinated",2
+"WIL",23,"OH","Live",3,23,"HL",1,"AH",7,"HL","45811",NA,"burst",0
+"WIL",23,"OH","Live",3,23,"HL",1,"AH",7,"HL","45811",NA,"missing",1
+"SUM",23,"OH","Live",3,23,"HL",2,"HG",6,"SF","45806",NA,"germinated",2
+"SUM",23,"OH","Live",3,23,"HL",2,"HG",6,"SF","45806",NA,"burst",0
+"SUM",23,"OH","Live",3,23,"HL",2,"HG",6,"SF","45806",NA,"missing",2
+"WIL",23,"OH","Live",3,23,"HL",2,"HG",3,"HL","45811","wet/mushy","germinated",3
+"WIL",23,"OH","Live",3,23,"HL",2,"HG",3,"HL","45811","wet/mushy","burst",0
+"WIL",23,"OH","Live",3,23,"HL",2,"HG",3,"HL","45811","wet/mushy","missing",4
+"SUM",23,"OH","Live",3,23,"HL",3,"AH",9,"SF","45806",NA,"germinated",1
+"SUM",23,"OH","Live",3,23,"HL",3,"AH",9,"SF","45806",NA,"burst",0
+"SUM",23,"OH","Live",3,23,"HL",3,"AH",9,"SF","45806",NA,"missing",0
+"WIL",23,"OH","Live",3,23,"HL",3,"OH",4,"HL","45811",NA,"germinated",6
+"WIL",23,"OH","Live",3,23,"HL",3,"OH",4,"HL","45811",NA,"burst",0
+"WIL",23,"OH","Live",3,23,"HL",3,"OH",4,"HL","45811",NA,"missing",0
+"SUM",24,"NG","Live",3,24,"HL",1,"NG",8,"SF","45806",NA,"germinated",1
+"SUM",24,"NG","Live",3,24,"HL",1,"NG",8,"SF","45806",NA,"burst",0
+"SUM",24,"NG","Live",3,24,"HL",1,"NG",8,"SF","45806",NA,"missing",1
+"WIL",24,"NG","Live",3,24,"HL",1,"RC",1,"HL","45810","very wet","germinated",8
+"WIL",24,"NG","Live",3,24,"HL",1,"RC",1,"HL","45810","very wet","burst",0
+"WIL",24,"NG","Live",3,24,"HL",1,"RC",1,"HL","45810","very wet","missing",1
+"SUM",24,"NG","Live",3,24,"HL",2,"RC",6,"SF","45806","intact shriveled","germinated",4
+"SUM",24,"NG","Live",3,24,"HL",2,"RC",6,"SF","45806","intact shriveled","burst",0
+"SUM",24,"NG","Live",3,24,"HL",2,"RC",6,"SF","45806","intact shriveled","missing",0
+"WIL",24,"NG","Live",3,24,"HL",2,"HR",3,"HL","45810",NA,"germinated",7
+"WIL",24,"NG","Live",3,24,"HL",2,"HR",3,"HL","45810",NA,"burst",0
+"WIL",24,"NG","Live",3,24,"HL",2,"HR",3,"HL","45810",NA,"missing",0
+"SUM",24,"NG","Live",3,24,"HL",3,"HR",8,"SF","45806",NA,"germinated",2
+"SUM",24,"NG","Live",3,24,"HL",3,"HR",8,"SF","45806",NA,"burst",0
+"SUM",24,"NG","Live",3,24,"HL",3,"HR",8,"SF","45806",NA,"missing",0
+"WIL",24,"NG","Live",3,24,"HL",3,"NG",4,"HL","45810",NA,"germinated",2
+"WIL",24,"NG","Live",3,24,"HL",3,"NG",4,"HL","45810",NA,"burst",3
+"WIL",24,"NG","Live",3,24,"HL",3,"NG",4,"HL","45810",NA,"missing",1
+"SUM",25,"RC","Live",3,25,"HL",1,"TI",2,"SF","45799",NA,"germinated",5
+"SUM",25,"RC","Live",3,25,"HL",1,"TI",2,"SF","45799",NA,"burst",2
+"SUM",25,"RC","Live",3,25,"HL",1,"TI",2,"SF","45799",NA,"missing",1
+"WIL",25,"RC","Live",3,25,"HL",1,"TI",3,"SF","45811","1 intact in two pieces","germinated",7
+"WIL",25,"RC","Live",3,25,"HL",1,"TI",3,"SF","45811","1 intact in two pieces","burst",0
+"WIL",25,"RC","Live",3,25,"HL",1,"TI",3,"SF","45811","1 intact in two pieces","missing",0
+"SUM",25,"RC","Live",3,25,"HL",2,"NG",2,"SF","45799","intact shriveled","germinated",8
+"SUM",25,"RC","Live",3,25,"HL",2,"NG",2,"SF","45799","intact shriveled","burst",0
+"SUM",25,"RC","Live",3,25,"HL",2,"NG",2,"SF","45799","intact shriveled","missing",0
+"WIL",25,"RC","Live",3,25,"HL",2,"NG",4,"SF","45811","extra seed","germinated",7
+"WIL",25,"RC","Live",3,25,"HL",2,"NG",4,"SF","45811","extra seed","burst",0
+"WIL",25,"RC","Live",3,25,"HL",2,"NG",4,"SF","45811","extra seed","missing",0
+"SUM",25,"RC","Live",3,25,"HL",3,"BB",3,"SF","45799",NA,"germinated",7
+"SUM",25,"RC","Live",3,25,"HL",3,"BB",3,"SF","45799",NA,"burst",0
+"SUM",25,"RC","Live",3,25,"HL",3,"BB",3,"SF","45799",NA,"missing",0
+"WIL",25,"RC","Live",3,25,"HL",3,"BB",6,"SF","45811","1 intact could be germ?","germinated",4
+"WIL",25,"RC","Live",3,25,"HL",3,"BB",6,"SF","45811","1 intact could be germ?","burst",0
+"WIL",25,"RC","Live",3,25,"HL",3,"BB",6,"SF","45811","1 intact could be germ?","missing",0
+"SUM",26,"AH","Live",2,26,"HL",1,"AH",8,"SF","45798","black ""hair"" on intact","germinated",1
+"SUM",26,"AH","Live",2,26,"HL",1,"AH",8,"SF","45798","black ""hair"" on intact","burst",0
+"SUM",26,"AH","Live",2,26,"HL",1,"AH",8,"SF","45798","black ""hair"" on intact","missing",1
+"WIL",26,"AH","Live",2,26,"HL",1,"RC",2,"HL","45811",NA,"germinated",5
+"WIL",26,"AH","Live",2,26,"HL",1,"RC",2,"HL","45811",NA,"burst",2
+"WIL",26,"AH","Live",2,26,"HL",1,"RC",2,"HL","45811",NA,"missing",1
+"SUM",26,"AH","Live",2,26,"HL",2,"RC",6,"SF","45798",NA,"germinated",1
+"SUM",26,"AH","Live",2,26,"HL",2,"RC",6,"SF","45798",NA,"burst",1
+"SUM",26,"AH","Live",2,26,"HL",2,"RC",6,"SF","45798",NA,"missing",3
+"WIL",26,"AH","Live",2,26,"HL",2,"AH",10,"HL","45811",NA,"germinated",0
+"WIL",26,"AH","Live",2,26,"HL",2,"AH",10,"HL","45811",NA,"burst",0
+"WIL",26,"AH","Live",2,26,"HL",2,"AH",10,"HL","45811",NA,"missing",0
+"SUM",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",27,"TI","Live",3,27,"HL",1,"TI",1,"SF","45804",NA,"germinated",9
+"SUM",27,"TI","Live",3,27,"HL",1,"TI",1,"SF","45804",NA,"burst",0
+"SUM",27,"TI","Live",3,27,"HL",1,"TI",1,"SF","45804",NA,"missing",0
+"WIL",27,"TI","Live",3,27,"HL",1,"HR",7,"HL","45811",NA,"germinated",3
+"WIL",27,"TI","Live",3,27,"HL",1,"HR",7,"HL","45811",NA,"burst",0
+"WIL",27,"TI","Live",3,27,"HL",1,"HR",7,"HL","45811",NA,"missing",0
+"SUM",27,"TI","Live",3,27,"HL",2,"RC",8,"SF","45804",NA,"germinated",1
+"SUM",27,"TI","Live",3,27,"HL",2,"RC",8,"SF","45804",NA,"burst",0
+"SUM",27,"TI","Live",3,27,"HL",2,"RC",8,"SF","45804",NA,"missing",0
+"WIL",27,"TI","Live",3,27,"HL",2,"TO",5,"HL","45811",NA,"germinated",5
+"WIL",27,"TI","Live",3,27,"HL",2,"TO",5,"HL","45811",NA,"burst",0
+"WIL",27,"TI","Live",3,27,"HL",2,"TO",5,"HL","45811",NA,"missing",0
+"SUM",27,"TI","Live",3,27,"HL",3,"HR",3,"SF","45804",NA,"germinated",7
+"SUM",27,"TI","Live",3,27,"HL",3,"HR",3,"SF","45804",NA,"burst",0
+"SUM",27,"TI","Live",3,27,"HL",3,"HR",3,"SF","45804",NA,"missing",0
+"WIL",27,"TI","Live",3,27,"HL",3,"RC",5,"HL","45811",NA,"germinated",3
+"WIL",27,"TI","Live",3,27,"HL",3,"RC",5,"HL","45811",NA,"burst",2
+"WIL",27,"TI","Live",3,27,"HL",3,"RC",5,"HL","45811",NA,"missing",0
+"SUM",28,"HG","Live",3,28,"HL",1,"SR",2,"SF","45798","bag not sealed","germinated",4
+"SUM",28,"HG","Live",3,28,"HL",1,"SR",2,"SF","45798","bag not sealed","burst",0
+"SUM",28,"HG","Live",3,28,"HL",1,"SR",2,"SF","45798","bag not sealed","missing",4
+"WIL",28,"HG","Live",3,28,"HL",1,"OH",5,"HL","45810",NA,"germinated",3
+"WIL",28,"HG","Live",3,28,"HL",1,"OH",5,"HL","45810",NA,"burst",1
+"WIL",28,"HG","Live",3,28,"HL",1,"OH",5,"HL","45810",NA,"missing",1
+"SUM",28,"HG","Live",3,28,"HL",2,"CR",6,"SF","45798",NA,"germinated",4
+"SUM",28,"HG","Live",3,28,"HL",2,"CR",6,"SF","45798",NA,"burst",0
+"SUM",28,"HG","Live",3,28,"HL",2,"CR",6,"SF","45798",NA,"missing",0
+"WIL",28,"HG","Live",3,28,"HL",2,"SR",3,"HL","45810","extra weird bag, had to guess a little bit","germinated",1
+"WIL",28,"HG","Live",3,28,"HL",2,"SR",3,"HL","45810","extra weird bag, had to guess a little bit","burst",5
+"WIL",28,"HG","Live",3,28,"HL",2,"SR",3,"HL","45810","extra weird bag, had to guess a little bit","missing",1
+"SUM",28,"HG","Live",3,28,"HL",3,"OH",7,"SF","45798",NA,"germinated",2
+"SUM",28,"HG","Live",3,28,"HL",3,"OH",7,"SF","45798",NA,"burst",0
+"SUM",28,"HG","Live",3,28,"HL",3,"OH",7,"SF","45798",NA,"missing",1
+"WIL",28,"HG","Live",3,28,"HL",3,"CR",8,"HL","45810",NA,"germinated",0
+"WIL",28,"HG","Live",3,28,"HL",3,"CR",8,"HL","45810",NA,"burst",1
+"WIL",28,"HG","Live",3,28,"HL",3,"CR",8,"HL","45810",NA,"missing",1
+"SUM",29,"AH","Dead",2,29,"HL",1,"AH",5,"SF","45798",NA,"germinated",5
+"SUM",29,"AH","Dead",2,29,"HL",1,"AH",5,"SF","45798",NA,"burst",0
+"SUM",29,"AH","Dead",2,29,"HL",1,"AH",5,"SF","45798",NA,"missing",0
+"WIL",29,"AH","Dead",2,29,"HL",1,"AH",7,"SF","45811","1 intact landed on counter, white dots","germinated",3
+"WIL",29,"AH","Dead",2,29,"HL",1,"AH",7,"SF","45811","1 intact landed on counter, white dots","burst",0
+"WIL",29,"AH","Dead",2,29,"HL",1,"AH",7,"SF","45811","1 intact landed on counter, white dots","missing",0
+"SUM",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45798","1 intact shriveled","germinated",8
+"SUM",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45798","1 intact shriveled","burst",0
+"SUM",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45798","1 intact shriveled","missing",0
+"WIL",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45811","1 intact shriveled","germinated",8
+"WIL",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45811","1 intact shriveled","burst",0
+"WIL",29,"AH","Dead",2,29,"HL",2,"RC",2,"SF","45811","1 intact shriveled","missing",0
+"SUM",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",30,"CR","Live",2,30,"HL",1,"TI",6,"SF","45798","intact super shriveled","germinated",4
+"SUM",30,"CR","Live",2,30,"HL",1,"TI",6,"SF","45798","intact super shriveled","burst",0
+"SUM",30,"CR","Live",2,30,"HL",1,"TI",6,"SF","45798","intact super shriveled","missing",0
+"WIL",30,"CR","Live",2,30,"HL",1,"BB",5,"HL","45810",NA,"germinated",5
+"WIL",30,"CR","Live",2,30,"HL",1,"BB",5,"HL","45810",NA,"burst",0
+"WIL",30,"CR","Live",2,30,"HL",1,"BB",5,"HL","45810",NA,"missing",0
+"SUM",30,"CR","Live",2,30,"HL",2,"BB",1,"SF","45798",NA,"germinated",9
+"SUM",30,"CR","Live",2,30,"HL",2,"BB",1,"SF","45798",NA,"burst",0
+"SUM",30,"CR","Live",2,30,"HL",2,"BB",1,"SF","45798",NA,"missing",0
+"WIL",30,"CR","Live",2,30,"HL",2,"TI",3,"HL","45810","weird","germinated",7
+"WIL",30,"CR","Live",2,30,"HL",2,"TI",3,"HL","45810","weird","burst",0
+"WIL",30,"CR","Live",2,30,"HL",2,"TI",3,"HL","45810","weird","missing",0
+"SUM",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",31,"SR","Live",2,31,"HL",1,"NG",1,"SF","45798",NA,"germinated",8
+"SUM",31,"SR","Live",2,31,"HL",1,"NG",1,"SF","45798",NA,"burst",0
+"SUM",31,"SR","Live",2,31,"HL",1,"NG",1,"SF","45798",NA,"missing",1
+"WIL",31,"SR","Live",2,31,"HL",1,"missing",NA,NA,NA,NA,"germinated",NA
+"WIL",31,"SR","Live",2,31,"HL",1,"missing",NA,NA,NA,NA,"burst",NA
+"WIL",31,"SR","Live",2,31,"HL",1,"missing",NA,NA,NA,NA,"missing",NA
+"SUM",31,"SR","Live",2,31,"HL",2,"BB",0,"SF","45798",NA,"germinated",0
+"SUM",31,"SR","Live",2,31,"HL",2,"BB",0,"SF","45798",NA,"burst",0
+"SUM",31,"SR","Live",2,31,"HL",2,"BB",0,"SF","45798",NA,"missing",0
+"WIL",31,"SR","Live",2,31,"HL",2,"missing",NA,NA,NA,NA,"germinated",NA
+"WIL",31,"SR","Live",2,31,"HL",2,"missing",NA,NA,NA,NA,"burst",NA
+"WIL",31,"SR","Live",2,31,"HL",2,"missing",NA,NA,NA,NA,"missing",NA
+"SUM",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",32,"NG","Dead",3,32,"HL",1,"NG",2,"SF","45804","extra seeds","germinated",9
+"SUM",32,"NG","Dead",3,32,"HL",1,"NG",2,"SF","45804","extra seeds","burst",0
+"SUM",32,"NG","Dead",3,32,"HL",1,"NG",2,"SF","45804","extra seeds","missing",0
+"WIL",32,"NG","Dead",3,32,"HL",1,"RC",3,"HL","45812",NA,"germinated",3
+"WIL",32,"NG","Dead",3,32,"HL",1,"RC",3,"HL","45812",NA,"burst",4
+"WIL",32,"NG","Dead",3,32,"HL",1,"RC",3,"HL","45812",NA,"missing",0
+"SUM",32,"NG","Dead",3,32,"HL",2,"RC",1,"SF","45804",NA,"germinated",7
+"SUM",32,"NG","Dead",3,32,"HL",2,"RC",1,"SF","45804",NA,"burst",0
+"SUM",32,"NG","Dead",3,32,"HL",2,"RC",1,"SF","45804",NA,"missing",2
+"WIL",32,"NG","Dead",3,32,"HL",2,"HR",4,"HL","45811","1 intact broken","germinated",6
+"WIL",32,"NG","Dead",3,32,"HL",2,"HR",4,"HL","45811","1 intact broken","burst",0
+"WIL",32,"NG","Dead",3,32,"HL",2,"HR",4,"HL","45811","1 intact broken","missing",0
+"SUM",32,"NG","Dead",3,32,"HL",3,"HR",4,"SF","45804",NA,"germinated",6
+"SUM",32,"NG","Dead",3,32,"HL",3,"HR",4,"SF","45804",NA,"burst",0
+"SUM",32,"NG","Dead",3,32,"HL",3,"HR",4,"SF","45804",NA,"missing",0
+"WIL",32,"NG","Dead",3,32,"HL",3,"NG",7,"HL","45812",NA,"germinated",3
+"WIL",32,"NG","Dead",3,32,"HL",3,"NG",7,"HL","45812",NA,"burst",0
+"WIL",32,"NG","Dead",3,32,"HL",3,"NG",7,"HL","45812",NA,"missing",0
+"SUM",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45798",NA,"germinated",6
+"SUM",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45798",NA,"burst",0
+"SUM",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45798",NA,"missing",1
+"WIL",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45811",NA,"germinated",6
+"WIL",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45811",NA,"burst",0
+"WIL",33,"SR","Dead",3,33,"HL",1,"SR",3,"SF","45811",NA,"missing",1
+"SUM",33,"SR","Dead",3,33,"HL",2,"HG",10,"SF","45798",NA,"germinated",0
+"SUM",33,"SR","Dead",3,33,"HL",2,"HG",10,"SF","45798",NA,"burst",0
+"SUM",33,"SR","Dead",3,33,"HL",2,"HG",10,"SF","45798",NA,"missing",0
+"WIL",33,"SR","Dead",3,33,"HL",2,"HG",5,"SF","45811",NA,"germinated",4
+"WIL",33,"SR","Dead",3,33,"HL",2,"HG",5,"SF","45811",NA,"burst",1
+"WIL",33,"SR","Dead",3,33,"HL",2,"HG",5,"SF","45811",NA,"missing",0
+"SUM",33,"SR","Dead",3,33,"HL",3,"AH",10,"SF","45804",NA,"germinated",0
+"SUM",33,"SR","Dead",3,33,"HL",3,"AH",10,"SF","45804",NA,"burst",0
+"SUM",33,"SR","Dead",3,33,"HL",3,"AH",10,"SF","45804",NA,"missing",0
+"WIL",33,"SR","Dead",3,33,"HL",3,"AH",9,"SF","45811",NA,"germinated",1
+"WIL",33,"SR","Dead",3,33,"HL",3,"AH",9,"SF","45811",NA,"burst",0
+"WIL",33,"SR","Dead",3,33,"HL",3,"AH",9,"SF","45811",NA,"missing",0
+"SUM",34,"HG","Dead",3,34,"HL",1,"SR",3,"SF","45806","1 intact could be germ","germinated",7
+"SUM",34,"HG","Dead",3,34,"HL",1,"SR",3,"SF","45806","1 intact could be germ","burst",0
+"SUM",34,"HG","Dead",3,34,"HL",1,"SR",3,"SF","45806","1 intact could be germ","missing",0
+"WIL",34,"HG","Dead",3,34,"HL",1,"SR",1,"SF","45810",NA,"germinated",8
+"WIL",34,"HG","Dead",3,34,"HL",1,"SR",1,"SF","45810",NA,"burst",1
+"WIL",34,"HG","Dead",3,34,"HL",1,"SR",1,"SF","45810",NA,"missing",0
+"SUM",34,"HG","Dead",3,34,"HL",2,"CR",9,"SF","45806",NA,"germinated",0
+"SUM",34,"HG","Dead",3,34,"HL",2,"CR",9,"SF","45806",NA,"burst",0
+"SUM",34,"HG","Dead",3,34,"HL",2,"CR",9,"SF","45806",NA,"missing",1
+"WIL",34,"HG","Dead",3,34,"HL",2,"CR",6,"SF","45810",NA,"germinated",3
+"WIL",34,"HG","Dead",3,34,"HL",2,"CR",6,"SF","45810",NA,"burst",0
+"WIL",34,"HG","Dead",3,34,"HL",2,"CR",6,"SF","45810",NA,"missing",1
+"SUM",34,"HG","Dead",3,34,"HL",3,"OH",10,"SF","45798","1 intact could be germ","germinated",0
+"SUM",34,"HG","Dead",3,34,"HL",3,"OH",10,"SF","45798","1 intact could be germ","burst",0
+"SUM",34,"HG","Dead",3,34,"HL",3,"OH",10,"SF","45798","1 intact could be germ","missing",0
+"WIL",34,"HG","Dead",3,34,"HL",3,"OH",2,"SF","45810",NA,"germinated",4
+"WIL",34,"HG","Dead",3,34,"HL",3,"OH",2,"SF","45810",NA,"burst",1
+"WIL",34,"HG","Dead",3,34,"HL",3,"OH",2,"SF","45810",NA,"missing",3
+"SUM",35,"RC","Dead",2,35,"HL",1,"AH",8,"SF","45799",NA,"germinated",2
+"SUM",35,"RC","Dead",2,35,"HL",1,"AH",8,"SF","45799",NA,"burst",0
+"SUM",35,"RC","Dead",2,35,"HL",1,"AH",8,"SF","45799",NA,"missing",0
+"WIL",35,"RC","Dead",2,35,"HL",1,"RC",7,"SF","45804",NA,"germinated",2
+"WIL",35,"RC","Dead",2,35,"HL",1,"RC",7,"SF","45804",NA,"burst",1
+"WIL",35,"RC","Dead",2,35,"HL",1,"RC",7,"SF","45804",NA,"missing",0
+"SUM",35,"RC","Dead",2,35,"HL",2,"RC",1,"SF","45799",NA,"germinated",9
+"SUM",35,"RC","Dead",2,35,"HL",2,"RC",1,"SF","45799",NA,"burst",0
+"SUM",35,"RC","Dead",2,35,"HL",2,"RC",1,"SF","45799",NA,"missing",0
+"WIL",35,"RC","Dead",2,35,"HL",2,"AH",10,"SF","45804",NA,"germinated",0
+"WIL",35,"RC","Dead",2,35,"HL",2,"AH",10,"SF","45804",NA,"burst",0
+"WIL",35,"RC","Dead",2,35,"HL",2,"AH",10,"SF","45804",NA,"missing",0
+"SUM",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",36,"HG","Live",2,36,"HL",1,"HR",5,"SF","45799",NA,"germinated",4
+"SUM",36,"HG","Live",2,36,"HL",1,"HR",5,"SF","45799",NA,"burst",0
+"SUM",36,"HG","Live",2,36,"HL",1,"HR",5,"SF","45799",NA,"missing",1
+"WIL",36,"HG","Live",2,36,"HL",1,"HR",9,"HL","45810",NA,"germinated",1
+"WIL",36,"HG","Live",2,36,"HL",1,"HR",9,"HL","45810",NA,"burst",0
+"WIL",36,"HG","Live",2,36,"HL",1,"HR",9,"HL","45810",NA,"missing",0
+"SUM",36,"HG","Live",2,36,"HL",2,"HG",4,"SF","45799",NA,"germinated",3
+"SUM",36,"HG","Live",2,36,"HL",2,"HG",4,"SF","45799",NA,"burst",3
+"SUM",36,"HG","Live",2,36,"HL",2,"HG",4,"SF","45799",NA,"missing",0
+"WIL",36,"HG","Live",2,36,"HL",2,"HG",10,"HL","45810",NA,"germinated",0
+"WIL",36,"HG","Live",2,36,"HL",2,"HG",10,"HL","45810",NA,"burst",0
+"WIL",36,"HG","Live",2,36,"HL",2,"HG",10,"HL","45810",NA,"missing",0
+"SUM",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",37,"CR","Live",3,37,"HL",1,"CR",4,"SF","45799",NA,"germinated",6
+"SUM",37,"CR","Live",3,37,"HL",1,"CR",4,"SF","45799",NA,"burst",0
+"SUM",37,"CR","Live",3,37,"HL",1,"CR",4,"SF","45799",NA,"missing",0
+"WIL",37,"CR","Live",3,37,"HL",1,"HG",3,"HL","45810",NA,"germinated",5
+"WIL",37,"CR","Live",3,37,"HL",1,"HG",3,"HL","45810",NA,"burst",2
+"WIL",37,"CR","Live",3,37,"HL",1,"HG",3,"HL","45810",NA,"missing",0
+"SUM",37,"CR","Live",3,37,"HL",2,"HG",8,"SF","45799","intact are very shriveled","germinated",2
+"SUM",37,"CR","Live",3,37,"HL",2,"HG",8,"SF","45799","intact are very shriveled","burst",0
+"SUM",37,"CR","Live",3,37,"HL",2,"HG",8,"SF","45799","intact are very shriveled","missing",0
+"WIL",37,"CR","Live",3,37,"HL",2,"AH",7,"HL","45810","dropped 1 of the intact","germinated",3
+"WIL",37,"CR","Live",3,37,"HL",2,"AH",7,"HL","45810","dropped 1 of the intact","burst",0
+"WIL",37,"CR","Live",3,37,"HL",2,"AH",7,"HL","45810","dropped 1 of the intact","missing",0
+"SUM",37,"CR","Live",3,37,"HL",3,"AH",9,"SF","45799","1 intact seed fell apart","germinated",0
+"SUM",37,"CR","Live",3,37,"HL",3,"AH",9,"SF","45799","1 intact seed fell apart","burst",0
+"SUM",37,"CR","Live",3,37,"HL",3,"AH",9,"SF","45799","1 intact seed fell apart","missing",1
+"WIL",37,"CR","Live",3,37,"HL",3,"CR",6,"HL","45810",NA,"germinated",4
+"WIL",37,"CR","Live",3,37,"HL",3,"CR",6,"HL","45810",NA,"burst",0
+"WIL",37,"CR","Live",3,37,"HL",3,"CR",6,"HL","45810",NA,"missing",0
+"SUM",38,"AH","Dead",3,38,"HL",1,"SR",4,"SF","45806",NA,"germinated",6
+"SUM",38,"AH","Dead",3,38,"HL",1,"SR",4,"SF","45806",NA,"burst",0
+"SUM",38,"AH","Dead",3,38,"HL",1,"SR",4,"SF","45806",NA,"missing",0
+"WIL",38,"AH","Dead",3,38,"HL",1,"SR",6,"SF","45811",NA,"germinated",4
+"WIL",38,"AH","Dead",3,38,"HL",1,"SR",6,"SF","45811",NA,"burst",0
+"WIL",38,"AH","Dead",3,38,"HL",1,"SR",6,"SF","45811",NA,"missing",0
+"SUM",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45806",NA,"germinated",2
+"SUM",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45806",NA,"burst",0
+"SUM",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45806",NA,"missing",0
+"WIL",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45811",NA,"germinated",2
+"WIL",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45811",NA,"burst",0
+"WIL",38,"AH","Dead",3,38,"HL",2,"CR",8,"SF","45811",NA,"missing",0
+"SUM",38,"AH","Dead",3,38,"HL",3,"OH",5,"SF","45806",NA,"germinated",5
+"SUM",38,"AH","Dead",3,38,"HL",3,"OH",5,"SF","45806",NA,"burst",0
+"SUM",38,"AH","Dead",3,38,"HL",3,"OH",5,"SF","45806",NA,"missing",0
+"WIL",38,"AH","Dead",3,38,"HL",3,"OH",8,"SF","45811","some seeds sealed in hot glue","germinated",1
+"WIL",38,"AH","Dead",3,38,"HL",3,"OH",8,"SF","45811","some seeds sealed in hot glue","burst",0
+"WIL",38,"AH","Dead",3,38,"HL",3,"OH",8,"SF","45811","some seeds sealed in hot glue","missing",1
+"SUM",39,"CR","Live",3,39,"HL",1,"CR",6,"SF","45804",NA,"germinated",4
+"SUM",39,"CR","Live",3,39,"HL",1,"CR",6,"SF","45804",NA,"burst",0
+"SUM",39,"CR","Live",3,39,"HL",1,"CR",6,"SF","45804",NA,"missing",0
+"WIL",39,"CR","Live",3,39,"HL",1,"CR",5,"HL","45811",NA,"germinated",3
+"WIL",39,"CR","Live",3,39,"HL",1,"CR",5,"HL","45811",NA,"burst",2
+"WIL",39,"CR","Live",3,39,"HL",1,"CR",5,"HL","45811",NA,"missing",0
+"SUM",39,"CR","Live",3,39,"HL",2,"HG",5,"SF","45804",NA,"germinated",3
+"SUM",39,"CR","Live",3,39,"HL",2,"HG",5,"SF","45804",NA,"burst",0
+"SUM",39,"CR","Live",3,39,"HL",2,"HG",5,"SF","45804",NA,"missing",2
+"WIL",39,"CR","Live",3,39,"HL",2,"HG",5,"HL","45811",NA,"germinated",4
+"WIL",39,"CR","Live",3,39,"HL",2,"HG",5,"HL","45811",NA,"burst",1
+"WIL",39,"CR","Live",3,39,"HL",2,"HG",5,"HL","45811",NA,"missing",0
+"SUM",39,"CR","Live",3,39,"HL",3,"AH",7,"SF","45804",NA,"germinated",3
+"SUM",39,"CR","Live",3,39,"HL",3,"AH",7,"SF","45804",NA,"burst",0
+"SUM",39,"CR","Live",3,39,"HL",3,"AH",7,"SF","45804",NA,"missing",0
+"WIL",39,"CR","Live",3,39,"HL",3,"AH",9,"HL","45811",NA,"germinated",2
+"WIL",39,"CR","Live",3,39,"HL",3,"AH",9,"HL","45811",NA,"burst",0
+"WIL",39,"CR","Live",3,39,"HL",3,"AH",9,"HL","45811",NA,"missing",0
+"SUM",40,"AH","Live",3,40,"HL",1,"SR",5,"SF","45806","intact seeds mushy","germinated",5
+"SUM",40,"AH","Live",3,40,"HL",1,"SR",5,"SF","45806","intact seeds mushy","burst",0
+"SUM",40,"AH","Live",3,40,"HL",1,"SR",5,"SF","45806","intact seeds mushy","missing",0
+"WIL",40,"AH","Live",3,40,"HL",1,"SR",8,"SF","45812","1 extra seed","germinated",3
+"WIL",40,"AH","Live",3,40,"HL",1,"SR",8,"SF","45812","1 extra seed","burst",0
+"WIL",40,"AH","Live",3,40,"HL",1,"SR",8,"SF","45812","1 extra seed","missing",0
+"SUM",40,"AH","Live",3,40,"HL",2,"CR",8,"SF","45806",NA,"germinated",2
+"SUM",40,"AH","Live",3,40,"HL",2,"CR",8,"SF","45806",NA,"burst",0
+"SUM",40,"AH","Live",3,40,"HL",2,"CR",8,"SF","45806",NA,"missing",0
+"WIL",40,"AH","Live",3,40,"HL",2,"CR",6,"SF","45812",NA,"germinated",3
+"WIL",40,"AH","Live",3,40,"HL",2,"CR",6,"SF","45812",NA,"burst",0
+"WIL",40,"AH","Live",3,40,"HL",2,"CR",6,"SF","45812",NA,"missing",1
+"SUM",40,"AH","Live",3,40,"HL",3,"OH",8,"SF","45806",NA,"germinated",2
+"SUM",40,"AH","Live",3,40,"HL",3,"OH",8,"SF","45806",NA,"burst",0
+"SUM",40,"AH","Live",3,40,"HL",3,"OH",8,"SF","45806",NA,"missing",0
+"WIL",40,"AH","Live",3,40,"HL",3,"OH",6,"SF","45812",NA,"germinated",3
+"WIL",40,"AH","Live",3,40,"HL",3,"OH",6,"SF","45812",NA,"burst",0
+"WIL",40,"AH","Live",3,40,"HL",3,"OH",6,"SF","45812",NA,"missing",1
+"SUM",41,"HR","Live",2,41,"HL",1,"HR",5,"TN","45825",NA,"germinated",4
+"SUM",41,"HR","Live",2,41,"HL",1,"HR",5,"TN","45825",NA,"burst",1
+"SUM",41,"HR","Live",2,41,"HL",1,"HR",5,"TN","45825",NA,"missing",0
+"WIL",41,"HR","Live",2,41,"HL",1,"HR",4,"TN","45827",NA,"germinated",5
+"WIL",41,"HR","Live",2,41,"HL",1,"HR",4,"TN","45827",NA,"burst",1
+"WIL",41,"HR","Live",2,41,"HL",1,"HR",4,"TN","45827",NA,"missing",0
+"SUM",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45825","bag was open","germinated",3
+"SUM",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45825","bag was open","burst",2
+"SUM",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45825","bag was open","missing",0
+"WIL",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45827",NA,"germinated",1
+"WIL",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45827",NA,"burst",2
+"WIL",41,"HR","Live",2,41,"HL",2,"HG",7,"TN","45827",NA,"missing",0
+"SUM",41,"HR","Live",2,41,"HL",3,NA,NA,"TN",NA,NA,"germinated",NA
+"SUM",41,"HR","Live",2,41,"HL",3,NA,NA,"TN",NA,NA,"burst",NA
+"SUM",41,"HR","Live",2,41,"HL",3,NA,NA,"TN",NA,NA,"missing",NA
+"WIL",41,"HR","Live",2,41,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",41,"HR","Live",2,41,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",41,"HR","Live",2,41,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",42,"SR","Live",3,42,"HL",1,"SR",1,"TN","45825",NA,"germinated",7
+"SUM",42,"SR","Live",3,42,"HL",1,"SR",1,"TN","45825",NA,"burst",2
+"SUM",42,"SR","Live",3,42,"HL",1,"SR",1,"TN","45825",NA,"missing",0
+"WIL",42,"SR","Live",3,42,"HL",1,"SR",0,"TN","45827",NA,"germinated",8
+"WIL",42,"SR","Live",3,42,"HL",1,"SR",0,"TN","45827",NA,"burst",2
+"WIL",42,"SR","Live",3,42,"HL",1,"SR",0,"TN","45827",NA,"missing",0
+"SUM",42,"SR","Live",3,42,"HL",2,"HG",7,"TN","45825",NA,"germinated",1
+"SUM",42,"SR","Live",3,42,"HL",2,"HG",7,"TN","45825",NA,"burst",7
+"SUM",42,"SR","Live",3,42,"HL",2,"HG",7,"TN","45825",NA,"missing",0
+"WIL",42,"SR","Live",3,42,"HL",2,"HG",5,"TN","45827",NA,"germinated",5
+"WIL",42,"SR","Live",3,42,"HL",2,"HG",5,"TN","45827",NA,"burst",0
+"WIL",42,"SR","Live",3,42,"HL",2,"HG",5,"TN","45827",NA,"missing",0
+"SUM",42,"SR","Live",3,42,"HL",3,"AH",9,"TN","45825",NA,"germinated",0
+"SUM",42,"SR","Live",3,42,"HL",3,"AH",9,"TN","45825",NA,"burst",0
+"SUM",42,"SR","Live",3,42,"HL",3,"AH",9,"TN","45825",NA,"missing",1
+"WIL",42,"SR","Live",3,42,"HL",3,"AH",5,"TN","45827",NA,"germinated",2
+"WIL",42,"SR","Live",3,42,"HL",3,"AH",5,"TN","45827",NA,"burst",0
+"WIL",42,"SR","Live",3,42,"HL",3,"AH",5,"TN","45827",NA,"missing",3
+"SUM",43,"OH","Live",2,43,"HL",1,"TI",4,"TN","45825",NA,"germinated",5
+"SUM",43,"OH","Live",2,43,"HL",1,"TI",4,"TN","45825",NA,"burst",1
+"SUM",43,"OH","Live",2,43,"HL",1,"TI",4,"TN","45825",NA,"missing",0
+"WIL",43,"OH","Live",2,43,"HL",1,"TI",2,"TN","45827",NA,"germinated",5
+"WIL",43,"OH","Live",2,43,"HL",1,"TI",2,"TN","45827",NA,"burst",3
+"WIL",43,"OH","Live",2,43,"HL",1,"TI",2,"TN","45827",NA,"missing",0
+"SUM",43,"OH","Live",2,43,"HL",2,"NG",0,"TN","45825",NA,"germinated",3
+"SUM",43,"OH","Live",2,43,"HL",2,"NG",0,"TN","45825",NA,"burst",0
+"SUM",43,"OH","Live",2,43,"HL",2,"NG",0,"TN","45825",NA,"missing",0
+"WIL",43,"OH","Live",2,43,"HL",2,"NG",7,"TN","45827","lost 1 intact seed","germinated",3
+"WIL",43,"OH","Live",2,43,"HL",2,"NG",7,"TN","45827","lost 1 intact seed","burst",0
+"WIL",43,"OH","Live",2,43,"HL",2,"NG",7,"TN","45827","lost 1 intact seed","missing",0
+"SUM",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",44,"NG","Live",2,44,"HL",1,"SR",8,"TN","45825",NA,"germinated",2
+"SUM",44,"NG","Live",2,44,"HL",1,"SR",8,"TN","45825",NA,"burst",0
+"SUM",44,"NG","Live",2,44,"HL",1,"SR",8,"TN","45825",NA,"missing",0
+"WIL",44,"NG","Live",2,44,"HL",1,"SR",6,"TN","45827",NA,"germinated",4
+"WIL",44,"NG","Live",2,44,"HL",1,"SR",6,"TN","45827",NA,"burst",0
+"WIL",44,"NG","Live",2,44,"HL",1,"SR",6,"TN","45827",NA,"missing",0
+"SUM",44,"NG","Live",2,44,"HL",2,"OH",10,"TN","45825",NA,"germinated",0
+"SUM",44,"NG","Live",2,44,"HL",2,"OH",10,"TN","45825",NA,"burst",0
+"SUM",44,"NG","Live",2,44,"HL",2,"OH",10,"TN","45825",NA,"missing",0
+"WIL",44,"NG","Live",2,44,"HL",2,"OH",7,"TN","45827",NA,"germinated",3
+"WIL",44,"NG","Live",2,44,"HL",2,"OH",7,"TN","45827",NA,"burst",0
+"WIL",44,"NG","Live",2,44,"HL",2,"OH",7,"TN","45827",NA,"missing",0
+"SUM",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45825",NA,"germinated",9
+"SUM",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45825",NA,"burst",1
+"SUM",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45825",NA,"missing",0
+"WIL",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45827",NA,"germinated",10
+"WIL",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45827",NA,"burst",0
+"WIL",45,"RC","Live",2,45,"HL",1,"RC",0,"TN","45827",NA,"missing",0
+"SUM",45,"RC","Live",2,45,"HL",2,"AH",9,"TN","45825",NA,"germinated",1
+"SUM",45,"RC","Live",2,45,"HL",2,"AH",9,"TN","45825",NA,"burst",0
+"SUM",45,"RC","Live",2,45,"HL",2,"AH",9,"TN","45825",NA,"missing",0
+"WIL",45,"RC","Live",2,45,"HL",2,"AH",6,"TN","45827",NA,"germinated",3
+"WIL",45,"RC","Live",2,45,"HL",2,"AH",6,"TN","45827",NA,"burst",1
+"WIL",45,"RC","Live",2,45,"HL",2,"AH",6,"TN","45827",NA,"missing",0
+"SUM",45,"RC","Live",2,45,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",45,"RC","Live",2,45,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",45,"RC","Live",2,45,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",45,"RC","Live",2,45,"HL",3,"CR",8,"TN","45827","extra bag not labeled on whirl pak","germinated",2
+"WIL",45,"RC","Live",2,45,"HL",3,"CR",8,"TN","45827","extra bag not labeled on whirl pak","burst",0
+"WIL",45,"RC","Live",2,45,"HL",3,"CR",8,"TN","45827","extra bag not labeled on whirl pak","missing",0
+"SUM",46,"BB","Dead",2,46,"HL",1,"SR",8,"TN","45826",NA,"germinated",1
+"SUM",46,"BB","Dead",2,46,"HL",1,"SR",8,"TN","45826",NA,"burst",1
+"SUM",46,"BB","Dead",2,46,"HL",1,"SR",8,"TN","45826",NA,"missing",0
+"WIL",46,"BB","Dead",2,46,"HL",1,"SR",4,"TN","45827",NA,"germinated",5
+"WIL",46,"BB","Dead",2,46,"HL",1,"SR",4,"TN","45827",NA,"burst",1
+"WIL",46,"BB","Dead",2,46,"HL",1,"SR",4,"TN","45827",NA,"missing",0
+"SUM",46,"BB","Dead",2,46,"HL",2,"CR",7,"TN","45826",NA,"germinated",3
+"SUM",46,"BB","Dead",2,46,"HL",2,"CR",7,"TN","45826",NA,"burst",0
+"SUM",46,"BB","Dead",2,46,"HL",2,"CR",7,"TN","45826",NA,"missing",0
+"WIL",46,"BB","Dead",2,46,"HL",2,"CR",6,"TN","45827",NA,"germinated",2
+"WIL",46,"BB","Dead",2,46,"HL",2,"CR",6,"TN","45827",NA,"burst",2
+"WIL",46,"BB","Dead",2,46,"HL",2,"CR",6,"TN","45827",NA,"missing",0
+"SUM",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",47,"HR","Dead",2,47,"HL",1,"HG",8,"HL","45845",NA,"germinated",2
+"SUM",47,"HR","Dead",2,47,"HL",1,"HG",8,"HL","45845",NA,"burst",0
+"SUM",47,"HR","Dead",2,47,"HL",1,"HG",8,"HL","45845",NA,"missing",0
+"WIL",47,"HR","Dead",2,47,"HL",1,"HR",7,"TN","45827",NA,"germinated",0
+"WIL",47,"HR","Dead",2,47,"HL",1,"HR",7,"TN","45827",NA,"burst",3
+"WIL",47,"HR","Dead",2,47,"HL",1,"HR",7,"TN","45827",NA,"missing",0
+"SUM",47,"HR","Dead",2,47,"HL",2,"HR",9,"HL","45845",NA,"germinated",0
+"SUM",47,"HR","Dead",2,47,"HL",2,"HR",9,"HL","45845",NA,"burst",0
+"SUM",47,"HR","Dead",2,47,"HL",2,"HR",9,"HL","45845",NA,"missing",1
+"WIL",47,"HR","Dead",2,47,"HL",2,"HG",5,"TN","45827",NA,"germinated",5
+"WIL",47,"HR","Dead",2,47,"HL",2,"HG",5,"TN","45827",NA,"burst",0
+"WIL",47,"HR","Dead",2,47,"HL",2,"HG",5,"TN","45827",NA,"missing",0
+"SUM",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",48,"OH","Live",3,48,"HL",1,"OH",7,"TN","45825",NA,"germinated",3
+"SUM",48,"OH","Live",3,48,"HL",1,"OH",7,"TN","45825",NA,"burst",0
+"SUM",48,"OH","Live",3,48,"HL",1,"OH",7,"TN","45825",NA,"missing",0
+"WIL",48,"OH","Live",3,48,"HL",1,"OH",6,"TN","45827",NA,"germinated",0
+"WIL",48,"OH","Live",3,48,"HL",1,"OH",6,"TN","45827",NA,"burst",4
+"WIL",48,"OH","Live",3,48,"HL",1,"OH",6,"TN","45827",NA,"missing",0
+"SUM",48,"OH","Live",3,48,"HL",2,"HG",8,"TN","45825",NA,"germinated",0
+"SUM",48,"OH","Live",3,48,"HL",2,"HG",8,"TN","45825",NA,"burst",2
+"SUM",48,"OH","Live",3,48,"HL",2,"HG",8,"TN","45825",NA,"missing",0
+"WIL",48,"OH","Live",3,48,"HL",2,"HG",6,"TN","45827",NA,"germinated",4
+"WIL",48,"OH","Live",3,48,"HL",2,"HG",6,"TN","45827",NA,"burst",0
+"WIL",48,"OH","Live",3,48,"HL",2,"HG",6,"TN","45827",NA,"missing",0
+"SUM",48,"OH","Live",3,48,"HL",3,"AH",5,"TN","45825",NA,"germinated",1
+"SUM",48,"OH","Live",3,48,"HL",3,"AH",5,"TN","45825",NA,"burst",3
+"SUM",48,"OH","Live",3,48,"HL",3,"AH",5,"TN","45825",NA,"missing",0
+"WIL",48,"OH","Live",3,48,"HL",3,"AH",9,"TN","45827",NA,"germinated",0
+"WIL",48,"OH","Live",3,48,"HL",3,"AH",9,"TN","45827",NA,"burst",1
+"WIL",48,"OH","Live",3,48,"HL",3,"AH",9,"TN","45827",NA,"missing",0
+"SUM",49,"BB","Live",2,49,"HL",1,"SR",2,"TN","45825",NA,"germinated",8
+"SUM",49,"BB","Live",2,49,"HL",1,"SR",2,"TN","45825",NA,"burst",0
+"SUM",49,"BB","Live",2,49,"HL",1,"SR",2,"TN","45825",NA,"missing",0
+"WIL",49,"BB","Live",2,49,"HL",1,"SR",1,"TN","45827",NA,"germinated",7
+"WIL",49,"BB","Live",2,49,"HL",1,"SR",1,"TN","45827",NA,"burst",2
+"WIL",49,"BB","Live",2,49,"HL",1,"SR",1,"TN","45827",NA,"missing",0
+"SUM",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45825",NA,"germinated",3
+"SUM",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45825",NA,"burst",0
+"SUM",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45825",NA,"missing",0
+"WIL",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45827",NA,"germinated",3
+"WIL",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45827",NA,"burst",0
+"WIL",49,"BB","Live",2,49,"HL",2,"CR",7,"TN","45827",NA,"missing",0
+"SUM",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",50,"HG","Dead",2,50,"HL",1,"HR",9,"HL","45845",NA,"germinated",1
+"SUM",50,"HG","Dead",2,50,"HL",1,"HR",9,"HL","45845",NA,"burst",0
+"SUM",50,"HG","Dead",2,50,"HL",1,"HR",9,"HL","45845",NA,"missing",0
+"WIL",50,"HG","Dead",2,50,"HL",1,"HG",2,"HL","45841",NA,"germinated",4
+"WIL",50,"HG","Dead",2,50,"HL",1,"HG",2,"HL","45841",NA,"burst",2
+"WIL",50,"HG","Dead",2,50,"HL",1,"HG",2,"HL","45841",NA,"missing",1
+"SUM",50,"HG","Dead",2,50,"HL",2,"HG",7,"HL","45845",NA,"germinated",2
+"SUM",50,"HG","Dead",2,50,"HL",2,"HG",7,"HL","45845",NA,"burst",0
+"SUM",50,"HG","Dead",2,50,"HL",2,"HG",7,"HL","45845",NA,"missing",1
+"WIL",50,"HG","Dead",2,50,"HL",2,"HR",0,"HL","45841","bag was open","germinated",0
+"WIL",50,"HG","Dead",2,50,"HL",2,"HR",0,"HL","45841","bag was open","burst",0
+"WIL",50,"HG","Dead",2,50,"HL",2,"HR",0,"HL","45841","bag was open","missing",0
+"SUM",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",51,"BB","Dead",2,51,"HL",1,"CR",5,"HL","45845",NA,"germinated",4
+"SUM",51,"BB","Dead",2,51,"HL",1,"CR",5,"HL","45845",NA,"burst",0
+"SUM",51,"BB","Dead",2,51,"HL",1,"CR",5,"HL","45845",NA,"missing",1
+"WIL",51,"BB","Dead",2,51,"HL",1,"SR",0,"HL","45841",NA,"germinated",10
+"WIL",51,"BB","Dead",2,51,"HL",1,"SR",0,"HL","45841",NA,"burst",0
+"WIL",51,"BB","Dead",2,51,"HL",1,"SR",0,"HL","45841",NA,"missing",0
+"SUM",51,"BB","Dead",2,51,"HL",2,"SR",0,"HL","45845",NA,"germinated",8
+"SUM",51,"BB","Dead",2,51,"HL",2,"SR",0,"HL","45845",NA,"burst",0
+"SUM",51,"BB","Dead",2,51,"HL",2,"SR",0,"HL","45845",NA,"missing",2
+"WIL",51,"BB","Dead",2,51,"HL",2,"CR",0,"HL","45841",NA,"germinated",10
+"WIL",51,"BB","Dead",2,51,"HL",2,"CR",0,"HL","45841",NA,"burst",0
+"WIL",51,"BB","Dead",2,51,"HL",2,"CR",0,"HL","45841",NA,"missing",0
+"SUM",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",52,"OH","Dead",3,52,"HL",1,"HG",3,"HL","45845","1 burst maybe broken intact","germinated",3
+"SUM",52,"OH","Dead",3,52,"HL",1,"HG",3,"HL","45845","1 burst maybe broken intact","burst",2
+"SUM",52,"OH","Dead",3,52,"HL",1,"HG",3,"HL","45845","1 burst maybe broken intact","missing",2
+"WIL",52,"OH","Dead",3,52,"HL",1,"OH",2,"HL","45841","wet","germinated",7
+"WIL",52,"OH","Dead",3,52,"HL",1,"OH",2,"HL","45841","wet","burst",0
+"WIL",52,"OH","Dead",3,52,"HL",1,"OH",2,"HL","45841","wet","missing",1
+"SUM",52,"OH","Dead",3,52,"HL",2,"OH",6,"HL","45845","tear in bag, 3 seeds found in whirlpak","germinated",0
+"SUM",52,"OH","Dead",3,52,"HL",2,"OH",6,"HL","45845","tear in bag, 3 seeds found in whirlpak","burst",1
+"SUM",52,"OH","Dead",3,52,"HL",2,"OH",6,"HL","45845","tear in bag, 3 seeds found in whirlpak","missing",6
+"WIL",52,"OH","Dead",3,52,"HL",2,"HG",5,"HL","45841",NA,"germinated",4
+"WIL",52,"OH","Dead",3,52,"HL",2,"HG",5,"HL","45841",NA,"burst",0
+"WIL",52,"OH","Dead",3,52,"HL",2,"HG",5,"HL","45841",NA,"missing",1
+"SUM",52,"OH","Dead",3,52,"HL",3,"AH",10,"HL","45845","white dots","germinated",0
+"SUM",52,"OH","Dead",3,52,"HL",3,"AH",10,"HL","45845","white dots","burst",0
+"SUM",52,"OH","Dead",3,52,"HL",3,"AH",10,"HL","45845","white dots","missing",0
+"WIL",52,"OH","Dead",3,52,"HL",3,"AH",7,"HL","45841",NA,"germinated",3
+"WIL",52,"OH","Dead",3,52,"HL",3,"AH",7,"HL","45841",NA,"burst",0
+"WIL",52,"OH","Dead",3,52,"HL",3,"AH",7,"HL","45841",NA,"missing",0
+"SUM",53,"HG","Dead",3,53,"HL",1,"CR",10,"HL","45845",NA,"germinated",0
+"SUM",53,"HG","Dead",3,53,"HL",1,"CR",10,"HL","45845",NA,"burst",0
+"SUM",53,"HG","Dead",3,53,"HL",1,"CR",10,"HL","45845",NA,"missing",0
+"WIL",53,"HG","Dead",3,53,"HL",1,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",53,"HG","Dead",3,53,"HL",1,NA,NA,NA,NA,NA,"burst",NA
+"WIL",53,"HG","Dead",3,53,"HL",1,NA,NA,NA,NA,NA,"missing",NA
+"SUM",53,"HG","Dead",3,53,"HL",2,"SR",7,"HL","45845",NA,"germinated",3
+"SUM",53,"HG","Dead",3,53,"HL",2,"SR",7,"HL","45845",NA,"burst",0
+"SUM",53,"HG","Dead",3,53,"HL",2,"SR",7,"HL","45845",NA,"missing",0
+"WIL",53,"HG","Dead",3,53,"HL",2,NA,0,NA,NA,NA,"germinated",NA
+"WIL",53,"HG","Dead",3,53,"HL",2,NA,0,NA,NA,NA,"burst",NA
+"WIL",53,"HG","Dead",3,53,"HL",2,NA,0,NA,NA,NA,"missing",NA
+"SUM",53,"HG","Dead",3,53,"HL",3,"OH",6,"HL","45845",NA,"germinated",4
+"SUM",53,"HG","Dead",3,53,"HL",3,"OH",6,"HL","45845",NA,"burst",0
+"SUM",53,"HG","Dead",3,53,"HL",3,"OH",6,"HL","45845",NA,"missing",0
+"WIL",53,"HG","Dead",3,53,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",53,"HG","Dead",3,53,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",53,"HG","Dead",3,53,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",54,"AH","Dead",3,54,"HL",1,"OH",9,"HL","45845",NA,"germinated",1
+"SUM",54,"AH","Dead",3,54,"HL",1,"OH",9,"HL","45845",NA,"burst",0
+"SUM",54,"AH","Dead",3,54,"HL",1,"OH",9,"HL","45845",NA,"missing",0
+"WIL",54,"AH","Dead",3,54,"HL",1,"OH",7,"HL","45841",NA,"germinated",3
+"WIL",54,"AH","Dead",3,54,"HL",1,"OH",7,"HL","45841",NA,"burst",0
+"WIL",54,"AH","Dead",3,54,"HL",1,"OH",7,"HL","45841",NA,"missing",0
+"SUM",54,"AH","Dead",3,54,"HL",2,"SR",7,"HL","45845","1 fell on bench","germinated",3
+"SUM",54,"AH","Dead",3,54,"HL",2,"SR",7,"HL","45845","1 fell on bench","burst",0
+"SUM",54,"AH","Dead",3,54,"HL",2,"SR",7,"HL","45845","1 fell on bench","missing",0
+"WIL",54,"AH","Dead",3,54,"HL",2,"SR",4,"HL","45841",NA,"germinated",6
+"WIL",54,"AH","Dead",3,54,"HL",2,"SR",4,"HL","45841",NA,"burst",0
+"WIL",54,"AH","Dead",3,54,"HL",2,"SR",4,"HL","45841",NA,"missing",0
+"SUM",54,"AH","Dead",3,54,"HL",3,"CR",8,"HL","45845",NA,"germinated",2
+"SUM",54,"AH","Dead",3,54,"HL",3,"CR",8,"HL","45845",NA,"burst",0
+"SUM",54,"AH","Dead",3,54,"HL",3,"CR",8,"HL","45845",NA,"missing",0
+"WIL",54,"AH","Dead",3,54,"HL",3,"CR",4,"HL","45841",NA,"germinated",4
+"WIL",54,"AH","Dead",3,54,"HL",3,"CR",4,"HL","45841",NA,"burst",2
+"WIL",54,"AH","Dead",3,54,"HL",3,"CR",4,"HL","45841",NA,"missing",0
+"SUM",55,"NG","Live",2,55,"HL",1,"SR",6,"TN","45824",NA,"germinated",4
+"SUM",55,"NG","Live",2,55,"HL",1,"SR",6,"TN","45824",NA,"burst",0
+"SUM",55,"NG","Live",2,55,"HL",1,"SR",6,"TN","45824",NA,"missing",0
+"WIL",55,"NG","Live",2,55,"HL",1,"SR",1,"TN","45827",NA,"germinated",7
+"WIL",55,"NG","Live",2,55,"HL",1,"SR",1,"TN","45827",NA,"burst",2
+"WIL",55,"NG","Live",2,55,"HL",1,"SR",1,"TN","45827",NA,"missing",0
+"SUM",55,"NG","Live",2,55,"HL",2,"OH",8,"TN","45824",NA,"germinated",2
+"SUM",55,"NG","Live",2,55,"HL",2,"OH",8,"TN","45824",NA,"burst",0
+"SUM",55,"NG","Live",2,55,"HL",2,"OH",8,"TN","45824",NA,"missing",0
+"WIL",55,"NG","Live",2,55,"HL",2,"OH",2,"TN","45827",NA,"germinated",7
+"WIL",55,"NG","Live",2,55,"HL",2,"OH",2,"TN","45827",NA,"burst",0
+"WIL",55,"NG","Live",2,55,"HL",2,"OH",2,"TN","45827",NA,"missing",1
+"SUM",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",56,"HR","Dead",3,56,"HL",1,"TI",5,"TN","45824",NA,"germinated",5
+"SUM",56,"HR","Dead",3,56,"HL",1,"TI",5,"TN","45824",NA,"burst",0
+"SUM",56,"HR","Dead",3,56,"HL",1,"TI",5,"TN","45824",NA,"missing",0
+"WIL",56,"HR","Dead",3,56,"HL",1,"BB",4,"HL","45841",NA,"germinated",4
+"WIL",56,"HR","Dead",3,56,"HL",1,"BB",4,"HL","45841",NA,"burst",2
+"WIL",56,"HR","Dead",3,56,"HL",1,"BB",4,"HL","45841",NA,"missing",0
+"SUM",56,"HR","Dead",3,56,"HL",2,"NG",4,"TN","45824",NA,"germinated",2
+"SUM",56,"HR","Dead",3,56,"HL",2,"NG",4,"TN","45824",NA,"burst",1
+"SUM",56,"HR","Dead",3,56,"HL",2,"NG",4,"TN","45824",NA,"missing",3
+"WIL",56,"HR","Dead",3,56,"HL",2,"TO",1,"HL","45841",NA,"germinated",7
+"WIL",56,"HR","Dead",3,56,"HL",2,"TO",1,"HL","45841",NA,"burst",2
+"WIL",56,"HR","Dead",3,56,"HL",2,"TO",1,"HL","45841",NA,"missing",0
+"SUM",56,"HR","Dead",3,56,"HL",3,"BB",0,"TN","45824",NA,"germinated",0
+"SUM",56,"HR","Dead",3,56,"HL",3,"BB",0,"TN","45824",NA,"burst",0
+"SUM",56,"HR","Dead",3,56,"HL",3,"BB",0,"TN","45824",NA,"missing",0
+"WIL",56,"HR","Dead",3,56,"HL",3,"NG",1,"HL","45841","wet, intact shriveled","germinated",7
+"WIL",56,"HR","Dead",3,56,"HL",3,"NG",1,"HL","45841","wet, intact shriveled","burst",0
+"WIL",56,"HR","Dead",3,56,"HL",3,"NG",1,"HL","45841","wet, intact shriveled","missing",2
+"SUM",57,"BB","Live",2,57,"HL",1,"SR",6,"TN","45825",NA,"germinated",6
+"SUM",57,"BB","Live",2,57,"HL",1,"SR",6,"TN","45825",NA,"burst",2
+"SUM",57,"BB","Live",2,57,"HL",1,"SR",6,"TN","45825",NA,"missing",0
+"WIL",57,"BB","Live",2,57,"HL",1,"SR",3,"TN","45827",NA,"germinated",6
+"WIL",57,"BB","Live",2,57,"HL",1,"SR",3,"TN","45827",NA,"burst",1
+"WIL",57,"BB","Live",2,57,"HL",1,"SR",3,"TN","45827",NA,"missing",0
+"SUM",57,"BB","Live",2,57,"HL",2,"CR",9,"TN","45825",NA,"germinated",1
+"SUM",57,"BB","Live",2,57,"HL",2,"CR",9,"TN","45825",NA,"burst",0
+"SUM",57,"BB","Live",2,57,"HL",2,"CR",9,"TN","45825",NA,"missing",0
+"WIL",57,"BB","Live",2,57,"HL",2,"CR",6,"TN","45827",NA,"germinated",1
+"WIL",57,"BB","Live",2,57,"HL",2,"CR",6,"TN","45827",NA,"burst",0
+"WIL",57,"BB","Live",2,57,"HL",2,"CR",6,"TN","45827",NA,"missing",3
+"SUM",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",58,"HR","Live",3,58,"HL",1,"TI",2,"TN","45825",NA,"germinated",2
+"SUM",58,"HR","Live",3,58,"HL",1,"TI",2,"TN","45825",NA,"burst",3
+"SUM",58,"HR","Live",3,58,"HL",1,"TI",2,"TN","45825",NA,"missing",0
+"WIL",58,"HR","Live",3,58,"HL",1,"TI",1,"TN","45827",NA,"germinated",6
+"WIL",58,"HR","Live",3,58,"HL",1,"TI",1,"TN","45827",NA,"burst",0
+"WIL",58,"HR","Live",3,58,"HL",1,"TI",1,"TN","45827",NA,"missing",3
+"SUM",58,"HR","Live",3,58,"HL",2,"NG",4,"TN","45825",NA,"germinated",4
+"SUM",58,"HR","Live",3,58,"HL",2,"NG",4,"TN","45825",NA,"burst",1
+"SUM",58,"HR","Live",3,58,"HL",2,"NG",4,"TN","45825",NA,"missing",1
+"WIL",58,"HR","Live",3,58,"HL",2,"NG",1,"TN","45827",NA,"germinated",6
+"WIL",58,"HR","Live",3,58,"HL",2,"NG",1,"TN","45827",NA,"burst",0
+"WIL",58,"HR","Live",3,58,"HL",2,"NG",1,"TN","45827",NA,"missing",4
+"SUM",58,"HR","Live",3,58,"HL",3,"BB",3,"TN","45825",NA,"germinated",7
+"SUM",58,"HR","Live",3,58,"HL",3,"BB",3,"TN","45825",NA,"burst",0
+"SUM",58,"HR","Live",3,58,"HL",3,"BB",3,"TN","45825",NA,"missing",0
+"WIL",58,"HR","Live",3,58,"HL",3,"BB",6,"TN","45827",NA,"germinated",2
+"WIL",58,"HR","Live",3,58,"HL",3,"BB",6,"TN","45827",NA,"burst",0
+"WIL",58,"HR","Live",3,58,"HL",3,"BB",6,"TN","45827",NA,"missing",2
+"SUM",59,"HG","Live",2,59,"HL",1,"HG",8,"TN","45825",NA,"germinated",8
+"SUM",59,"HG","Live",2,59,"HL",1,"HG",8,"TN","45825",NA,"burst",0
+"SUM",59,"HG","Live",2,59,"HL",1,"HG",8,"TN","45825",NA,"missing",0
+"WIL",59,"HG","Live",2,59,"HL",1,"HG",7,"TN","45827",NA,"germinated",1
+"WIL",59,"HG","Live",2,59,"HL",1,"HG",7,"TN","45827",NA,"burst",2
+"WIL",59,"HG","Live",2,59,"HL",1,"HG",7,"TN","45827",NA,"missing",0
+"SUM",59,"HG","Live",2,59,"HL",2,"HR",7,"TN","45825",NA,"germinated",3
+"SUM",59,"HG","Live",2,59,"HL",2,"HR",7,"TN","45825",NA,"burst",0
+"SUM",59,"HG","Live",2,59,"HL",2,"HR",7,"TN","45825",NA,"missing",0
+"WIL",59,"HG","Live",2,59,"HL",2,"HR",6,"TN","45827",NA,"germinated",4
+"WIL",59,"HG","Live",2,59,"HL",2,"HR",6,"TN","45827",NA,"burst",0
+"WIL",59,"HG","Live",2,59,"HL",2,"HR",6,"TN","45827",NA,"missing",0
+"SUM",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",60,"HR","Dead",2,60,"HL",1,"HR",7,"TN","45825",NA,"germinated",7
+"SUM",60,"HR","Dead",2,60,"HL",1,"HR",7,"TN","45825",NA,"burst",0
+"SUM",60,"HR","Dead",2,60,"HL",1,"HR",7,"TN","45825",NA,"missing",0
+"WIL",60,"HR","Dead",2,60,"HL",1,"HR",4,"TN","45826",NA,"germinated",4
+"WIL",60,"HR","Dead",2,60,"HL",1,"HR",4,"TN","45826",NA,"burst",2
+"WIL",60,"HR","Dead",2,60,"HL",1,"HR",4,"TN","45826",NA,"missing",0
+"SUM",60,"HR","Dead",2,60,"HL",2,"HG",4,"TN","45825",NA,"germinated",3
+"SUM",60,"HR","Dead",2,60,"HL",2,"HG",4,"TN","45825",NA,"burst",3
+"SUM",60,"HR","Dead",2,60,"HL",2,"HG",4,"TN","45825",NA,"missing",0
+"WIL",60,"HR","Dead",2,60,"HL",2,"HG",3,"TN","45826",NA,"germinated",7
+"WIL",60,"HR","Dead",2,60,"HL",2,"HG",3,"TN","45826",NA,"burst",0
+"WIL",60,"HR","Dead",2,60,"HL",2,"HG",3,"TN","45826",NA,"missing",0
+"SUM",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",61,"SR","Live",3,61,"HL",1,"SR",7,"TN","45824",NA,"germinated",7
+"SUM",61,"SR","Live",3,61,"HL",1,"SR",7,"TN","45824",NA,"burst",2
+"SUM",61,"SR","Live",3,61,"HL",1,"SR",7,"TN","45824",NA,"missing",0
+"WIL",61,"SR","Live",3,61,"HL",1,"SR",8,"TN","45827",NA,"germinated",2
+"WIL",61,"SR","Live",3,61,"HL",1,"SR",8,"TN","45827",NA,"burst",0
+"WIL",61,"SR","Live",3,61,"HL",1,"SR",8,"TN","45827",NA,"missing",0
+"SUM",61,"SR","Live",3,61,"HL",2,"HG",9,"TN","45824",NA,"germinated",1
+"SUM",61,"SR","Live",3,61,"HL",2,"HG",9,"TN","45824",NA,"burst",0
+"SUM",61,"SR","Live",3,61,"HL",2,"HG",9,"TN","45824",NA,"missing",0
+"WIL",61,"SR","Live",3,61,"HL",2,"HG",7,"TN","45827",NA,"germinated",3
+"WIL",61,"SR","Live",3,61,"HL",2,"HG",7,"TN","45827",NA,"burst",0
+"WIL",61,"SR","Live",3,61,"HL",2,"HG",7,"TN","45827",NA,"missing",0
+"SUM",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45824",NA,"germinated",0
+"SUM",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45824",NA,"burst",0
+"SUM",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45824",NA,"missing",0
+"WIL",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45827",NA,"germinated",0
+"WIL",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45827",NA,"burst",0
+"WIL",61,"SR","Live",3,61,"HL",3,"AH",10,"TN","45827",NA,"missing",0
+"SUM",62,"CR","Live",3,62,"HL",1,"AH",10,"HL","45824",NA,"germinated",10
+"SUM",62,"CR","Live",3,62,"HL",1,"AH",10,"HL","45824",NA,"burst",0
+"SUM",62,"CR","Live",3,62,"HL",1,"AH",10,"HL","45824",NA,"missing",0
+"WIL",62,"CR","Live",3,62,"HL",1,"CR",5,"TN","45827",NA,"germinated",5
+"WIL",62,"CR","Live",3,62,"HL",1,"CR",5,"TN","45827",NA,"burst",0
+"WIL",62,"CR","Live",3,62,"HL",1,"CR",5,"TN","45827",NA,"missing",0
+"SUM",62,"CR","Live",3,62,"HL",2,"CR",4,"HL","45824",NA,"germinated",4
+"SUM",62,"CR","Live",3,62,"HL",2,"CR",4,"HL","45824",NA,"burst",2
+"SUM",62,"CR","Live",3,62,"HL",2,"CR",4,"HL","45824",NA,"missing",0
+"WIL",62,"CR","Live",3,62,"HL",2,"HG",8,"TN","45827",NA,"germinated",2
+"WIL",62,"CR","Live",3,62,"HL",2,"HG",8,"TN","45827",NA,"burst",0
+"WIL",62,"CR","Live",3,62,"HL",2,"HG",8,"TN","45827",NA,"missing",0
+"SUM",62,"CR","Live",3,62,"HL",3,"HG",8,"HL","45824",NA,"germinated",2
+"SUM",62,"CR","Live",3,62,"HL",3,"HG",8,"HL","45824",NA,"burst",0
+"SUM",62,"CR","Live",3,62,"HL",3,"HG",8,"HL","45824",NA,"missing",0
+"WIL",62,"CR","Live",3,62,"HL",3,"AH",6,"TN","45827",NA,"germinated",1
+"WIL",62,"CR","Live",3,62,"HL",3,"AH",6,"TN","45827",NA,"burst",2
+"WIL",62,"CR","Live",3,62,"HL",3,"AH",6,"TN","45827",NA,"missing",1
+"SUM",63,"AH","Live",2,63,"HL",1,"RC",2,"HL","45824",NA,"germinated",5
+"SUM",63,"AH","Live",2,63,"HL",1,"RC",2,"HL","45824",NA,"burst",0
+"SUM",63,"AH","Live",2,63,"HL",1,"RC",2,"HL","45824",NA,"missing",0
+"WIL",63,"AH","Live",2,63,"HL",1,"AH",5,"TN","45827",NA,"germinated",4
+"WIL",63,"AH","Live",2,63,"HL",1,"AH",5,"TN","45827",NA,"burst",1
+"WIL",63,"AH","Live",2,63,"HL",1,"AH",5,"TN","45827",NA,"missing",0
+"SUM",63,"AH","Live",2,63,"HL",2,"AH",8,"HL","45824",NA,"germinated",2
+"SUM",63,"AH","Live",2,63,"HL",2,"AH",8,"HL","45824",NA,"burst",0
+"SUM",63,"AH","Live",2,63,"HL",2,"AH",8,"HL","45824",NA,"missing",0
+"WIL",63,"AH","Live",2,63,"HL",2,"RC",0,"TN","45827","missing","germinated",0
+"WIL",63,"AH","Live",2,63,"HL",2,"RC",0,"TN","45827","missing","burst",0
+"WIL",63,"AH","Live",2,63,"HL",2,"RC",0,"TN","45827","missing","missing",0
+"SUM",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",64,"NG","Dead",3,64,"HL",1,"HR",6,"HL","45824",NA,"germinated",9
+"SUM",64,"NG","Dead",3,64,"HL",1,"HR",6,"HL","45824",NA,"burst",1
+"SUM",64,"NG","Dead",3,64,"HL",1,"HR",6,"HL","45824",NA,"missing",0
+"WIL",64,"NG","Dead",3,64,"HL",1,"HR",1,"HL","45841",NA,"germinated",5
+"WIL",64,"NG","Dead",3,64,"HL",1,"HR",1,"HL","45841",NA,"burst",0
+"WIL",64,"NG","Dead",3,64,"HL",1,"HR",1,"HL","45841",NA,"missing",4
+"SUM",64,"NG","Dead",3,64,"HL",2,"NG",4,"HL","45824",NA,"germinated",4
+"SUM",64,"NG","Dead",3,64,"HL",2,"NG",4,"HL","45824",NA,"burst",2
+"SUM",64,"NG","Dead",3,64,"HL",2,"NG",4,"HL","45824",NA,"missing",0
+"WIL",64,"NG","Dead",3,64,"HL",2,"NG",1,"HL","45841",NA,"germinated",9
+"WIL",64,"NG","Dead",3,64,"HL",2,"NG",1,"HL","45841",NA,"burst",0
+"WIL",64,"NG","Dead",3,64,"HL",2,"NG",1,"HL","45841",NA,"missing",0
+"SUM",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45824",NA,"germinated",9
+"SUM",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45824",NA,"burst",0
+"SUM",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45824",NA,"missing",0
+"WIL",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45841",NA,"germinated",6
+"WIL",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45841",NA,"burst",0
+"WIL",64,"NG","Dead",3,64,"HL",3,"RC",1,"HL","45841",NA,"missing",3
+"SUM",65,"SR","Live",2,65,"HL",1,"NG",3,"TN","45824",NA,"germinated",3
+"SUM",65,"SR","Live",2,65,"HL",1,"NG",3,"TN","45824",NA,"burst",2
+"SUM",65,"SR","Live",2,65,"HL",1,"NG",3,"TN","45824",NA,"missing",1
+"WIL",65,"SR","Live",2,65,"HL",1,"NG",0,"TN","45827",NA,"germinated",9
+"WIL",65,"SR","Live",2,65,"HL",1,"NG",0,"TN","45827",NA,"burst",1
+"WIL",65,"SR","Live",2,65,"HL",1,"NG",0,"TN","45827",NA,"missing",0
+"SUM",65,"SR","Live",2,65,"HL",2,"BB",7,"TN","45824",NA,"germinated",3
+"SUM",65,"SR","Live",2,65,"HL",2,"BB",7,"TN","45824",NA,"burst",0
+"SUM",65,"SR","Live",2,65,"HL",2,"BB",7,"TN","45824",NA,"missing",0
+"WIL",65,"SR","Live",2,65,"HL",2,"BB",1,"TN","45827",NA,"germinated",8
+"WIL",65,"SR","Live",2,65,"HL",2,"BB",1,"TN","45827",NA,"burst",1
+"WIL",65,"SR","Live",2,65,"HL",2,"BB",1,"TN","45827",NA,"missing",0
+"SUM",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",66,"RC","Live",3,66,"HL",1,"NG",4,"HL","45824",NA,"germinated",4
+"SUM",66,"RC","Live",3,66,"HL",1,"NG",4,"HL","45824",NA,"burst",0
+"SUM",66,"RC","Live",3,66,"HL",1,"NG",4,"HL","45824",NA,"missing",0
+"WIL",66,"RC","Live",3,66,"HL",1,"TI",2,"TN","45827",NA,"germinated",5
+"WIL",66,"RC","Live",3,66,"HL",1,"TI",2,"TN","45827",NA,"burst",3
+"WIL",66,"RC","Live",3,66,"HL",1,"TI",2,"TN","45827",NA,"missing",0
+"SUM",66,"RC","Live",3,66,"HL",2,"TI",1,"HL","45824",NA,"germinated",3
+"SUM",66,"RC","Live",3,66,"HL",2,"TI",1,"HL","45824",NA,"burst",4
+"SUM",66,"RC","Live",3,66,"HL",2,"TI",1,"HL","45824",NA,"missing",2
+"WIL",66,"RC","Live",3,66,"HL",2,"NG",4,"TN","45827",NA,"germinated",6
+"WIL",66,"RC","Live",3,66,"HL",2,"NG",4,"TN","45827",NA,"burst",0
+"WIL",66,"RC","Live",3,66,"HL",2,"NG",4,"TN","45827",NA,"missing",0
+"SUM",66,"RC","Live",3,66,"HL",3,"BB",6,"HL","45824",NA,"germinated",3
+"SUM",66,"RC","Live",3,66,"HL",3,"BB",6,"HL","45824",NA,"burst",0
+"SUM",66,"RC","Live",3,66,"HL",3,"BB",6,"HL","45824",NA,"missing",1
+"WIL",66,"RC","Live",3,66,"HL",3,"BB",5,"TN","45827",NA,"germinated",4
+"WIL",66,"RC","Live",3,66,"HL",3,"BB",5,"TN","45827",NA,"burst",1
+"WIL",66,"RC","Live",3,66,"HL",3,"BB",5,"TN","45827",NA,"missing",0
+"SUM",67,"BB","Live",3,67,"HL",1,"BB",6,"TN","45825",NA,"germinated",6
+"SUM",67,"BB","Live",3,67,"HL",1,"BB",6,"TN","45825",NA,"burst",0
+"SUM",67,"BB","Live",3,67,"HL",1,"BB",6,"TN","45825",NA,"missing",0
+"WIL",67,"BB","Live",3,67,"HL",1,"BB",9,"TN","45826",NA,"germinated",1
+"WIL",67,"BB","Live",3,67,"HL",1,"BB",9,"TN","45826",NA,"burst",0
+"WIL",67,"BB","Live",3,67,"HL",1,"BB",9,"TN","45826",NA,"missing",0
+"SUM",67,"BB","Live",3,67,"HL",2,"RC",2,"TN","45825",NA,"germinated",7
+"SUM",67,"BB","Live",3,67,"HL",2,"RC",2,"TN","45825",NA,"burst",0
+"SUM",67,"BB","Live",3,67,"HL",2,"RC",2,"TN","45825",NA,"missing",1
+"WIL",67,"BB","Live",3,67,"HL",2,"RC",3,"TN","45826",NA,"germinated",7
+"WIL",67,"BB","Live",3,67,"HL",2,"RC",3,"TN","45826",NA,"burst",0
+"WIL",67,"BB","Live",3,67,"HL",2,"RC",3,"TN","45826",NA,"missing",0
+"SUM",67,"BB","Live",3,67,"HL",3,"HR- A and B",-4,"TN","45825","HR  had 2 bags, I separated them into A and B","germinated",-1
+"SUM",67,"BB","Live",3,67,"HL",3,"HR- A and B",-4,"TN","45825","HR  had 2 bags, I separated them into A and B","burst",0
+"SUM",67,"BB","Live",3,67,"HL",3,"HR- A and B",-4,"TN","45825","HR  had 2 bags, I separated them into A and B","missing",-5
+"WIL",67,"BB","Live",3,67,"HL",3,"HR",0,"TN","45826",NA,"germinated",5
+"WIL",67,"BB","Live",3,67,"HL",3,"HR",0,"TN","45826",NA,"burst",2
+"WIL",67,"BB","Live",3,67,"HL",3,"HR",0,"TN","45826",NA,"missing",3
+"SUM",68,"AH","Dead",3,68,"HL",1,"OH",5,"HL","45824",NA,"germinated",5
+"SUM",68,"AH","Dead",3,68,"HL",1,"OH",5,"HL","45824",NA,"burst",0
+"SUM",68,"AH","Dead",3,68,"HL",1,"OH",5,"HL","45824",NA,"missing",0
+"WIL",68,"AH","Dead",3,68,"HL",1,"SR",2,"TN","45826",NA,"germinated",7
+"WIL",68,"AH","Dead",3,68,"HL",1,"SR",2,"TN","45826",NA,"burst",1
+"WIL",68,"AH","Dead",3,68,"HL",1,"SR",2,"TN","45826",NA,"missing",0
+"SUM",68,"AH","Dead",3,68,"HL",2,"SR",5,"HL","45824",NA,"germinated",5
+"SUM",68,"AH","Dead",3,68,"HL",2,"SR",5,"HL","45824",NA,"burst",0
+"SUM",68,"AH","Dead",3,68,"HL",2,"SR",5,"HL","45824",NA,"missing",0
+"WIL",68,"AH","Dead",3,68,"HL",2,"CR",5,"TN","45826",NA,"germinated",4
+"WIL",68,"AH","Dead",3,68,"HL",2,"CR",5,"TN","45826",NA,"burst",1
+"WIL",68,"AH","Dead",3,68,"HL",2,"CR",5,"TN","45826",NA,"missing",0
+"SUM",68,"AH","Dead",3,68,"HL",3,"CR",6,"HL","45824",NA,"germinated",3
+"SUM",68,"AH","Dead",3,68,"HL",3,"CR",6,"HL","45824",NA,"burst",0
+"SUM",68,"AH","Dead",3,68,"HL",3,"CR",6,"HL","45824",NA,"missing",1
+"WIL",68,"AH","Dead",3,68,"HL",3,"OH",5,"TN","45826",NA,"germinated",4
+"WIL",68,"AH","Dead",3,68,"HL",3,"OH",5,"TN","45826",NA,"burst",1
+"WIL",68,"AH","Dead",3,68,"HL",3,"OH",5,"TN","45826",NA,"missing",0
+"SUM",69,"AH","Live",3,69,"HL",1,"SR",0,"TN","45825",NA,"germinated",0
+"SUM",69,"AH","Live",3,69,"HL",1,"SR",0,"TN","45825",NA,"burst",1
+"SUM",69,"AH","Live",3,69,"HL",1,"SR",0,"TN","45825",NA,"missing",0
+"WIL",69,"AH","Live",3,69,"HL",1,"SR",3,"TN","45827",NA,"germinated",4
+"WIL",69,"AH","Live",3,69,"HL",1,"SR",3,"TN","45827",NA,"burst",2
+"WIL",69,"AH","Live",3,69,"HL",1,"SR",3,"TN","45827",NA,"missing",1
+"SUM",69,"AH","Live",3,69,"HL",2,"CR",4,"TN","45825",NA,"germinated",6
+"SUM",69,"AH","Live",3,69,"HL",2,"CR",4,"TN","45825",NA,"burst",0
+"SUM",69,"AH","Live",3,69,"HL",2,"CR",4,"TN","45825",NA,"missing",0
+"WIL",69,"AH","Live",3,69,"HL",2,"CR",8,"TN","45827",NA,"germinated",1
+"WIL",69,"AH","Live",3,69,"HL",2,"CR",8,"TN","45827",NA,"burst",0
+"WIL",69,"AH","Live",3,69,"HL",2,"CR",8,"TN","45827",NA,"missing",1
+"SUM",69,"AH","Live",3,69,"HL",3,"OH",2,"TN","45825",NA,"germinated",6
+"SUM",69,"AH","Live",3,69,"HL",3,"OH",2,"TN","45825",NA,"burst",2
+"SUM",69,"AH","Live",3,69,"HL",3,"OH",2,"TN","45825",NA,"missing",0
+"WIL",69,"AH","Live",3,69,"HL",3,"OH",7,"TN","45827","7 seeds had hairy fungus","germinated",3
+"WIL",69,"AH","Live",3,69,"HL",3,"OH",7,"TN","45827","7 seeds had hairy fungus","burst",0
+"WIL",69,"AH","Live",3,69,"HL",3,"OH",7,"TN","45827","7 seeds had hairy fungus","missing",0
+"SUM",70,"AH","Dead",2,70,"HL",1,"AH",9,"HL","45821","one dropped when opening","germinated",9
+"SUM",70,"AH","Dead",2,70,"HL",1,"AH",9,"HL","45821","one dropped when opening","burst",0
+"SUM",70,"AH","Dead",2,70,"HL",1,"AH",9,"HL","45821","one dropped when opening","missing",1
+"WIL",70,"AH","Dead",2,70,"HL",1,"AH",9,"TN","45827",NA,"germinated",1
+"WIL",70,"AH","Dead",2,70,"HL",1,"AH",9,"TN","45827",NA,"burst",0
+"WIL",70,"AH","Dead",2,70,"HL",1,"AH",9,"TN","45827",NA,"missing",0
+"SUM",70,"AH","Dead",2,70,"HL",2,"RC",4,"HL","45821",NA,"germinated",5
+"SUM",70,"AH","Dead",2,70,"HL",2,"RC",4,"HL","45821",NA,"burst",1
+"SUM",70,"AH","Dead",2,70,"HL",2,"RC",4,"HL","45821",NA,"missing",0
+"WIL",70,"AH","Dead",2,70,"HL",2,"RC",2,"TN","45827",NA,"germinated",8
+"WIL",70,"AH","Dead",2,70,"HL",2,"RC",2,"TN","45827",NA,"burst",0
+"WIL",70,"AH","Dead",2,70,"HL",2,"RC",2,"TN","45827",NA,"missing",0
+"SUM",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",71,"HR","Live",3,71,"HL",1,"BB",4,"HL","45821",NA,"germinated",6
+"SUM",71,"HR","Live",3,71,"HL",1,"BB",4,"HL","45821",NA,"burst",0
+"SUM",71,"HR","Live",3,71,"HL",1,"BB",4,"HL","45821",NA,"missing",0
+"WIL",71,"HR","Live",3,71,"HL",1,"TI",5,"TN","45826","bag had 13 seeds","germinated",5
+"WIL",71,"HR","Live",3,71,"HL",1,"TI",5,"TN","45826","bag had 13 seeds","burst",3
+"WIL",71,"HR","Live",3,71,"HL",1,"TI",5,"TN","45826","bag had 13 seeds","missing",0
+"SUM",71,"HR","Live",3,71,"HL",2,"NG",3,"HL","45821",NA,"germinated",6
+"SUM",71,"HR","Live",3,71,"HL",2,"NG",3,"HL","45821",NA,"burst",0
+"SUM",71,"HR","Live",3,71,"HL",2,"NG",3,"HL","45821",NA,"missing",1
+"WIL",71,"HR","Live",3,71,"HL",2,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",71,"HR","Live",3,71,"HL",2,NA,NA,NA,NA,NA,"burst",NA
+"WIL",71,"HR","Live",3,71,"HL",2,NA,NA,NA,NA,NA,"missing",NA
+"SUM",71,"HR","Live",3,71,"HL",3,"TI",0,"HL","45821",NA,"germinated",10
+"SUM",71,"HR","Live",3,71,"HL",3,"TI",0,"HL","45821",NA,"burst",0
+"SUM",71,"HR","Live",3,71,"HL",3,"TI",0,"HL","45821",NA,"missing",0
+"WIL",71,"HR","Live",3,71,"HL",3,NA,NA,NA,NA,"2 bags missing","germinated",NA
+"WIL",71,"HR","Live",3,71,"HL",3,NA,NA,NA,NA,"2 bags missing","burst",NA
+"WIL",71,"HR","Live",3,71,"HL",3,NA,NA,NA,NA,"2 bags missing","missing",NA
+"SUM",72,"NG","Dead",2,72,"HL",1,"SR",5,"HL","45821","2 shriveled, 1 broken","germinated",5
+"SUM",72,"NG","Dead",2,72,"HL",1,"SR",5,"HL","45821","2 shriveled, 1 broken","burst",0
+"SUM",72,"NG","Dead",2,72,"HL",1,"SR",5,"HL","45821","2 shriveled, 1 broken","missing",0
+"WIL",72,"NG","Dead",2,72,"HL",1,"SR",4,"TN","45827",NA,"germinated",5
+"WIL",72,"NG","Dead",2,72,"HL",1,"SR",4,"TN","45827",NA,"burst",1
+"WIL",72,"NG","Dead",2,72,"HL",1,"SR",4,"TN","45827",NA,"missing",0
+"SUM",72,"NG","Dead",2,72,"HL",2,"OH",4,"HL","45821",NA,"germinated",5
+"SUM",72,"NG","Dead",2,72,"HL",2,"OH",4,"HL","45821",NA,"burst",1
+"SUM",72,"NG","Dead",2,72,"HL",2,"OH",4,"HL","45821",NA,"missing",0
+"WIL",72,"NG","Dead",2,72,"HL",2,"OH",2,"TN","45827",NA,"germinated",5
+"WIL",72,"NG","Dead",2,72,"HL",2,"OH",2,"TN","45827",NA,"burst",3
+"WIL",72,"NG","Dead",2,72,"HL",2,"OH",2,"TN","45827",NA,"missing",0
+"SUM",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",73,"RC","Dead",2,73,"HL",1,"RC",1,"HL","45821",NA,"germinated",8
+"SUM",73,"RC","Dead",2,73,"HL",1,"RC",1,"HL","45821",NA,"burst",1
+"SUM",73,"RC","Dead",2,73,"HL",1,"RC",1,"HL","45821",NA,"missing",0
+"WIL",73,"RC","Dead",2,73,"HL",1,"AH",9,"TN","45841",NA,"germinated",1
+"WIL",73,"RC","Dead",2,73,"HL",1,"AH",9,"TN","45841",NA,"burst",0
+"WIL",73,"RC","Dead",2,73,"HL",1,"AH",9,"TN","45841",NA,"missing",0
+"SUM",73,"RC","Dead",2,73,"HL",2,"AH",22,"HL","45821","no idea what happened here","germinated",3
+"SUM",73,"RC","Dead",2,73,"HL",2,"AH",22,"HL","45821","no idea what happened here","burst",0
+"SUM",73,"RC","Dead",2,73,"HL",2,"AH",22,"HL","45821","no idea what happened here","missing",0
+"WIL",73,"RC","Dead",2,73,"HL",2,"RC",2,"HL","45841","bag partially open","germinated",3
+"WIL",73,"RC","Dead",2,73,"HL",2,"RC",2,"HL","45841","bag partially open","burst",1
+"WIL",73,"RC","Dead",2,73,"HL",2,"RC",2,"HL","45841","bag partially open","missing",4
+"SUM",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",74,"OH","Dead",2,74,"HL",1,"NG",5,"HL","45821",NA,"germinated",4
+"SUM",74,"OH","Dead",2,74,"HL",1,"NG",5,"HL","45821",NA,"burst",0
+"SUM",74,"OH","Dead",2,74,"HL",1,"NG",5,"HL","45821",NA,"missing",1
+"WIL",74,"OH","Dead",2,74,"HL",1,"TI",4,"TN","45826","1 intact seed wet and mushy","germinated",5
+"WIL",74,"OH","Dead",2,74,"HL",1,"TI",4,"TN","45826","1 intact seed wet and mushy","burst",1
+"WIL",74,"OH","Dead",2,74,"HL",1,"TI",4,"TN","45826","1 intact seed wet and mushy","missing",0
+"SUM",74,"OH","Dead",2,74,"HL",2,"TI",3,"HL","45821",NA,"germinated",3
+"SUM",74,"OH","Dead",2,74,"HL",2,"TI",3,"HL","45821",NA,"burst",4
+"SUM",74,"OH","Dead",2,74,"HL",2,"TI",3,"HL","45821",NA,"missing",0
+"WIL",74,"OH","Dead",2,74,"HL",2,"NG",6,"TN","45826",NA,"germinated",1
+"WIL",74,"OH","Dead",2,74,"HL",2,"NG",6,"TN","45826",NA,"burst",3
+"WIL",74,"OH","Dead",2,74,"HL",2,"NG",6,"TN","45826",NA,"missing",0
+"SUM",74,"OH","Dead",2,74,"HL",3,"HR",8,"HL","45821",NA,"germinated",1
+"SUM",74,"OH","Dead",2,74,"HL",3,"HR",8,"HL","45821",NA,"burst",0
+"SUM",74,"OH","Dead",2,74,"HL",3,"HR",8,"HL","45821",NA,"missing",0
+"WIL",74,"OH","Dead",2,74,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",74,"OH","Dead",2,74,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",74,"OH","Dead",2,74,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",75,"TI","Dead",3,75,"HL",1,"TI",7,"HL","45821",NA,"germinated",3
+"SUM",75,"TI","Dead",3,75,"HL",1,"TI",7,"HL","45821",NA,"burst",0
+"SUM",75,"TI","Dead",3,75,"HL",1,"TI",7,"HL","45821",NA,"missing",0
+"WIL",75,"TI","Dead",3,75,"HL",1,"TI",5,"HL","45841",NA,"germinated",5
+"WIL",75,"TI","Dead",3,75,"HL",1,"TI",5,"HL","45841",NA,"burst",0
+"WIL",75,"TI","Dead",3,75,"HL",1,"TI",5,"HL","45841",NA,"missing",0
+"SUM",75,"TI","Dead",3,75,"HL",2,"RC",4,"HL","45821",NA,"germinated",3
+"SUM",75,"TI","Dead",3,75,"HL",2,"RC",4,"HL","45821",NA,"burst",3
+"SUM",75,"TI","Dead",3,75,"HL",2,"RC",4,"HL","45821",NA,"missing",0
+"WIL",75,"TI","Dead",3,75,"HL",2,"RC",1,"HL","45841",NA,"germinated",5
+"WIL",75,"TI","Dead",3,75,"HL",2,"RC",1,"HL","45841",NA,"burst",0
+"WIL",75,"TI","Dead",3,75,"HL",2,"RC",1,"HL","45841",NA,"missing",4
+"SUM",75,"TI","Dead",3,75,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",75,"TI","Dead",3,75,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",75,"TI","Dead",3,75,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",75,"TI","Dead",3,75,"HL",3,"HR",5,"HL","45841",NA,"germinated",5
+"WIL",75,"TI","Dead",3,75,"HL",3,"HR",5,"HL","45841",NA,"burst",0
+"WIL",75,"TI","Dead",3,75,"HL",3,"HR",5,"HL","45841",NA,"missing",0
+"SUM",76,"OH","Dead",2,76,"HL",1,"NG",0,"HL","45821","large germs","germinated",7
+"SUM",76,"OH","Dead",2,76,"HL",1,"NG",0,"HL","45821","large germs","burst",3
+"SUM",76,"OH","Dead",2,76,"HL",1,"NG",0,"HL","45821","large germs","missing",0
+"WIL",76,"OH","Dead",2,76,"HL",1,"NG",6,"HL","45841",NA,"germinated",2
+"WIL",76,"OH","Dead",2,76,"HL",1,"NG",6,"HL","45841",NA,"burst",0
+"WIL",76,"OH","Dead",2,76,"HL",1,"NG",6,"HL","45841",NA,"missing",2
+"SUM",76,"OH","Dead",2,76,"HL",2,"TI",3,"HL","45821","intact small and flat","germinated",6
+"SUM",76,"OH","Dead",2,76,"HL",2,"TI",3,"HL","45821","intact small and flat","burst",1
+"SUM",76,"OH","Dead",2,76,"HL",2,"TI",3,"HL","45821","intact small and flat","missing",0
+"WIL",76,"OH","Dead",2,76,"HL",2,"TI",4,"HL","45841",NA,"germinated",4
+"WIL",76,"OH","Dead",2,76,"HL",2,"TI",4,"HL","45841",NA,"burst",1
+"WIL",76,"OH","Dead",2,76,"HL",2,"TI",4,"HL","45841",NA,"missing",1
+"SUM",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",77,"AH","Dead",2,77,"HL",1,"RC",3,"HL","45821",NA,"germinated",4
+"SUM",77,"AH","Dead",2,77,"HL",1,"RC",3,"HL","45821",NA,"burst",1
+"SUM",77,"AH","Dead",2,77,"HL",1,"RC",3,"HL","45821",NA,"missing",1
+"WIL",77,"AH","Dead",2,77,"HL",1,"RC",4,"HL","45841",NA,"germinated",6
+"WIL",77,"AH","Dead",2,77,"HL",1,"RC",4,"HL","45841",NA,"burst",0
+"WIL",77,"AH","Dead",2,77,"HL",1,"RC",4,"HL","45841",NA,"missing",0
+"SUM",77,"AH","Dead",2,77,"HL",2,"AH",7,"HL","45821","small white dots","germinated",3
+"SUM",77,"AH","Dead",2,77,"HL",2,"AH",7,"HL","45821","small white dots","burst",0
+"SUM",77,"AH","Dead",2,77,"HL",2,"AH",7,"HL","45821","small white dots","missing",0
+"WIL",77,"AH","Dead",2,77,"HL",2,"AH",10,"HL","45841",NA,"germinated",0
+"WIL",77,"AH","Dead",2,77,"HL",2,"AH",10,"HL","45841",NA,"burst",0
+"WIL",77,"AH","Dead",2,77,"HL",2,"AH",10,"HL","45841",NA,"missing",0
+"SUM",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",78,"TI","Dead",3,78,"HL",1,"HR",5,"HL","45820",NA,"germinated",5
+"SUM",78,"TI","Dead",3,78,"HL",1,"HR",5,"HL","45820",NA,"burst",0
+"SUM",78,"TI","Dead",3,78,"HL",1,"HR",5,"HL","45820",NA,"missing",0
+"WIL",78,"TI","Dead",3,78,"HL",1,"TI",5,"HL","45841",NA,"germinated",5
+"WIL",78,"TI","Dead",3,78,"HL",1,"TI",5,"HL","45841",NA,"burst",0
+"WIL",78,"TI","Dead",3,78,"HL",1,"TI",5,"HL","45841",NA,"missing",0
+"SUM",78,"TI","Dead",3,78,"HL",2,"RC",2,"HL","45820",NA,"germinated",7
+"SUM",78,"TI","Dead",3,78,"HL",2,"RC",2,"HL","45820",NA,"burst",0
+"SUM",78,"TI","Dead",3,78,"HL",2,"RC",2,"HL","45820",NA,"missing",1
+"WIL",78,"TI","Dead",3,78,"HL",2,"HR",6,"HL","45841",NA,"germinated",4
+"WIL",78,"TI","Dead",3,78,"HL",2,"HR",6,"HL","45841",NA,"burst",0
+"WIL",78,"TI","Dead",3,78,"HL",2,"HR",6,"HL","45841",NA,"missing",0
+"SUM",78,"TI","Dead",3,78,"HL",3,"TI",4,"HL","45820",NA,"germinated",6
+"SUM",78,"TI","Dead",3,78,"HL",3,"TI",4,"HL","45820",NA,"burst",0
+"SUM",78,"TI","Dead",3,78,"HL",3,"TI",4,"HL","45820",NA,"missing",0
+"WIL",78,"TI","Dead",3,78,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",78,"TI","Dead",3,78,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",78,"TI","Dead",3,78,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",79,"OH","Dead",3,79,"HL",1,"OH",7,"HL","45821",NA,"germinated",2
+"SUM",79,"OH","Dead",3,79,"HL",1,"OH",7,"HL","45821",NA,"burst",0
+"SUM",79,"OH","Dead",3,79,"HL",1,"OH",7,"HL","45821",NA,"missing",1
+"WIL",79,"OH","Dead",3,79,"HL",1,"OH",0,"TN","45826","bag missing","germinated",0
+"WIL",79,"OH","Dead",3,79,"HL",1,"OH",0,"TN","45826","bag missing","burst",0
+"WIL",79,"OH","Dead",3,79,"HL",1,"OH",0,"TN","45826","bag missing","missing",0
+"SUM",79,"OH","Dead",3,79,"HL",2,"HG",1,"HL","45729",NA,"germinated",7
+"SUM",79,"OH","Dead",3,79,"HL",2,"HG",1,"HL","45729",NA,"burst",2
+"SUM",79,"OH","Dead",3,79,"HL",2,"HG",1,"HL","45729",NA,"missing",0
+"WIL",79,"OH","Dead",3,79,"HL",2,"HG",0,"TN","45826","bag missing","germinated",0
+"WIL",79,"OH","Dead",3,79,"HL",2,"HG",0,"TN","45826","bag missing","burst",0
+"WIL",79,"OH","Dead",3,79,"HL",2,"HG",0,"TN","45826","bag missing","missing",0
+"SUM",79,"OH","Dead",3,79,"HL",3,"AH",8,"HL","45821","1 shriveled with white dots","germinated",1
+"SUM",79,"OH","Dead",3,79,"HL",3,"AH",8,"HL","45821","1 shriveled with white dots","burst",0
+"SUM",79,"OH","Dead",3,79,"HL",3,"AH",8,"HL","45821","1 shriveled with white dots","missing",1
+"WIL",79,"OH","Dead",3,79,"HL",3,"AH",0,"TN","45826","bag missing","germinated",0
+"WIL",79,"OH","Dead",3,79,"HL",3,"AH",0,"TN","45826","bag missing","burst",0
+"WIL",79,"OH","Dead",3,79,"HL",3,"AH",0,"TN","45826","bag missing","missing",0
+"SUM",80,"RC","Live",2,80,"HL",1,"AH",9,"HL","45820",NA,"germinated",1
+"SUM",80,"RC","Live",2,80,"HL",1,"AH",9,"HL","45820",NA,"burst",0
+"SUM",80,"RC","Live",2,80,"HL",1,"AH",9,"HL","45820",NA,"missing",0
+"WIL",80,"RC","Live",2,80,"HL",1,"RC",0,"TN","45826",NA,"germinated",8
+"WIL",80,"RC","Live",2,80,"HL",1,"RC",0,"TN","45826",NA,"burst",1
+"WIL",80,"RC","Live",2,80,"HL",1,"RC",0,"TN","45826",NA,"missing",1
+"SUM",80,"RC","Live",2,80,"HL",2,"RC",10,"HL","45820",NA,"germinated",0
+"SUM",80,"RC","Live",2,80,"HL",2,"RC",10,"HL","45820",NA,"burst",0
+"SUM",80,"RC","Live",2,80,"HL",2,"RC",10,"HL","45820",NA,"missing",0
+"WIL",80,"RC","Live",2,80,"HL",2,"AH",10,"TN","45826",NA,"germinated",0
+"WIL",80,"RC","Live",2,80,"HL",2,"AH",10,"TN","45826",NA,"burst",0
+"WIL",80,"RC","Live",2,80,"HL",2,"AH",10,"TN","45826",NA,"missing",0
+"SUM",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",81,"NG","Live",2,81,"HL",1,"SR",6,"HL","45821",NA,"germinated",4
+"SUM",81,"NG","Live",2,81,"HL",1,"SR",6,"HL","45821",NA,"burst",0
+"SUM",81,"NG","Live",2,81,"HL",1,"SR",6,"HL","45821",NA,"missing",0
+"WIL",81,"NG","Live",2,81,"HL",1,"SR",5,"TN","45831",NA,"germinated",5
+"WIL",81,"NG","Live",2,81,"HL",1,"SR",5,"TN","45831",NA,"burst",0
+"WIL",81,"NG","Live",2,81,"HL",1,"SR",5,"TN","45831",NA,"missing",0
+"SUM",81,"NG","Live",2,81,"HL",2,"OH",5,"HL","45821",NA,"germinated",4
+"SUM",81,"NG","Live",2,81,"HL",2,"OH",5,"HL","45821",NA,"burst",0
+"SUM",81,"NG","Live",2,81,"HL",2,"OH",5,"HL","45821",NA,"missing",1
+"WIL",81,"NG","Live",2,81,"HL",2,"OH",2,"TN","45826",NA,"germinated",7
+"WIL",81,"NG","Live",2,81,"HL",2,"OH",2,"TN","45826",NA,"burst",1
+"WIL",81,"NG","Live",2,81,"HL",2,"OH",2,"TN","45826",NA,"missing",0
+"SUM",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",82,"CR","Live",2,82,"HL",1,"TI",2,"HL","45820",NA,"germinated",7
+"SUM",82,"CR","Live",2,82,"HL",1,"TI",2,"HL","45820",NA,"burst",0
+"SUM",82,"CR","Live",2,82,"HL",1,"TI",2,"HL","45820",NA,"missing",1
+"WIL",82,"CR","Live",2,82,"HL",1,"TI",1,"TN","45831",NA,"germinated",9
+"WIL",82,"CR","Live",2,82,"HL",1,"TI",1,"TN","45831",NA,"burst",0
+"WIL",82,"CR","Live",2,82,"HL",1,"TI",1,"TN","45831",NA,"missing",0
+"SUM",82,"CR","Live",2,82,"HL",2,"BB",7,"HL","45820",NA,"germinated",3
+"SUM",82,"CR","Live",2,82,"HL",2,"BB",7,"HL","45820",NA,"burst",0
+"SUM",82,"CR","Live",2,82,"HL",2,"BB",7,"HL","45820",NA,"missing",0
+"WIL",82,"CR","Live",2,82,"HL",2,"BB",0,"TN","45831",NA,"germinated",4
+"WIL",82,"CR","Live",2,82,"HL",2,"BB",0,"TN","45831",NA,"burst",4
+"WIL",82,"CR","Live",2,82,"HL",2,"BB",0,"TN","45831",NA,"missing",2
+"SUM",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",83,"CR","Dead",2,83,"HL",1,"BB",2,"HL","45820",NA,"germinated",8
+"SUM",83,"CR","Dead",2,83,"HL",1,"BB",2,"HL","45820",NA,"burst",0
+"SUM",83,"CR","Dead",2,83,"HL",1,"BB",2,"HL","45820",NA,"missing",0
+"WIL",83,"CR","Dead",2,83,"HL",1,"TI",2,"HL","45838",NA,"germinated",4
+"WIL",83,"CR","Dead",2,83,"HL",1,"TI",2,"HL","45838",NA,"burst",4
+"WIL",83,"CR","Dead",2,83,"HL",1,"TI",2,"HL","45838",NA,"missing",0
+"SUM",83,"CR","Dead",2,83,"HL",2,"TI",0,"HL","45820","germs very large","germinated",7
+"SUM",83,"CR","Dead",2,83,"HL",2,"TI",0,"HL","45820","germs very large","burst",0
+"SUM",83,"CR","Dead",2,83,"HL",2,"TI",0,"HL","45820","germs very large","missing",3
+"WIL",83,"CR","Dead",2,83,"HL",2,"BB",7,"HL","45838",NA,"germinated",3
+"WIL",83,"CR","Dead",2,83,"HL",2,"BB",7,"HL","45838",NA,"burst",0
+"WIL",83,"CR","Dead",2,83,"HL",2,"BB",7,"HL","45838",NA,"missing",0
+"SUM",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",84,"TI","Live",3,84,"HL",1,"RC",4,"HL","45820",NA,"germinated",4
+"SUM",84,"TI","Live",3,84,"HL",1,"RC",4,"HL","45820",NA,"burst",2
+"SUM",84,"TI","Live",3,84,"HL",1,"RC",4,"HL","45820",NA,"missing",0
+"WIL",84,"TI","Live",3,84,"HL",1,"TI",8,"TN","45830",NA,"germinated",2
+"WIL",84,"TI","Live",3,84,"HL",1,"TI",8,"TN","45830",NA,"burst",0
+"WIL",84,"TI","Live",3,84,"HL",1,"TI",8,"TN","45830",NA,"missing",0
+"SUM",84,"TI","Live",3,84,"HL",2,"TI",3,"HL","45820","1 intact crumbled when touched","germinated",7
+"SUM",84,"TI","Live",3,84,"HL",2,"TI",3,"HL","45820","1 intact crumbled when touched","burst",0
+"SUM",84,"TI","Live",3,84,"HL",2,"TI",3,"HL","45820","1 intact crumbled when touched","missing",0
+"WIL",84,"TI","Live",3,84,"HL",2,"RC",5,"TN","45831",NA,"germinated",4
+"WIL",84,"TI","Live",3,84,"HL",2,"RC",5,"TN","45831",NA,"burst",0
+"WIL",84,"TI","Live",3,84,"HL",2,"RC",5,"TN","45831",NA,"missing",1
+"SUM",84,"TI","Live",3,84,"HL",3,"HR",9,"HL","45820",NA,"germinated",1
+"SUM",84,"TI","Live",3,84,"HL",3,"HR",9,"HL","45820",NA,"burst",0
+"SUM",84,"TI","Live",3,84,"HL",3,"HR",9,"HL","45820",NA,"missing",0
+"WIL",84,"TI","Live",3,84,"HL",3,"HR",7,"TN","45831",NA,"germinated",2
+"WIL",84,"TI","Live",3,84,"HL",3,"HR",7,"TN","45831",NA,"burst",1
+"WIL",84,"TI","Live",3,84,"HL",3,"HR",7,"TN","45831",NA,"missing",0
+"SUM",85,"HG","Dead",2,85,"HL",1,"HR",7,"TN/SF","45797",NA,"germinated",3
+"SUM",85,"HG","Dead",2,85,"HL",1,"HR",7,"TN/SF","45797",NA,"burst",0
+"SUM",85,"HG","Dead",2,85,"HL",1,"HR",7,"TN/SF","45797",NA,"missing",0
+"WIL",85,"HG","Dead",2,85,"HL",1,"HG",3,"HL","45838",NA,"germinated",4
+"WIL",85,"HG","Dead",2,85,"HL",1,"HG",3,"HL","45838",NA,"burst",3
+"WIL",85,"HG","Dead",2,85,"HL",1,"HG",3,"HL","45838",NA,"missing",0
+"SUM",85,"HG","Dead",2,85,"HL",2,"HG",6,"TN/SF","45797",NA,"germinated",3
+"SUM",85,"HG","Dead",2,85,"HL",2,"HG",6,"TN/SF","45797",NA,"burst",0
+"SUM",85,"HG","Dead",2,85,"HL",2,"HG",6,"TN/SF","45797",NA,"missing",1
+"WIL",85,"HG","Dead",2,85,"HL",2,"HR",2,"HL","45838",NA,"germinated",6
+"WIL",85,"HG","Dead",2,85,"HL",2,"HR",2,"HL","45838",NA,"burst",2
+"WIL",85,"HG","Dead",2,85,"HL",2,"HR",2,"HL","45838",NA,"missing",0
+"SUM",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",86,"NG","Dead",2,86,"HL",1,"SR",8,"HL","45820",NA,"germinated",2
+"SUM",86,"NG","Dead",2,86,"HL",1,"SR",8,"HL","45820",NA,"burst",0
+"SUM",86,"NG","Dead",2,86,"HL",1,"SR",8,"HL","45820",NA,"missing",0
+"WIL",86,"NG","Dead",2,86,"HL",1,"OH",3,"HL","45839",NA,"germinated",7
+"WIL",86,"NG","Dead",2,86,"HL",1,"OH",3,"HL","45839",NA,"burst",0
+"WIL",86,"NG","Dead",2,86,"HL",1,"OH",3,"HL","45839",NA,"missing",0
+"SUM",86,"NG","Dead",2,86,"HL",2,"OH",4,"HL","45820",NA,"germinated",5
+"SUM",86,"NG","Dead",2,86,"HL",2,"OH",4,"HL","45820",NA,"burst",0
+"SUM",86,"NG","Dead",2,86,"HL",2,"OH",4,"HL","45820",NA,"missing",1
+"WIL",86,"NG","Dead",2,86,"HL",2,"SR",2,"HL","45839",NA,"germinated",7
+"WIL",86,"NG","Dead",2,86,"HL",2,"SR",2,"HL","45839",NA,"burst",0
+"WIL",86,"NG","Dead",2,86,"HL",2,"SR",2,"HL","45839",NA,"missing",1
+"SUM",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",87,"CR","Live",2,87,"HL",1,"TI",4,"TN/SF","45797",NA,"germinated",6
+"SUM",87,"CR","Live",2,87,"HL",1,"TI",4,"TN/SF","45797",NA,"burst",0
+"SUM",87,"CR","Live",2,87,"HL",1,"TI",4,"TN/SF","45797",NA,"missing",0
+"WIL",87,"CR","Live",2,87,"HL",1,"TI",3,"TN","45831",NA,"germinated",7
+"WIL",87,"CR","Live",2,87,"HL",1,"TI",3,"TN","45831",NA,"burst",0
+"WIL",87,"CR","Live",2,87,"HL",1,"TI",3,"TN","45831",NA,"missing",0
+"SUM",87,"CR","Live",2,87,"HL",2,"BB",4,"TN/SF","45797",NA,"germinated",6
+"SUM",87,"CR","Live",2,87,"HL",2,"BB",4,"TN/SF","45797",NA,"burst",0
+"SUM",87,"CR","Live",2,87,"HL",2,"BB",4,"TN/SF","45797",NA,"missing",0
+"WIL",87,"CR","Live",2,87,"HL",2,"BB",5,"TN","45831",NA,"germinated",5
+"WIL",87,"CR","Live",2,87,"HL",2,"BB",5,"TN","45831",NA,"burst",0
+"WIL",87,"CR","Live",2,87,"HL",2,"BB",5,"TN","45831",NA,"missing",0
+"SUM",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",88,"OH","Live",3,88,"HL",1,"OIH",8,"HL","45820",NA,"germinated",1
+"SUM",88,"OH","Live",3,88,"HL",1,"OIH",8,"HL","45820",NA,"burst",1
+"SUM",88,"OH","Live",3,88,"HL",1,"OIH",8,"HL","45820",NA,"missing",0
+"WIL",88,"OH","Live",3,88,"HL",1,"OH",6,"TN","45831",NA,"germinated",4
+"WIL",88,"OH","Live",3,88,"HL",1,"OH",6,"TN","45831",NA,"burst",0
+"WIL",88,"OH","Live",3,88,"HL",1,"OH",6,"TN","45831",NA,"missing",0
+"SUM",88,"OH","Live",3,88,"HL",2,"AH",9,"HL","45820","fuzzy white growth","germinated",0
+"SUM",88,"OH","Live",3,88,"HL",2,"AH",9,"HL","45820","fuzzy white growth","burst",1
+"SUM",88,"OH","Live",3,88,"HL",2,"AH",9,"HL","45820","fuzzy white growth","missing",0
+"WIL",88,"OH","Live",3,88,"HL",2,"HG",4,"TN","45831",NA,"germinated",4
+"WIL",88,"OH","Live",3,88,"HL",2,"HG",4,"TN","45831",NA,"burst",2
+"WIL",88,"OH","Live",3,88,"HL",2,"HG",4,"TN","45831",NA,"missing",0
+"SUM",88,"OH","Live",3,88,"HL",3,"HG",4,"HL","45820",NA,"germinated",5
+"SUM",88,"OH","Live",3,88,"HL",3,"HG",4,"HL","45820",NA,"burst",0
+"SUM",88,"OH","Live",3,88,"HL",3,"HG",4,"HL","45820",NA,"missing",1
+"WIL",88,"OH","Live",3,88,"HL",3,"AH",7,"TN","45831",NA,"germinated",2
+"WIL",88,"OH","Live",3,88,"HL",3,"AH",7,"TN","45831",NA,"burst",0
+"WIL",88,"OH","Live",3,88,"HL",3,"AH",7,"TN","45831",NA,"missing",1
+"SUM",89,"NG","Dead",3,89,"HL",1,"RC",0,"HL","45820",NA,"germinated",7
+"SUM",89,"NG","Dead",3,89,"HL",1,"RC",0,"HL","45820",NA,"burst",2
+"SUM",89,"NG","Dead",3,89,"HL",1,"RC",0,"HL","45820",NA,"missing",1
+"WIL",89,"NG","Dead",3,89,"HL",1,"HR",2,"HL","45838","very wet","germinated",6
+"WIL",89,"NG","Dead",3,89,"HL",1,"HR",2,"HL","45838","very wet","burst",0
+"WIL",89,"NG","Dead",3,89,"HL",1,"HR",2,"HL","45838","very wet","missing",2
+"SUM",89,"NG","Dead",3,89,"HL",2,"NG",1,"HL","45820",NA,"germinated",9
+"SUM",89,"NG","Dead",3,89,"HL",2,"NG",1,"HL","45820",NA,"burst",0
+"SUM",89,"NG","Dead",3,89,"HL",2,"NG",1,"HL","45820",NA,"missing",0
+"WIL",89,"NG","Dead",3,89,"HL",2,"NG",4,"HL","45838","very wet","germinated",3
+"WIL",89,"NG","Dead",3,89,"HL",2,"NG",4,"HL","45838","very wet","burst",0
+"WIL",89,"NG","Dead",3,89,"HL",2,"NG",4,"HL","45838","very wet","missing",3
+"SUM",89,"NG","Dead",3,89,"HL",3,"HR",5,"HL","45820",NA,"germinated",4
+"SUM",89,"NG","Dead",3,89,"HL",3,"HR",5,"HL","45820",NA,"burst",0
+"SUM",89,"NG","Dead",3,89,"HL",3,"HR",5,"HL","45820",NA,"missing",1
+"WIL",89,"NG","Dead",3,89,"HL",3,"RC",3,"HL","45838","wet, bag partially open","germinated",5
+"WIL",89,"NG","Dead",3,89,"HL",3,"RC",3,"HL","45838","wet, bag partially open","burst",0
+"WIL",89,"NG","Dead",3,89,"HL",3,"RC",3,"HL","45838","wet, bag partially open","missing",2
+"SUM",90,"TI","Dead",2,90,"HL",1,"CR",6,"SF","45798",NA,"germinated",3
+"SUM",90,"TI","Dead",2,90,"HL",1,"CR",6,"SF","45798",NA,"burst",0
+"SUM",90,"TI","Dead",2,90,"HL",1,"CR",6,"SF","45798",NA,"missing",1
+"WIL",90,"TI","Dead",2,90,"HL",1,"OH",5,"HL","45838","bag partially open","germinated",3
+"WIL",90,"TI","Dead",2,90,"HL",1,"OH",5,"HL","45838","bag partially open","burst",0
+"WIL",90,"TI","Dead",2,90,"HL",1,"OH",5,"HL","45838","bag partially open","missing",2
+"SUM",90,"TI","Dead",2,90,"HL",2,"OH",6,"HSF","45798",NA,"germinated",3
+"SUM",90,"TI","Dead",2,90,"HL",2,"OH",6,"HSF","45798",NA,"burst",0
+"SUM",90,"TI","Dead",2,90,"HL",2,"OH",6,"HSF","45798",NA,"missing",1
+"WIL",90,"TI","Dead",2,90,"HL",2,"CR",10,"HL","45838",NA,"germinated",0
+"WIL",90,"TI","Dead",2,90,"HL",2,"CR",10,"HL","45838",NA,"burst",0
+"WIL",90,"TI","Dead",2,90,"HL",2,"CR",10,"HL","45838",NA,"missing",0
+"SUM",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",91,"AH","Live",2,91,"HL",1,"AH",10,"SF","45798","white dots on seeds","germinated",0
+"SUM",91,"AH","Live",2,91,"HL",1,"AH",10,"SF","45798","white dots on seeds","burst",0
+"SUM",91,"AH","Live",2,91,"HL",1,"AH",10,"SF","45798","white dots on seeds","missing",0
+"WIL",91,"AH","Live",2,91,"HL",1,"AH",10,"TN","45831",NA,"germinated",0
+"WIL",91,"AH","Live",2,91,"HL",1,"AH",10,"TN","45831",NA,"burst",0
+"WIL",91,"AH","Live",2,91,"HL",1,"AH",10,"TN","45831",NA,"missing",0
+"SUM",91,"AH","Live",2,91,"HL",2,"RC",5,"SF","45798","intact shriveled","germinated",3
+"SUM",91,"AH","Live",2,91,"HL",2,"RC",5,"SF","45798","intact shriveled","burst",1
+"SUM",91,"AH","Live",2,91,"HL",2,"RC",5,"SF","45798","intact shriveled","missing",1
+"WIL",91,"AH","Live",2,91,"HL",2,"RC",10,"TN","45831","extra seed, bag was found outside whirl pak","germinated",1
+"WIL",91,"AH","Live",2,91,"HL",2,"RC",10,"TN","45831","extra seed, bag was found outside whirl pak","burst",0
+"WIL",91,"AH","Live",2,91,"HL",2,"RC",10,"TN","45831","extra seed, bag was found outside whirl pak","missing",0
+"SUM",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",92,"HG","Live",2,92,"HL",1,"HG",9,"SF","45798",NA,"germinated",0
+"SUM",92,"HG","Live",2,92,"HL",1,"HG",9,"SF","45798",NA,"burst",0
+"SUM",92,"HG","Live",2,92,"HL",1,"HG",9,"SF","45798",NA,"missing",1
+"WIL",92,"HG","Live",2,92,"HL",1,"HG",7,"TN","45830","intact seeds mushy","germinated",3
+"WIL",92,"HG","Live",2,92,"HL",1,"HG",7,"TN","45830","intact seeds mushy","burst",0
+"WIL",92,"HG","Live",2,92,"HL",1,"HG",7,"TN","45830","intact seeds mushy","missing",0
+"SUM",92,"HG","Live",2,92,"HL",2,"HR",6,"SF","45798","3 seeds landed on bench, 2 missing seeds may bave been lost while opening the bag","germinated",2
+"SUM",92,"HG","Live",2,92,"HL",2,"HR",6,"SF","45798","3 seeds landed on bench, 2 missing seeds may bave been lost while opening the bag","burst",0
+"SUM",92,"HG","Live",2,92,"HL",2,"HR",6,"SF","45798","3 seeds landed on bench, 2 missing seeds may bave been lost while opening the bag","missing",2
+"WIL",92,"HG","Live",2,92,"HL",2,"HR",7,"TN","45830",NA,"germinated",3
+"WIL",92,"HG","Live",2,92,"HL",2,"HR",7,"TN","45830",NA,"burst",0
+"WIL",92,"HG","Live",2,92,"HL",2,"HR",7,"TN","45830",NA,"missing",0
+"SUM",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",93,"TI","Dead",2,93,"HL",1,"CR",8,"SF","45798","1 seed lost when put in tube","germinated",2
+"SUM",93,"TI","Dead",2,93,"HL",1,"CR",8,"SF","45798","1 seed lost when put in tube","burst",0
+"SUM",93,"TI","Dead",2,93,"HL",1,"CR",8,"SF","45798","1 seed lost when put in tube","missing",0
+"WIL",93,"TI","Dead",2,93,"HL",1,"OH",3,"HL","45839",NA,"germinated",7
+"WIL",93,"TI","Dead",2,93,"HL",1,"OH",3,"HL","45839",NA,"burst",0
+"WIL",93,"TI","Dead",2,93,"HL",1,"OH",3,"HL","45839",NA,"missing",0
+"SUM",93,"TI","Dead",2,93,"HL",2,"OH",6,"SF","45798",NA,"germinated",4
+"SUM",93,"TI","Dead",2,93,"HL",2,"OH",6,"SF","45798",NA,"burst",0
+"SUM",93,"TI","Dead",2,93,"HL",2,"OH",6,"SF","45798",NA,"missing",0
+"WIL",93,"TI","Dead",2,93,"HL",2,"CR",9,"HL","45839",NA,"germinated",1
+"WIL",93,"TI","Dead",2,93,"HL",2,"CR",9,"HL","45839",NA,"burst",0
+"WIL",93,"TI","Dead",2,93,"HL",2,"CR",9,"HL","45839",NA,"missing",0
+"SUM",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",94,"HR","Dead",3,94,"HL",1,"BB",2,"HL","45846",NA,"germinated",7
+"SUM",94,"HR","Dead",3,94,"HL",1,"BB",2,"HL","45846",NA,"burst",0
+"SUM",94,"HR","Dead",3,94,"HL",1,"BB",2,"HL","45846",NA,"missing",1
+"WIL",94,"HR","Dead",3,94,"HL",1,"TI",1,"HL","45839",NA,"germinated",9
+"WIL",94,"HR","Dead",3,94,"HL",1,"TI",1,"HL","45839",NA,"burst",0
+"WIL",94,"HR","Dead",3,94,"HL",1,"TI",1,"HL","45839",NA,"missing",0
+"SUM",94,"HR","Dead",3,94,"HL",2,"NG",4,"HL","45846",NA,"germinated",4
+"SUM",94,"HR","Dead",3,94,"HL",2,"NG",4,"HL","45846",NA,"burst",2
+"SUM",94,"HR","Dead",3,94,"HL",2,"NG",4,"HL","45846",NA,"missing",0
+"WIL",94,"HR","Dead",3,94,"HL",2,"BB",2,"HL","45839",NA,"germinated",8
+"WIL",94,"HR","Dead",3,94,"HL",2,"BB",2,"HL","45839",NA,"burst",0
+"WIL",94,"HR","Dead",3,94,"HL",2,"BB",2,"HL","45839",NA,"missing",0
+"SUM",94,"HR","Dead",3,94,"HL",3,"TI",0,"HL","45846",NA,"germinated",7
+"SUM",94,"HR","Dead",3,94,"HL",3,"TI",0,"HL","45846",NA,"burst",3
+"SUM",94,"HR","Dead",3,94,"HL",3,"TI",0,"HL","45846",NA,"missing",0
+"WIL",94,"HR","Dead",3,94,"HL",3,"NG",1,"HL","45839",NA,"germinated",5
+"WIL",94,"HR","Dead",3,94,"HL",3,"NG",1,"HL","45839",NA,"burst",0
+"WIL",94,"HR","Dead",3,94,"HL",3,"NG",1,"HL","45839",NA,"missing",4
+"SUM",95,"BB","Dead",3,95,"HL",1,"BB",9,"HL","45846",NA,"germinated",1
+"SUM",95,"BB","Dead",3,95,"HL",1,"BB",9,"HL","45846",NA,"burst",0
+"SUM",95,"BB","Dead",3,95,"HL",1,"BB",9,"HL","45846",NA,"missing",0
+"WIL",95,"BB","Dead",3,95,"HL",1,"HR",6,"HL","45838",NA,"germinated",4
+"WIL",95,"BB","Dead",3,95,"HL",1,"HR",6,"HL","45838",NA,"burst",0
+"WIL",95,"BB","Dead",3,95,"HL",1,"HR",6,"HL","45838",NA,"missing",0
+"SUM",95,"BB","Dead",3,95,"HL",2,"HR",4,"HL","45846",NA,"germinated",4
+"SUM",95,"BB","Dead",3,95,"HL",2,"HR",4,"HL","45846",NA,"burst",2
+"SUM",95,"BB","Dead",3,95,"HL",2,"HR",4,"HL","45846",NA,"missing",0
+"WIL",95,"BB","Dead",3,95,"HL",2,"RC",2,"HL","45838",NA,"germinated",8
+"WIL",95,"BB","Dead",3,95,"HL",2,"RC",2,"HL","45838",NA,"burst",0
+"WIL",95,"BB","Dead",3,95,"HL",2,"RC",2,"HL","45838",NA,"missing",0
+"SUM",95,"BB","Dead",3,95,"HL",3,"RC",5,"HL","45846",NA,"germinated",3
+"SUM",95,"BB","Dead",3,95,"HL",3,"RC",5,"HL","45846",NA,"burst",0
+"SUM",95,"BB","Dead",3,95,"HL",3,"RC",5,"HL","45846",NA,"missing",2
+"WIL",95,"BB","Dead",3,95,"HL",3,"BB",4,"HL","45838",NA,"germinated",6
+"WIL",95,"BB","Dead",3,95,"HL",3,"BB",4,"HL","45838",NA,"burst",0
+"WIL",95,"BB","Dead",3,95,"HL",3,"BB",4,"HL","45838",NA,"missing",0
+"SUM",96,"CR","Dead",3,96,"HL",1,"HG",4,"HL","45846","2 intact flat and crumbly","germinated",6
+"SUM",96,"CR","Dead",3,96,"HL",1,"HG",4,"HL","45846","2 intact flat and crumbly","burst",0
+"SUM",96,"CR","Dead",3,96,"HL",1,"HG",4,"HL","45846","2 intact flat and crumbly","missing",0
+"WIL",96,"CR","Dead",3,96,"HL",1,"CR",8,"HL","45838",NA,"germinated",2
+"WIL",96,"CR","Dead",3,96,"HL",1,"CR",8,"HL","45838",NA,"burst",0
+"WIL",96,"CR","Dead",3,96,"HL",1,"CR",8,"HL","45838",NA,"missing",0
+"SUM",96,"CR","Dead",3,96,"HL",2,"CR",6,"HL","45846","1 intact broken","germinated",4
+"SUM",96,"CR","Dead",3,96,"HL",2,"CR",6,"HL","45846","1 intact broken","burst",0
+"SUM",96,"CR","Dead",3,96,"HL",2,"CR",6,"HL","45846","1 intact broken","missing",0
+"WIL",96,"CR","Dead",3,96,"HL",2,"AH",8,"HL","45838",NA,"germinated",2
+"WIL",96,"CR","Dead",3,96,"HL",2,"AH",8,"HL","45838",NA,"burst",0
+"WIL",96,"CR","Dead",3,96,"HL",2,"AH",8,"HL","45838",NA,"missing",0
+"SUM",96,"CR","Dead",3,96,"HL",3,"AH",4,"HL","45846",NA,"germinated",6
+"SUM",96,"CR","Dead",3,96,"HL",3,"AH",4,"HL","45846",NA,"burst",0
+"SUM",96,"CR","Dead",3,96,"HL",3,"AH",4,"HL","45846",NA,"missing",0
+"WIL",96,"CR","Dead",3,96,"HL",3,"HG",7,"HL","45838",NA,"germinated",3
+"WIL",96,"CR","Dead",3,96,"HL",3,"HG",7,"HL","45838",NA,"burst",0
+"WIL",96,"CR","Dead",3,96,"HL",3,"HG",7,"HL","45838",NA,"missing",0
+"SUM",97,"TI","Dead",2,97,"HL",1,"CR",10,"HL","45826",NA,"germinated",0
+"SUM",97,"TI","Dead",2,97,"HL",1,"CR",10,"HL","45826",NA,"burst",0
+"SUM",97,"TI","Dead",2,97,"HL",1,"CR",10,"HL","45826",NA,"missing",0
+"WIL",97,"TI","Dead",2,97,"HL",1,"CR",6,"TN","45830",NA,"germinated",3
+"WIL",97,"TI","Dead",2,97,"HL",1,"CR",6,"TN","45830",NA,"burst",0
+"WIL",97,"TI","Dead",2,97,"HL",1,"CR",6,"TN","45830",NA,"missing",0
+"SUM",97,"TI","Dead",2,97,"HL",2,"OH",10,"HL","45826",NA,"germinated",0
+"SUM",97,"TI","Dead",2,97,"HL",2,"OH",10,"HL","45826",NA,"burst",0
+"SUM",97,"TI","Dead",2,97,"HL",2,"OH",10,"HL","45826",NA,"missing",0
+"WIL",97,"TI","Dead",2,97,"HL",2,"OH",10,"TN","45830",NA,"germinated",0
+"WIL",97,"TI","Dead",2,97,"HL",2,"OH",10,"TN","45830",NA,"burst",0
+"WIL",97,"TI","Dead",2,97,"HL",2,"OH",10,"TN","45830",NA,"missing",0
+"SUM",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",98,"SR","Dead",2,98,"HL",1,"NG",3,"HL","45846",NA,"germinated",7
+"SUM",98,"SR","Dead",2,98,"HL",1,"NG",3,"HL","45846",NA,"burst",0
+"SUM",98,"SR","Dead",2,98,"HL",1,"NG",3,"HL","45846",NA,"missing",0
+"WIL",98,"SR","Dead",2,98,"HL",1,"NG",2,"HL","45838",NA,"germinated",8
+"WIL",98,"SR","Dead",2,98,"HL",1,"NG",2,"HL","45838",NA,"burst",0
+"WIL",98,"SR","Dead",2,98,"HL",1,"NG",2,"HL","45838",NA,"missing",0
+"SUM",98,"SR","Dead",2,98,"HL",2,"BB",3,"HL","45846",NA,"germinated",7
+"SUM",98,"SR","Dead",2,98,"HL",2,"BB",3,"HL","45846",NA,"burst",0
+"SUM",98,"SR","Dead",2,98,"HL",2,"BB",3,"HL","45846",NA,"missing",0
+"WIL",98,"SR","Dead",2,98,"HL",2,"BB",5,"HL","45838",NA,"germinated",5
+"WIL",98,"SR","Dead",2,98,"HL",2,"BB",5,"HL","45838",NA,"burst",0
+"WIL",98,"SR","Dead",2,98,"HL",2,"BB",5,"HL","45838",NA,"missing",0
+"SUM",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",99,"SR","Dead",3,99,"HL",1,"HG",5,"HL","45826",NA,"germinated",5
+"SUM",99,"SR","Dead",3,99,"HL",1,"HG",5,"HL","45826",NA,"burst",0
+"SUM",99,"SR","Dead",3,99,"HL",1,"HG",5,"HL","45826",NA,"missing",0
+"WIL",99,"SR","Dead",3,99,"HL",1,"SR",0,"-","-","missing","germinated",0
+"WIL",99,"SR","Dead",3,99,"HL",1,"SR",0,"-","-","missing","burst",0
+"WIL",99,"SR","Dead",3,99,"HL",1,"SR",0,"-","-","missing","missing",0
+"SUM",99,"SR","Dead",3,99,"HL",2,"SR",7,"HL","45826",NA,"germinated",3
+"SUM",99,"SR","Dead",3,99,"HL",2,"SR",7,"HL","45826",NA,"burst",0
+"SUM",99,"SR","Dead",3,99,"HL",2,"SR",7,"HL","45826",NA,"missing",0
+"WIL",99,"SR","Dead",3,99,"HL",2,"HG",0,"-","-","missing","germinated",0
+"WIL",99,"SR","Dead",3,99,"HL",2,"HG",0,"-","-","missing","burst",0
+"WIL",99,"SR","Dead",3,99,"HL",2,"HG",0,"-","-","missing","missing",0
+"SUM",99,"SR","Dead",3,99,"HL",3,"AH",9,"HL","45826",NA,"germinated",0
+"SUM",99,"SR","Dead",3,99,"HL",3,"AH",9,"HL","45826",NA,"burst",0
+"SUM",99,"SR","Dead",3,99,"HL",3,"AH",9,"HL","45826",NA,"missing",1
+"WIL",99,"SR","Dead",3,99,"HL",3,"AH",0,"-","-","missing","germinated",0
+"WIL",99,"SR","Dead",3,99,"HL",3,"AH",0,"-","-","missing","burst",0
+"WIL",99,"SR","Dead",3,99,"HL",3,"AH",0,"-","-","missing","missing",0
+"SUM",100,"CR","Dead",2,100,"HL",1,"TI",5,"HL","45846",NA,"germinated",5
+"SUM",100,"CR","Dead",2,100,"HL",1,"TI",5,"HL","45846",NA,"burst",0
+"SUM",100,"CR","Dead",2,100,"HL",1,"TI",5,"HL","45846",NA,"missing",0
+"WIL",100,"CR","Dead",2,100,"HL",1,"TI",0,"-","-","missing","germinated",0
+"WIL",100,"CR","Dead",2,100,"HL",1,"TI",0,"-","-","missing","burst",0
+"WIL",100,"CR","Dead",2,100,"HL",1,"TI",0,"-","-","missing","missing",0
+"SUM",100,"CR","Dead",2,100,"HL",2,"BB",2,"HL","45846","2 intact shriveled","germinated",8
+"SUM",100,"CR","Dead",2,100,"HL",2,"BB",2,"HL","45846","2 intact shriveled","burst",0
+"SUM",100,"CR","Dead",2,100,"HL",2,"BB",2,"HL","45846","2 intact shriveled","missing",0
+"WIL",100,"CR","Dead",2,100,"HL",2,"BB",0,"-","-","missing","germinated",0
+"WIL",100,"CR","Dead",2,100,"HL",2,"BB",0,"-","-","missing","burst",0
+"WIL",100,"CR","Dead",2,100,"HL",2,"BB",0,"-","-","missing","missing",0
+"SUM",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",101,"HG","Dead",2,101,"HL",1,"HG",7,"HL","45826",NA,"germinated",2
+"SUM",101,"HG","Dead",2,101,"HL",1,"HG",7,"HL","45826",NA,"burst",1
+"SUM",101,"HG","Dead",2,101,"HL",1,"HG",7,"HL","45826",NA,"missing",0
+"WIL",101,"HG","Dead",2,101,"HL",1,"HG",7,"TN","45831",NA,"germinated",2
+"WIL",101,"HG","Dead",2,101,"HL",1,"HG",7,"TN","45831",NA,"burst",1
+"WIL",101,"HG","Dead",2,101,"HL",1,"HG",7,"TN","45831",NA,"missing",0
+"SUM",101,"HG","Dead",2,101,"HL",2,"HR",6,"HL","45826",NA,"germinated",3
+"SUM",101,"HG","Dead",2,101,"HL",2,"HR",6,"HL","45826",NA,"burst",1
+"SUM",101,"HG","Dead",2,101,"HL",2,"HR",6,"HL","45826",NA,"missing",0
+"WIL",101,"HG","Dead",2,101,"HL",2,"HR",5,"TN","45831",NA,"germinated",3
+"WIL",101,"HG","Dead",2,101,"HL",2,"HR",5,"TN","45831",NA,"burst",0
+"WIL",101,"HG","Dead",2,101,"HL",2,"HR",5,"TN","45831",NA,"missing",2
+"SUM",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",102,"BB","Dead",2,102,"HL",1,"CR",7,"HL","45846",NA,"germinated",3
+"SUM",102,"BB","Dead",2,102,"HL",1,"CR",7,"HL","45846",NA,"burst",0
+"SUM",102,"BB","Dead",2,102,"HL",1,"CR",7,"HL","45846",NA,"missing",0
+"WIL",102,"BB","Dead",2,102,"HL",1,"SR",0,"-","-","missing","germinated",0
+"WIL",102,"BB","Dead",2,102,"HL",1,"SR",0,"-","-","missing","burst",0
+"WIL",102,"BB","Dead",2,102,"HL",1,"SR",0,"-","-","missing","missing",0
+"SUM",102,"BB","Dead",2,102,"HL",2,"SR",0,"HL","45846",NA,"germinated",10
+"SUM",102,"BB","Dead",2,102,"HL",2,"SR",0,"HL","45846",NA,"burst",0
+"SUM",102,"BB","Dead",2,102,"HL",2,"SR",0,"HL","45846",NA,"missing",0
+"WIL",102,"BB","Dead",2,102,"HL",2,"CR",0,"-","-","missing","germinated",0
+"WIL",102,"BB","Dead",2,102,"HL",2,"CR",0,"-","-","missing","burst",0
+"WIL",102,"BB","Dead",2,102,"HL",2,"CR",0,"-","-","missing","missing",0
+"SUM",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",103,"TI","Live",2,103,"HL",1,"OH",8,"HL","45826",NA,"germinated",2
+"SUM",103,"TI","Live",2,103,"HL",1,"OH",8,"HL","45826",NA,"burst",0
+"SUM",103,"TI","Live",2,103,"HL",1,"OH",8,"HL","45826",NA,"missing",0
+"WIL",103,"TI","Live",2,103,"HL",1,"CR",5,"TN","45830",NA,"germinated",0
+"WIL",103,"TI","Live",2,103,"HL",1,"CR",5,"TN","45830",NA,"burst",0
+"WIL",103,"TI","Live",2,103,"HL",1,"CR",5,"TN","45830",NA,"missing",5
+"SUM",103,"TI","Live",2,103,"HL",2,"CR",9,"HL","45826",NA,"germinated",1
+"SUM",103,"TI","Live",2,103,"HL",2,"CR",9,"HL","45826",NA,"burst",0
+"SUM",103,"TI","Live",2,103,"HL",2,"CR",9,"HL","45826",NA,"missing",0
+"WIL",103,"TI","Live",2,103,"HL",2,"OH",9,"TN","45830",NA,"germinated",0
+"WIL",103,"TI","Live",2,103,"HL",2,"OH",9,"TN","45830",NA,"burst",1
+"WIL",103,"TI","Live",2,103,"HL",2,"OH",9,"TN","45830",NA,"missing",0
+"SUM",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",104,"TI","Dead",3,104,"HL",1,"TI",1,"HL","45846",NA,"germinated",8
+"SUM",104,"TI","Dead",3,104,"HL",1,"TI",1,"HL","45846",NA,"burst",0
+"SUM",104,"TI","Dead",3,104,"HL",1,"TI",1,"HL","45846",NA,"missing",1
+"WIL",104,"TI","Dead",3,104,"HL",1,"HR",4,"HL","45838",NA,"germinated",3
+"WIL",104,"TI","Dead",3,104,"HL",1,"HR",4,"HL","45838",NA,"burst",1
+"WIL",104,"TI","Dead",3,104,"HL",1,"HR",4,"HL","45838",NA,"missing",2
+"SUM",104,"TI","Dead",3,104,"HL",2,"RC",1,"HL","45846",NA,"germinated",8
+"SUM",104,"TI","Dead",3,104,"HL",2,"RC",1,"HL","45846",NA,"burst",1
+"SUM",104,"TI","Dead",3,104,"HL",2,"RC",1,"HL","45846",NA,"missing",0
+"WIL",104,"TI","Dead",3,104,"HL",2,"TI",5,"HL","45838",NA,"germinated",3
+"WIL",104,"TI","Dead",3,104,"HL",2,"TI",5,"HL","45838",NA,"burst",1
+"WIL",104,"TI","Dead",3,104,"HL",2,"TI",5,"HL","45838",NA,"missing",1
+"SUM",104,"TI","Dead",3,104,"HL",3,"HR",5,"HL","45846",NA,"germinated",4
+"SUM",104,"TI","Dead",3,104,"HL",3,"HR",5,"HL","45846",NA,"burst",0
+"SUM",104,"TI","Dead",3,104,"HL",3,"HR",5,"HL","45846",NA,"missing",1
+"WIL",104,"TI","Dead",3,104,"HL",3,"RC",0,"-","-","missing","germinated",0
+"WIL",104,"TI","Dead",3,104,"HL",3,"RC",0,"-","-","missing","burst",0
+"WIL",104,"TI","Dead",3,104,"HL",3,"RC",0,"-","-","missing","missing",0
+"SUM",105,"NG","Live",3,105,"HL",1,"HR",8,"HL","45826",NA,"germinated",1
+"SUM",105,"NG","Live",3,105,"HL",1,"HR",8,"HL","45826",NA,"burst",1
+"SUM",105,"NG","Live",3,105,"HL",1,"HR",8,"HL","45826",NA,"missing",0
+"WIL",105,"NG","Live",3,105,"HL",1,"NG",3,"TN","45831",NA,"germinated",6
+"WIL",105,"NG","Live",3,105,"HL",1,"NG",3,"TN","45831",NA,"burst",0
+"WIL",105,"NG","Live",3,105,"HL",1,"NG",3,"TN","45831",NA,"missing",1
+"SUM",105,"NG","Live",3,105,"HL",2,"NG",5,"HL","45826","1 intact broken","germinated",5
+"SUM",105,"NG","Live",3,105,"HL",2,"NG",5,"HL","45826","1 intact broken","burst",0
+"SUM",105,"NG","Live",3,105,"HL",2,"NG",5,"HL","45826","1 intact broken","missing",0
+"WIL",105,"NG","Live",3,105,"HL",2,"RC",2,"TN","45831",NA,"germinated",8
+"WIL",105,"NG","Live",3,105,"HL",2,"RC",2,"TN","45831",NA,"burst",0
+"WIL",105,"NG","Live",3,105,"HL",2,"RC",2,"TN","45831",NA,"missing",0
+"SUM",105,"NG","Live",3,105,"HL",3,"RC",0,"HL","45826",NA,"germinated",8
+"SUM",105,"NG","Live",3,105,"HL",3,"RC",0,"HL","45826",NA,"burst",1
+"SUM",105,"NG","Live",3,105,"HL",3,"RC",0,"HL","45826",NA,"missing",1
+"WIL",105,"NG","Live",3,105,"HL",3,"HR",8,"TN","45831",NA,"germinated",0
+"WIL",105,"NG","Live",3,105,"HL",3,"HR",8,"TN","45831",NA,"burst",0
+"WIL",105,"NG","Live",3,105,"HL",3,"HR",8,"TN","45831",NA,"missing",2
+"SUM",106,"RC","Dead",2,106,"HL",1,"RC",1,"HL","45826",NA,"germinated",9
+"SUM",106,"RC","Dead",2,106,"HL",1,"RC",1,"HL","45826",NA,"burst",0
+"SUM",106,"RC","Dead",2,106,"HL",1,"RC",1,"HL","45826",NA,"missing",0
+"WIL",106,"RC","Dead",2,106,"HL",1,"RC",1,"TN","45830",NA,"germinated",9
+"WIL",106,"RC","Dead",2,106,"HL",1,"RC",1,"TN","45830",NA,"burst",0
+"WIL",106,"RC","Dead",2,106,"HL",1,"RC",1,"TN","45830",NA,"missing",0
+"SUM",106,"RC","Dead",2,106,"HL",2,"AH",9,"HL","45826",NA,"germinated",1
+"SUM",106,"RC","Dead",2,106,"HL",2,"AH",9,"HL","45826",NA,"burst",0
+"SUM",106,"RC","Dead",2,106,"HL",2,"AH",9,"HL","45826",NA,"missing",0
+"WIL",106,"RC","Dead",2,106,"HL",2,"AH",10,"TN","45830",NA,"germinated",0
+"WIL",106,"RC","Dead",2,106,"HL",2,"AH",10,"TN","45830",NA,"burst",0
+"WIL",106,"RC","Dead",2,106,"HL",2,"AH",10,"TN","45830",NA,"missing",0
+"SUM",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",107,"OH","Live",2,107,"HL",1,"TI",3,"HL","45826",NA,"germinated",6
+"SUM",107,"OH","Live",2,107,"HL",1,"TI",3,"HL","45826",NA,"burst",1
+"SUM",107,"OH","Live",2,107,"HL",1,"TI",3,"HL","45826",NA,"missing",0
+"WIL",107,"OH","Live",2,107,"HL",1,"TI",2,"TN","45830",NA,"germinated",5
+"WIL",107,"OH","Live",2,107,"HL",1,"TI",2,"TN","45830",NA,"burst",3
+"WIL",107,"OH","Live",2,107,"HL",1,"TI",2,"TN","45830",NA,"missing",0
+"SUM",107,"OH","Live",2,107,"HL",2,"NG",4,"HL","45826",NA,"germinated",5
+"SUM",107,"OH","Live",2,107,"HL",2,"NG",4,"HL","45826",NA,"burst",1
+"SUM",107,"OH","Live",2,107,"HL",2,"NG",4,"HL","45826",NA,"missing",0
+"WIL",107,"OH","Live",2,107,"HL",2,"NG",2,"TN","45830",NA,"germinated",6
+"WIL",107,"OH","Live",2,107,"HL",2,"NG",2,"TN","45830",NA,"burst",2
+"WIL",107,"OH","Live",2,107,"HL",2,"NG",2,"TN","45830",NA,"missing",0
+"SUM",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",108,"HR","Live",3,108,"HL",1,"NG",0,"HL","45846",NA,"germinated",9
+"SUM",108,"HR","Live",3,108,"HL",1,"NG",0,"HL","45846",NA,"burst",0
+"SUM",108,"HR","Live",3,108,"HL",1,"NG",0,"HL","45846",NA,"missing",1
+"WIL",108,"HR","Live",3,108,"HL",1,"TI",4,"TN","45830",NA,"germinated",6
+"WIL",108,"HR","Live",3,108,"HL",1,"TI",4,"TN","45830",NA,"burst",0
+"WIL",108,"HR","Live",3,108,"HL",1,"TI",4,"TN","45830",NA,"missing",0
+"SUM",108,"HR","Live",3,108,"HL",2,"TI",5,"HL","45846",NA,"germinated",5
+"SUM",108,"HR","Live",3,108,"HL",2,"TI",5,"HL","45846",NA,"burst",0
+"SUM",108,"HR","Live",3,108,"HL",2,"TI",5,"HL","45846",NA,"missing",0
+"WIL",108,"HR","Live",3,108,"HL",2,"NG",5,"TN","45830",NA,"germinated",5
+"WIL",108,"HR","Live",3,108,"HL",2,"NG",5,"TN","45830",NA,"burst",0
+"WIL",108,"HR","Live",3,108,"HL",2,"NG",5,"TN","45830",NA,"missing",0
+"SUM",108,"HR","Live",3,108,"HL",3,"BB",10,"HL","45846","1 intact shriveled,crumbly","germinated",0
+"SUM",108,"HR","Live",3,108,"HL",3,"BB",10,"HL","45846","1 intact shriveled,crumbly","burst",0
+"SUM",108,"HR","Live",3,108,"HL",3,"BB",10,"HL","45846","1 intact shriveled,crumbly","missing",0
+"WIL",108,"HR","Live",3,108,"HL",3,"BB",6,"TN","45830",NA,"germinated",4
+"WIL",108,"HR","Live",3,108,"HL",3,"BB",6,"TN","45830",NA,"burst",0
+"WIL",108,"HR","Live",3,108,"HL",3,"BB",6,"TN","45830",NA,"missing",0
+"SUM",109,"SR","Live",2,109,"HL",1,"NG",5,"HL","45826",NA,"germinated",5
+"SUM",109,"SR","Live",2,109,"HL",1,"NG",5,"HL","45826",NA,"burst",0
+"SUM",109,"SR","Live",2,109,"HL",1,"NG",5,"HL","45826",NA,"missing",0
+"WIL",109,"SR","Live",2,109,"HL",1,"NG",5,"TN","45830",NA,"germinated",5
+"WIL",109,"SR","Live",2,109,"HL",1,"NG",5,"TN","45830",NA,"burst",0
+"WIL",109,"SR","Live",2,109,"HL",1,"NG",5,"TN","45830",NA,"missing",0
+"SUM",109,"SR","Live",2,109,"HL",2,"BB",4,"HL","45826",NA,"germinated",6
+"SUM",109,"SR","Live",2,109,"HL",2,"BB",4,"HL","45826",NA,"burst",0
+"SUM",109,"SR","Live",2,109,"HL",2,"BB",4,"HL","45826",NA,"missing",0
+"WIL",109,"SR","Live",2,109,"HL",2,"BB",6,"TN","45830",NA,"germinated",4
+"WIL",109,"SR","Live",2,109,"HL",2,"BB",6,"TN","45830",NA,"burst",0
+"WIL",109,"SR","Live",2,109,"HL",2,"BB",6,"TN","45830",NA,"missing",0
+"SUM",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",110,"HG","Dead",3,110,"HL",1,"OH",3,"HL","45846",NA,"germinated",4
+"SUM",110,"HG","Dead",3,110,"HL",1,"OH",3,"HL","45846",NA,"burst",0
+"SUM",110,"HG","Dead",3,110,"HL",1,"OH",3,"HL","45846",NA,"missing",3
+"WIL",110,"HG","Dead",3,110,"HL",1,"SR",0,"-","-","missing","germinated",0
+"WIL",110,"HG","Dead",3,110,"HL",1,"SR",0,"-","-","missing","burst",0
+"WIL",110,"HG","Dead",3,110,"HL",1,"SR",0,"-","-","missing","missing",0
+"SUM",110,"HG","Dead",3,110,"HL",2,"CR",5,"HL","45846",NA,"germinated",4
+"SUM",110,"HG","Dead",3,110,"HL",2,"CR",5,"HL","45846",NA,"burst",1
+"SUM",110,"HG","Dead",3,110,"HL",2,"CR",5,"HL","45846",NA,"missing",0
+"WIL",110,"HG","Dead",3,110,"HL",2,"CR",0,"-","-","missing","germinated",0
+"WIL",110,"HG","Dead",3,110,"HL",2,"CR",0,"-","-","missing","burst",0
+"WIL",110,"HG","Dead",3,110,"HL",2,"CR",0,"-","-","missing","missing",0
+"SUM",110,"HG","Dead",3,110,"HL",3,"SR",6,"HL","45846",NA,"germinated",4
+"SUM",110,"HG","Dead",3,110,"HL",3,"SR",6,"HL","45846",NA,"burst",0
+"SUM",110,"HG","Dead",3,110,"HL",3,"SR",6,"HL","45846",NA,"missing",0
+"WIL",110,"HG","Dead",3,110,"HL",3,"OH",0,"-","-","missing","germinated",0
+"WIL",110,"HG","Dead",3,110,"HL",3,"OH",0,"-","-","missing","burst",0
+"WIL",110,"HG","Dead",3,110,"HL",3,"OH",0,"-","-","missing","missing",0
+"SUM",111,"NG","Dead",2,111,"HL",1,"OH",6,"HL","45846",NA,"germinated",2
+"SUM",111,"NG","Dead",2,111,"HL",1,"OH",6,"HL","45846",NA,"burst",2
+"SUM",111,"NG","Dead",2,111,"HL",1,"OH",6,"HL","45846",NA,"missing",0
+"WIL",111,"NG","Dead",2,111,"HL",1,"OH",2,"HL","45838",NA,"germinated",4
+"WIL",111,"NG","Dead",2,111,"HL",1,"OH",2,"HL","45838",NA,"burst",4
+"WIL",111,"NG","Dead",2,111,"HL",1,"OH",2,"HL","45838",NA,"missing",0
+"SUM",111,"NG","Dead",2,111,"HL",2,"SR",6,"HL","45846",NA,"germinated",3
+"SUM",111,"NG","Dead",2,111,"HL",2,"SR",6,"HL","45846",NA,"burst",0
+"SUM",111,"NG","Dead",2,111,"HL",2,"SR",6,"HL","45846",NA,"missing",1
+"WIL",111,"NG","Dead",2,111,"HL",2,"SR",7,"HL","45838",NA,"germinated",3
+"WIL",111,"NG","Dead",2,111,"HL",2,"SR",7,"HL","45838",NA,"burst",0
+"WIL",111,"NG","Dead",2,111,"HL",2,"SR",7,"HL","45838",NA,"missing",0
+"SUM",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",112,"RC","Dead",3,112,"HL",1,"BB",4,"HL","45846",NA,"germinated",6
+"SUM",112,"RC","Dead",3,112,"HL",1,"BB",4,"HL","45846",NA,"burst",0
+"SUM",112,"RC","Dead",3,112,"HL",1,"BB",4,"HL","45846",NA,"missing",0
+"WIL",112,"RC","Dead",3,112,"HL",1,"NG",3,"HL","45838",NA,"germinated",7
+"WIL",112,"RC","Dead",3,112,"HL",1,"NG",3,"HL","45838",NA,"burst",0
+"WIL",112,"RC","Dead",3,112,"HL",1,"NG",3,"HL","45838",NA,"missing",0
+"SUM",112,"RC","Dead",3,112,"HL",2,"NG",4,"HL","45846",NA,"germinated",6
+"SUM",112,"RC","Dead",3,112,"HL",2,"NG",4,"HL","45846",NA,"burst",0
+"SUM",112,"RC","Dead",3,112,"HL",2,"NG",4,"HL","45846",NA,"missing",0
+"WIL",112,"RC","Dead",3,112,"HL",2,"BB",5,"HL","45838",NA,"germinated",4
+"WIL",112,"RC","Dead",3,112,"HL",2,"BB",5,"HL","45838",NA,"burst",1
+"WIL",112,"RC","Dead",3,112,"HL",2,"BB",5,"HL","45838",NA,"missing",0
+"SUM",112,"RC","Dead",3,112,"HL",3,"TI",5,"HL","45846",NA,"germinated",5
+"SUM",112,"RC","Dead",3,112,"HL",3,"TI",5,"HL","45846",NA,"burst",0
+"SUM",112,"RC","Dead",3,112,"HL",3,"TI",5,"HL","45846",NA,"missing",0
+"WIL",112,"RC","Dead",3,112,"HL",3,"TI",4,"HL","45838",NA,"germinated",6
+"WIL",112,"RC","Dead",3,112,"HL",3,"TI",4,"HL","45838",NA,"burst",0
+"WIL",112,"RC","Dead",3,112,"HL",3,"TI",4,"HL","45838",NA,"missing",0
+"SUM",113,"TI","Live",2,113,"HL",1,"OH",5,"HL","45826",NA,"germinated",5
+"SUM",113,"TI","Live",2,113,"HL",1,"OH",5,"HL","45826",NA,"burst",0
+"SUM",113,"TI","Live",2,113,"HL",1,"OH",5,"HL","45826",NA,"missing",0
+"WIL",113,"TI","Live",2,113,"HL",1,"CR",9,"TN","45830",NA,"germinated",0
+"WIL",113,"TI","Live",2,113,"HL",1,"CR",9,"TN","45830",NA,"burst",1
+"WIL",113,"TI","Live",2,113,"HL",1,"CR",9,"TN","45830",NA,"missing",0
+"SUM",113,"TI","Live",2,113,"HL",2,"CR",8,"HL","45826",NA,"germinated",2
+"SUM",113,"TI","Live",2,113,"HL",2,"CR",8,"HL","45826",NA,"burst",0
+"SUM",113,"TI","Live",2,113,"HL",2,"CR",8,"HL","45826",NA,"missing",0
+"WIL",113,"TI","Live",2,113,"HL",2,"OH",10,"TN","45830",NA,"germinated",0
+"WIL",113,"TI","Live",2,113,"HL",2,"OH",10,"TN","45830",NA,"burst",0
+"WIL",113,"TI","Live",2,113,"HL",2,"OH",10,"TN","45830",NA,"missing",0
+"SUM",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",114,"RC","Live",2,114,"HL",1,"AH",9,"HL","45826",NA,"germinated",0
+"SUM",114,"RC","Live",2,114,"HL",1,"AH",9,"HL","45826",NA,"burst",0
+"SUM",114,"RC","Live",2,114,"HL",1,"AH",9,"HL","45826",NA,"missing",1
+"WIL",114,"RC","Live",2,114,"HL",1,"RC",5,"TN","45831",NA,"germinated",5
+"WIL",114,"RC","Live",2,114,"HL",1,"RC",5,"TN","45831",NA,"burst",0
+"WIL",114,"RC","Live",2,114,"HL",1,"RC",5,"TN","45831",NA,"missing",0
+"SUM",114,"RC","Live",2,114,"HL",2,"RC",0,"HL","45826",NA,"germinated",10
+"SUM",114,"RC","Live",2,114,"HL",2,"RC",0,"HL","45826",NA,"burst",0
+"SUM",114,"RC","Live",2,114,"HL",2,"RC",0,"HL","45826",NA,"missing",0
+"WIL",114,"RC","Live",2,114,"HL",2,"AH",10,"TN","45831",NA,"germinated",0
+"WIL",114,"RC","Live",2,114,"HL",2,"AH",10,"TN","45831",NA,"burst",0
+"WIL",114,"RC","Live",2,114,"HL",2,"AH",10,"TN","45831",NA,"missing",0
+"SUM",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",115,"TI","Live",2,115,"HL",1,"CR",4,"HL","45826",NA,"germinated",6
+"SUM",115,"TI","Live",2,115,"HL",1,"CR",4,"HL","45826",NA,"burst",0
+"SUM",115,"TI","Live",2,115,"HL",1,"CR",4,"HL","45826",NA,"missing",0
+"WIL",115,"TI","Live",2,115,"HL",1,"CR",6,"TN","45830",NA,"germinated",3
+"WIL",115,"TI","Live",2,115,"HL",1,"CR",6,"TN","45830",NA,"burst",1
+"WIL",115,"TI","Live",2,115,"HL",1,"CR",6,"TN","45830",NA,"missing",0
+"SUM",115,"TI","Live",2,115,"HL",2,"OH",6,"HL","45826",NA,"germinated",4
+"SUM",115,"TI","Live",2,115,"HL",2,"OH",6,"HL","45826",NA,"burst",0
+"SUM",115,"TI","Live",2,115,"HL",2,"OH",6,"HL","45826",NA,"missing",0
+"WIL",115,"TI","Live",2,115,"HL",2,"OH",6,"TN","45830",NA,"germinated",2
+"WIL",115,"TI","Live",2,115,"HL",2,"OH",6,"TN","45830",NA,"burst",2
+"WIL",115,"TI","Live",2,115,"HL",2,"OH",6,"TN","45830",NA,"missing",0
+"SUM",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"SUM",116,"BB","Dead",3,116,"HL",1,"BB",5,"TN","45826",NA,"germinated",3
+"SUM",116,"BB","Dead",3,116,"HL",1,"BB",5,"TN","45826",NA,"burst",2
+"SUM",116,"BB","Dead",3,116,"HL",1,"BB",5,"TN","45826",NA,"missing",0
+"WIL",116,"BB","Dead",3,116,"HL",1,"BB",6,"TN","45830",NA,"germinated",4
+"WIL",116,"BB","Dead",3,116,"HL",1,"BB",6,"TN","45830",NA,"burst",0
+"WIL",116,"BB","Dead",3,116,"HL",1,"BB",6,"TN","45830",NA,"missing",0
+"SUM",116,"BB","Dead",3,116,"HL",2,"RC",4,"TN","45826","2 intact seeds very small","germinated",4
+"SUM",116,"BB","Dead",3,116,"HL",2,"RC",4,"TN","45826","2 intact seeds very small","burst",0
+"SUM",116,"BB","Dead",3,116,"HL",2,"RC",4,"TN","45826","2 intact seeds very small","missing",2
+"WIL",116,"BB","Dead",3,116,"HL",2,"RC",7,"TN","45830",NA,"germinated",2
+"WIL",116,"BB","Dead",3,116,"HL",2,"RC",7,"TN","45830",NA,"burst",1
+"WIL",116,"BB","Dead",3,116,"HL",2,"RC",7,"TN","45830",NA,"missing",0
+"SUM",116,"BB","Dead",3,116,"HL",3,"HR",6,"TN","45826",NA,"germinated",4
+"SUM",116,"BB","Dead",3,116,"HL",3,"HR",6,"TN","45826",NA,"burst",0
+"SUM",116,"BB","Dead",3,116,"HL",3,"HR",6,"TN","45826",NA,"missing",0
+"WIL",116,"BB","Dead",3,116,"HL",3,"HR",4,"TN","45830",NA,"germinated",4
+"WIL",116,"BB","Dead",3,116,"HL",3,"HR",4,"TN","45830",NA,"burst",4
+"WIL",116,"BB","Dead",3,116,"HL",3,"HR",4,"TN","45830",NA,"missing",0
+"SUM",117,"RC","Dead",3,117,"HL",1,"TI",0,"TN","45826","no intact seeds","germinated",5
+"SUM",117,"RC","Dead",3,117,"HL",1,"TI",0,"TN","45826","no intact seeds","burst",5
+"SUM",117,"RC","Dead",3,117,"HL",1,"TI",0,"TN","45826","no intact seeds","missing",0
+"WIL",117,"RC","Dead",3,117,"HL",1,"TI",1,"TN","45831",NA,"germinated",8
+"WIL",117,"RC","Dead",3,117,"HL",1,"TI",1,"TN","45831",NA,"burst",1
+"WIL",117,"RC","Dead",3,117,"HL",1,"TI",1,"TN","45831",NA,"missing",0
+"SUM",117,"RC","Dead",3,117,"HL",2,"NG",2,"TN","45826",NA,"germinated",5
+"SUM",117,"RC","Dead",3,117,"HL",2,"NG",2,"TN","45826",NA,"burst",3
+"SUM",117,"RC","Dead",3,117,"HL",2,"NG",2,"TN","45826",NA,"missing",0
+"WIL",117,"RC","Dead",3,117,"HL",2,"NG",4,"TN","45831",NA,"germinated",5
+"WIL",117,"RC","Dead",3,117,"HL",2,"NG",4,"TN","45831",NA,"burst",1
+"WIL",117,"RC","Dead",3,117,"HL",2,"NG",4,"TN","45831",NA,"missing",0
+"SUM",117,"RC","Dead",3,117,"HL",3,"BB",6,"TN","45826",NA,"germinated",3
+"SUM",117,"RC","Dead",3,117,"HL",3,"BB",6,"TN","45826",NA,"burst",1
+"SUM",117,"RC","Dead",3,117,"HL",3,"BB",6,"TN","45826",NA,"missing",0
+"WIL",117,"RC","Dead",3,117,"HL",3,"BB",4,"TN","45831",NA,"germinated",6
+"WIL",117,"RC","Dead",3,117,"HL",3,"BB",4,"TN","45831",NA,"burst",0
+"WIL",117,"RC","Dead",3,117,"HL",3,"BB",4,"TN","45831",NA,"missing",0
+"SUM",118,"CR","Dead",3,118,"HL",1,"CR",4,"TN","45825",NA,"germinated",5
+"SUM",118,"CR","Dead",3,118,"HL",1,"CR",4,"TN","45825",NA,"burst",1
+"SUM",118,"CR","Dead",3,118,"HL",1,"CR",4,"TN","45825",NA,"missing",0
+"WIL",118,"CR","Dead",3,118,"HL",1,"CR",8,"TN","45831",NA,"germinated",2
+"WIL",118,"CR","Dead",3,118,"HL",1,"CR",8,"TN","45831",NA,"burst",0
+"WIL",118,"CR","Dead",3,118,"HL",1,"CR",8,"TN","45831",NA,"missing",0
+"SUM",118,"CR","Dead",3,118,"HL",2,"HG",3,"TN","45825",NA,"germinated",3
+"SUM",118,"CR","Dead",3,118,"HL",2,"HG",3,"TN","45825",NA,"burst",3
+"SUM",118,"CR","Dead",3,118,"HL",2,"HG",3,"TN","45825",NA,"missing",1
+"WIL",118,"CR","Dead",3,118,"HL",2,"HG",8,"TN","45831",NA,"germinated",0
+"WIL",118,"CR","Dead",3,118,"HL",2,"HG",8,"TN","45831",NA,"burst",1
+"WIL",118,"CR","Dead",3,118,"HL",2,"HG",8,"TN","45831",NA,"missing",1
+"SUM",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45825",NA,"germinated",0
+"SUM",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45825",NA,"burst",0
+"SUM",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45825",NA,"missing",0
+"WIL",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45831",NA,"germinated",0
+"WIL",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45831",NA,"burst",0
+"WIL",118,"CR","Dead",3,118,"HL",3,"AH",10,"TN","45831",NA,"missing",0
+"SUM",119,"RC","Dead",3,119,"HL",1,"NG",7,"HL","45846","2 intact small and shriveled","germinated",3
+"SUM",119,"RC","Dead",3,119,"HL",1,"NG",7,"HL","45846","2 intact small and shriveled","burst",0
+"SUM",119,"RC","Dead",3,119,"HL",1,"NG",7,"HL","45846","2 intact small and shriveled","missing",0
+"WIL",119,"RC","Dead",3,119,"HL",1,"NG",3,"HL","45838",NA,"germinated",7
+"WIL",119,"RC","Dead",3,119,"HL",1,"NG",3,"HL","45838",NA,"burst",0
+"WIL",119,"RC","Dead",3,119,"HL",1,"NG",3,"HL","45838",NA,"missing",0
+"SUM",119,"RC","Dead",3,119,"HL",2,"TI",2,"HL","45846","1 intact flat","germinated",8
+"SUM",119,"RC","Dead",3,119,"HL",2,"TI",2,"HL","45846","1 intact flat","burst",0
+"SUM",119,"RC","Dead",3,119,"HL",2,"TI",2,"HL","45846","1 intact flat","missing",0
+"WIL",119,"RC","Dead",3,119,"HL",2,"TI",5,"HL","45838",NA,"germinated",5
+"WIL",119,"RC","Dead",3,119,"HL",2,"TI",5,"HL","45838",NA,"burst",0
+"WIL",119,"RC","Dead",3,119,"HL",2,"TI",5,"HL","45838",NA,"missing",0
+"SUM",119,"RC","Dead",3,119,"HL",3,"BB",2,"HL","45846",NA,"germinated",8
+"SUM",119,"RC","Dead",3,119,"HL",3,"BB",2,"HL","45846",NA,"burst",0
+"SUM",119,"RC","Dead",3,119,"HL",3,"BB",2,"HL","45846",NA,"missing",0
+"WIL",119,"RC","Dead",3,119,"HL",3,"BB",12,"HL","45838",NA,"germinated",8
+"WIL",119,"RC","Dead",3,119,"HL",3,"BB",12,"HL","45838",NA,"burst",0
+"WIL",119,"RC","Dead",3,119,"HL",3,"BB",12,"HL","45838",NA,"missing",0
+"SUM",120,"OH","Dead",2,120,"HL",1,"TI",0,"HL","45846",NA,"germinated",10
+"SUM",120,"OH","Dead",2,120,"HL",1,"TI",0,"HL","45846",NA,"burst",0
+"SUM",120,"OH","Dead",2,120,"HL",1,"TI",0,"HL","45846",NA,"missing",0
+"WIL",120,"OH","Dead",2,120,"HL",1,"TI",0,"-","-","missing","germinated",0
+"WIL",120,"OH","Dead",2,120,"HL",1,"TI",0,"-","-","missing","burst",0
+"WIL",120,"OH","Dead",2,120,"HL",1,"TI",0,"-","-","missing","missing",0
+"SUM",120,"OH","Dead",2,120,"HL",2,"NG",1,"HL","45846",NA,"germinated",7
+"SUM",120,"OH","Dead",2,120,"HL",2,"NG",1,"HL","45846",NA,"burst",0
+"SUM",120,"OH","Dead",2,120,"HL",2,"NG",1,"HL","45846",NA,"missing",2
+"WIL",120,"OH","Dead",2,120,"HL",2,"NG",0,"-","-","missing","germinated",0
+"WIL",120,"OH","Dead",2,120,"HL",2,"NG",0,"-","-","missing","burst",0
+"WIL",120,"OH","Dead",2,120,"HL",2,"NG",0,"-","-","missing","missing",0
+"SUM",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"SUM",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"SUM",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+"WIL",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+"WIL",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+"WIL",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,600,NA,NA,1,NA,1084,NA,NA,NA,"germinated",1060
+NA,NA,NA,NA,600,NA,NA,1,NA,1084,NA,NA,NA,"burst",133
+NA,NA,NA,NA,600,NA,NA,1,NA,1084,NA,NA,NA,"missing",75
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"burst",2352
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,600,NA,NA,2,NA,1233,NA,NA,NA,"germinated",865
+NA,NA,NA,NA,600,NA,NA,2,NA,1233,NA,NA,NA,"burst",104
+NA,NA,NA,NA,600,NA,NA,2,NA,1233,NA,NA,NA,"missing",99
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"burst",2301
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,600,NA,NA,3,NA,697,NA,NA,NA,"germinated",352
+NA,NA,NA,NA,600,NA,NA,3,NA,697,NA,NA,NA,"burst",37
+NA,NA,NA,NA,600,NA,NA,3,NA,697,NA,NA,NA,"missing",46
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"burst",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"missing",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"germinated",NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"burst",1132
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,"missing",NA

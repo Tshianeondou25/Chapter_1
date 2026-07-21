@@ -1,0 +1,739 @@
+"garden","meso_id","soil_id","treat","n_bags","...31","entered_by","bag","seed_id","intact","germinated","burst","missing","obs","date","notes"
+"SUM",1,"RC","Live",3,1,"HL",1,"TI",1,9,0,0,"SF","45807",NA
+"WIL",1,"RC","Live",3,1,"HL",1,"NG",2,5,0,3,"HL","45812",NA
+"SUM",1,"RC","Live",3,1,"HL",2,"NG",1,9,0,0,"SF","45807",NA
+"WIL",1,"RC","Live",3,1,"HL",2,"TI",3,5,2,0,"HL","45812","1intact shriveled"
+"SUM",1,"RC","Live",3,1,"HL",3,"BB",7,3,0,0,"SF","45807","1 intact may have just begun germinating"
+"WIL",1,"RC","Live",3,1,"HL",3,"BB",4,6,0,0,"HL","45812",NA
+"SUM",2,"BB","Live",2,2,"HL",1,"SR",2,6,0,2,"SF","45807","bag not fully sealed"
+"WIL",2,"BB","Live",2,2,"HL",1,"SR",3,6,1,0,"SF","45812","1 intact in pieces"
+"SUM",2,"BB","Live",2,2,"HL",2,"CR",7,3,0,0,"SF","45807","1 intact black, shriveled"
+"WIL",2,"BB","Live",2,2,"HL",2,"CR",9,0,0,1,"SF","45812",NA
+"SUM",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",2,"BB","Live",2,2,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",3,"SR","Dead",2,3,"HL",1,"NG",6,4,0,0,"SF","45810","1 intact may be germ"
+"WIL",3,"SR","Dead",2,3,"HL",1,"NG",3,7,0,0,"SF","45811",NA
+"SUM",3,"SR","Dead",2,3,"HL",2,"BB",2,8,0,0,"SF","45810",NA
+"WIL",3,"SR","Dead",2,3,"HL",2,"BB",3,7,0,0,"SF","45811",NA
+"SUM",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",3,"SR","Dead",2,3,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",4,"CR","Dead",2,4,"HL",1,"TI",1,7,1,1,"HL","45810",NA
+"WIL",4,"CR","Dead",2,4,"HL",1,"TI",2,8,0,0,"SF","45811","1 intact, black and mushy"
+"SUM",4,"CR","Dead",2,4,"HL",2,"BB",4,6,0,0,"HL","45810",NA
+"WIL",4,"CR","Dead",2,4,"HL",2,"BB",7,3,0,0,"SF","45811",NA
+"SUM",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",4,"CR","Dead",2,4,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",5,"NG","Live",3,5,"HL",1,"NG",3,7,0,0,"SF","45810","1 intact black, shriveled"
+"WIL",5,"NG","Live",3,5,"HL",1,"RC",3,7,0,0,"HL","45811","pink growth (fusarium)"
+"SUM",5,"NG","Live",3,5,"HL",2,"RC",6,4,0,0,"SF","45810","1 intact shriveled"
+"WIL",5,"NG","Live",3,5,"HL",2,"HR",4,4,0,2,"HL","45811","possibly another intact but got squished"
+"SUM",5,"NG","Live",3,5,"HL",3,"HR",10,0,0,0,"SF","45810",NA
+"WIL",5,"NG","Live",3,5,"HL",3,"NG",3,7,0,0,"HL","45811",NA
+"SUM",6,"BB","Live",3,6,"HL",1,"BB",10,0,0,0,"HL","45810",NA
+"WIL",6,"BB","Live",3,6,"HL",1,"BB",6,3,0,1,"SF","45812",NA
+"SUM",6,"BB","Live",3,6,"HL",2,"RC",3,4,0,3,"HL","45810",NA
+"WIL",6,"BB","Live",3,6,"HL",2,"RC",8,2,0,0,"SF","45812","intact are black/shriveled"
+"SUM",6,"BB","Live",3,6,"HL",3,"HR",9,0,0,1,"HL","45810",NA
+"WIL",6,"BB","Live",3,6,"HL",3,"HR",8,2,0,0,"SF","45812",NA
+"SUM",7,"SR","Dead",3,7,"HL",1,"SR",3,6,1,0,"SF","45807",NA
+"WIL",7,"SR","Dead",3,7,"HL",1,"SR",1,9,0,0,"SF","45811",NA
+"SUM",7,"SR","Dead",3,7,"HL",2,"HG",4,6,0,0,"SF","45807",NA
+"WIL",7,"SR","Dead",3,7,"HL",2,"HG",7,3,0,0,"SF","45811",NA
+"SUM",7,"SR","Dead",3,7,"HL",3,"AH",9,1,0,0,"SF","45807",NA
+"WIL",7,"SR","Dead",3,7,"HL",3,"AH",8,1,1,0,"SF","45811",NA
+"SUM",8,"BB","Live",3,8,"HL",1,"BB",10,0,0,0,"SF","45810",NA
+"WIL",8,"BB","Live",3,8,"HL",1,"BB",8,2,0,0,"SF","45812",NA
+"SUM",8,"BB","Live",3,8,"HL",2,"RC",3,6,0,1,"SF","45810","intact super shriveled"
+"WIL",8,"BB","Live",3,8,"HL",2,"RC",5,4,0,1,"SF","45812","1 intact fell apart"
+"SUM",8,"BB","Live",3,8,"HL",3,"HR",10,0,0,0,"SF","45810","white dots on intact"
+"WIL",8,"BB","Live",3,8,"HL",3,"HR",8,2,0,0,"SF","45812","1 intact, white/fuzzy"
+"SUM",9,"OH","Live",2,9,"HL",1,"TI",1,8,0,1,"SF","45810",NA
+"WIL",9,"OH","Live",2,9,"HL",1,"TI",6,3,1,0,"HL","45811",NA
+"SUM",9,"OH","Live",2,9,"HL",2,"NG",4,5,0,1,"SF","45810","germs in pieces, intact have white fuzz"
+"WIL",9,"OH","Live",2,9,"HL",2,"NG",1,8,0,1,"HL","45811",NA
+"SUM",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",9,"OH","Live",2,9,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",10,"SR","Live",3,10,"HL",1,"SR",2,7,1,0,"SF","45810","1 intact dropped on counter"
+"WIL",10,"SR","Live",3,10,"HL",1,"AH",10,1,0,0,"HL","45810","extra"
+"SUM",10,"SR","Live",3,10,"HL",2,"HG",9,1,0,0,"SF","45810","1 intact could be germ"
+"WIL",10,"SR","Live",3,10,"HL",2,"SR",9,0,0,1,"HL","45810",NA
+"SUM",10,"SR","Live",3,10,"HL",3,"AH",10,0,0,0,"SF","45810",NA
+"WIL",10,"SR","Live",3,10,"HL",3,"HG",10,1,0,0,"SF","45811","1 extra seed"
+"SUM",11,"HR","Live",2,11,"HL",1,"HR",10,0,0,0,"SF","45810",NA
+"WIL",11,"HR","Live",2,11,"HL",1,"HR",8,2,0,0,"SF","45812","black furry growth"
+"SUM",11,"HR","Live",2,11,"HL",2,"HG",7,3,0,0,"SF","45810",NA
+"WIL",11,"HR","Live",2,11,"HL",2,"HG",4,5,0,1,"SF","45812",NA
+"SUM",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",11,"HR","Live",2,11,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",12,"AH","Live",3,12,"HL",1,"SR",7,3,0,0,"SF","45810",NA
+"WIL",12,"AH","Live",3,12,"HL",1,"CR",6,3,1,0,"HL","45812","1 intact is flat"
+"SUM",12,"AH","Live",3,12,"HL",2,"CR",7,3,0,0,"SF","45810",NA
+"WIL",12,"AH","Live",3,12,"HL",2,"OH",8,2,0,0,"HL","45812",NA
+"SUM",12,"AH","Live",3,12,"HL",3,"OH",9,0,0,1,"HL","45810","mystery seed material, could be from 10th seed"
+"WIL",12,"AH","Live",3,12,"HL",3,"SR",4,3,3,0,"HL","45812",NA
+"SUM",13,"HR","Dead",2,13,"HL",1,"HR",5,5,0,0,"SF","45806",NA
+"WIL",13,"HR","Dead",2,13,"HL",1,"HR",7,2,1,0,"SF","45811",NA
+"SUM",13,"HR","Dead",2,13,"HL",2,"HG",6,2,0,2,"SF","45806",NA
+"WIL",13,"HR","Dead",2,13,"HL",2,"HG",7,3,0,0,"HL","45810",NA
+"SUM",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",13,"HR","Dead",2,13,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",14,"HG","Live",3,14,"HL",1,"SR",0,8,1,1,"SF","45799",NA
+"WIL",14,"HG","Live",3,14,"HL",1,"OH",5,5,0,0,"HL","45812",NA
+"SUM",14,"HG","Live",3,14,"HL",2,"CR",9,1,0,0,"SF","45799",NA
+"WIL",14,"HG","Live",3,14,"HL",2,"CR",7,2,0,1,"HL","45812",NA
+"SUM",14,"HG","Live",3,14,"HL",3,"OH",9,0,0,1,"SF","45799",NA
+"WIL",14,"HG","Live",3,14,"HL",3,"SR",2,8,0,0,"HL","45812",NA
+"SUM",15,"HG","Live",3,15,"HL",1,"SR",4,6,0,0,"SF","45799","1 intact seed fell apart"
+"WIL",15,"HG","Live",3,15,"HL",1,"OH",8,2,0,0,"HL","45812",NA
+"SUM",15,"HG","Live",3,15,"HL",2,"CR",9,1,0,0,"SF","45799",NA
+"WIL",15,"HG","Live",3,15,"HL",2,"CR",7,3,0,0,"HL","45812",NA
+"SUM",15,"HG","Live",3,15,"HL",3,"OH",6,4,0,0,"SF","45799",NA
+"WIL",15,"HG","Live",3,15,"HL",3,"SR",2,6,2,0,"HL","45812",NA
+"SUM",16,"CR","Dead",3,16,"HL",1,"CR",4,6,0,0,"SF","45799","1 intact soft/black"
+"WIL",16,"CR","Dead",3,16,"HL",1,"AH",9,1,0,0,"HL","45812","intact seeds black"
+"SUM",16,"CR","Dead",3,16,"HL",2,"HG",8,2,0,0,"SF","45799","1 intact smushed"
+"WIL",16,"CR","Dead",3,16,"HL",2,"CR",9,1,0,0,"HL","45812",NA
+"SUM",16,"CR","Dead",3,16,"HL",3,"AH",8,2,0,0,"SF","45799","1 intact smushed, 1 intact very black"
+"WIL",16,"CR","Dead",3,16,"HL",3,"HG",7,3,0,0,"HL","45812",NA
+"SUM",17,"HR","Dead",3,17,"HL",1,"TI",5,2,1,2,"SF","45806",NA
+"WIL",17,"HR","Dead",3,17,"HL",1,"TI",6,3,1,0,"SF","45812",NA
+"SUM",17,"HR","Dead",3,17,"HL",2,"NG",9,0,1,0,"SF","45806",NA
+"WIL",17,"HR","Dead",3,17,"HL",2,"NG",8,2,0,0,"SF","45812",NA
+"SUM",17,"HR","Dead",3,17,"HL",3,"BB",9,1,0,0,"SF","45806",NA
+"WIL",17,"HR","Dead",3,17,"HL",3,"BB",8,2,0,0,"SF","45812",NA
+"SUM",18,"HR","Live",2,18,"HL",1,"HR",9,1,0,0,"SF","45807",NA
+"WIL",18,"HR","Live",2,18,"HL",1,"HR",6,4,0,0,"SF","45811",NA
+"SUM",18,"HR","Live",2,18,"HL",2,"HG",9,1,0,0,"SF","45807",NA
+"WIL",18,"HR","Live",2,18,"HL",2,"HG",9,0,0,1,"SF","45811","2 intact black/mushy"
+"SUM",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",18,"HR","Live",2,18,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",19,"BB","Dead",3,19,"HL",1,"BB",5,5,0,0,"SF","45804",NA
+"WIL",19,"BB","Dead",3,19,"HL",1,"RC",1,5,4,0,"HL","45811",NA
+"SUM",19,"BB","Dead",3,19,"HL",2,"RC",5,5,0,0,"SF","45804",NA
+"WIL",19,"BB","Dead",3,19,"HL",2,"HR",7,3,0,0,"HL","45811",NA
+"SUM",19,"BB","Dead",3,19,"HL",3,"HR",6,4,0,0,"SF","45804",NA
+"WIL",19,"BB","Dead",3,19,"HL",3,"BB",4,6,0,0,"HL","45811",NA
+"SUM",20,"SR","Dead",2,20,"HL",1,"NG",2,6,2,0,"TN","45826",NA
+"WIL",20,"SR","Dead",2,20,"HL",1,"NG",4,6,0,0,"HL","45811",NA
+"SUM",20,"SR","Dead",2,20,"HL",2,"BB",5,5,0,0,"TN","45826",NA
+"WIL",20,"SR","Dead",2,20,"HL",2,"BB",3,7,0,0,"HL","45811",NA
+"SUM",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",20,"SR","Dead",2,20,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",21,"OH","Dead",3,21,"HL",1,"OH",7,3,0,0,"SF","45806","1 seed landed on counter"
+"WIL",21,"OH","Dead",3,21,"HL",1,"OH",9,1,0,0,"SF","45812",NA
+"SUM",21,"OH","Dead",3,21,"HL",2,"HG",9,0,1,0,"SF","45806","1 intact has white fuzz"
+"WIL",21,"OH","Dead",3,21,"HL",2,"HG",10,0,0,0,"SF","45812",NA
+"SUM",21,"OH","Dead",3,21,"HL",3,"AH",10,0,0,0,"SF","45806",NA
+"WIL",21,"OH","Dead",3,21,"HL",3,"AH",10,0,0,0,"SF","45812",NA
+"SUM",22,"TI","Live",3,22,"HL",1,"TI",2,8,0,0,"SF","45806","1 intact super shriveled"
+"WIL",22,"TI","Live",3,22,"HL",1,"TI",2,7,0,1,"HL","45811",NA
+"SUM",22,"TI","Live",3,22,"HL",2,"RC",1,8,0,1,"SF","45806",NA
+"WIL",22,"TI","Live",3,22,"HL",2,"RC",6,4,0,0,"HL","45811",NA
+"SUM",22,"TI","Live",3,22,"HL",3,"HR",6,4,0,0,"SF","45806",NA
+"WIL",22,"TI","Live",3,22,"HL",3,"HR",8,2,0,0,"HL","45811",NA
+"SUM",23,"OH","Live",3,23,"HL",1,"OH",3,3,0,4,"SF","45806",NA
+"WIL",23,"OH","Live",3,23,"HL",1,"AH",7,2,0,1,"HL","45811",NA
+"SUM",23,"OH","Live",3,23,"HL",2,"HG",6,2,0,2,"SF","45806",NA
+"WIL",23,"OH","Live",3,23,"HL",2,"HG",3,3,0,4,"HL","45811","wet/mushy"
+"SUM",23,"OH","Live",3,23,"HL",3,"AH",9,1,0,0,"SF","45806",NA
+"WIL",23,"OH","Live",3,23,"HL",3,"OH",4,6,0,0,"HL","45811",NA
+"SUM",24,"NG","Live",3,24,"HL",1,"NG",8,1,0,1,"SF","45806",NA
+"WIL",24,"NG","Live",3,24,"HL",1,"RC",1,8,0,1,"HL","45810","very wet"
+"SUM",24,"NG","Live",3,24,"HL",2,"RC",6,4,0,0,"SF","45806","intact shriveled"
+"WIL",24,"NG","Live",3,24,"HL",2,"HR",3,7,0,0,"HL","45810",NA
+"SUM",24,"NG","Live",3,24,"HL",3,"HR",8,2,0,0,"SF","45806",NA
+"WIL",24,"NG","Live",3,24,"HL",3,"NG",4,2,3,1,"HL","45810",NA
+"SUM",25,"RC","Live",3,25,"HL",1,"TI",2,5,2,1,"SF","45799",NA
+"WIL",25,"RC","Live",3,25,"HL",1,"TI",3,7,0,0,"SF","45811","1 intact in two pieces"
+"SUM",25,"RC","Live",3,25,"HL",2,"NG",2,8,0,0,"SF","45799","intact shriveled"
+"WIL",25,"RC","Live",3,25,"HL",2,"NG",4,7,0,0,"SF","45811","extra seed"
+"SUM",25,"RC","Live",3,25,"HL",3,"BB",3,7,0,0,"SF","45799",NA
+"WIL",25,"RC","Live",3,25,"HL",3,"BB",6,4,0,0,"SF","45811","1 intact could be germ?"
+"SUM",26,"AH","Live",2,26,"HL",1,"AH",8,1,0,1,"SF","45798","black ""hair"" on intact"
+"WIL",26,"AH","Live",2,26,"HL",1,"RC",2,5,2,1,"HL","45811",NA
+"SUM",26,"AH","Live",2,26,"HL",2,"RC",6,1,1,3,"SF","45798",NA
+"WIL",26,"AH","Live",2,26,"HL",2,"AH",10,0,0,0,"HL","45811",NA
+"SUM",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",26,"AH","Live",2,26,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",27,"TI","Live",3,27,"HL",1,"TI",1,9,0,0,"SF","45804",NA
+"WIL",27,"TI","Live",3,27,"HL",1,"HR",7,3,0,0,"HL","45811",NA
+"SUM",27,"TI","Live",3,27,"HL",2,"RC",8,1,0,0,"SF","45804",NA
+"WIL",27,"TI","Live",3,27,"HL",2,"TO",5,5,0,0,"HL","45811",NA
+"SUM",27,"TI","Live",3,27,"HL",3,"HR",3,7,0,0,"SF","45804",NA
+"WIL",27,"TI","Live",3,27,"HL",3,"RC",5,3,2,0,"HL","45811",NA
+"SUM",28,"HG","Live",3,28,"HL",1,"SR",2,4,0,4,"SF","45798","bag not sealed"
+"WIL",28,"HG","Live",3,28,"HL",1,"OH",5,3,1,1,"HL","45810",NA
+"SUM",28,"HG","Live",3,28,"HL",2,"CR",6,4,0,0,"SF","45798",NA
+"WIL",28,"HG","Live",3,28,"HL",2,"SR",3,1,5,1,"HL","45810","extra weird bag, had to guess a little bit"
+"SUM",28,"HG","Live",3,28,"HL",3,"OH",7,2,0,1,"SF","45798",NA
+"WIL",28,"HG","Live",3,28,"HL",3,"CR",8,0,1,1,"HL","45810",NA
+"SUM",29,"AH","Dead",2,29,"HL",1,"AH",5,5,0,0,"SF","45798",NA
+"WIL",29,"AH","Dead",2,29,"HL",1,"AH",7,3,0,0,"SF","45811","1 intact landed on counter, white dots"
+"SUM",29,"AH","Dead",2,29,"HL",2,"RC",2,8,0,0,"SF","45798","1 intact shriveled"
+"WIL",29,"AH","Dead",2,29,"HL",2,"RC",2,8,0,0,"SF","45811","1 intact shriveled"
+"SUM",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",29,"AH","Dead",2,29,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",30,"CR","Live",2,30,"HL",1,"TI",6,4,0,0,"SF","45798","intact super shriveled"
+"WIL",30,"CR","Live",2,30,"HL",1,"BB",5,5,0,0,"HL","45810",NA
+"SUM",30,"CR","Live",2,30,"HL",2,"BB",1,9,0,0,"SF","45798",NA
+"WIL",30,"CR","Live",2,30,"HL",2,"TI",3,7,0,0,"HL","45810","weird"
+"SUM",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",30,"CR","Live",2,30,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",31,"SR","Live",2,31,"HL",1,"NG",1,8,0,1,"SF","45798",NA
+"WIL",31,"SR","Live",2,31,"HL",1,"missing",NA,NA,NA,NA,NA,NA,NA
+"SUM",31,"SR","Live",2,31,"HL",2,"BB",0,0,0,0,"SF","45798",NA
+"WIL",31,"SR","Live",2,31,"HL",2,"missing",NA,NA,NA,NA,NA,NA,NA
+"SUM",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",31,"SR","Live",2,31,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",32,"NG","Dead",3,32,"HL",1,"NG",2,9,0,0,"SF","45804","extra seeds"
+"WIL",32,"NG","Dead",3,32,"HL",1,"RC",3,3,4,0,"HL","45812",NA
+"SUM",32,"NG","Dead",3,32,"HL",2,"RC",1,7,0,2,"SF","45804",NA
+"WIL",32,"NG","Dead",3,32,"HL",2,"HR",4,6,0,0,"HL","45811","1 intact broken"
+"SUM",32,"NG","Dead",3,32,"HL",3,"HR",4,6,0,0,"SF","45804",NA
+"WIL",32,"NG","Dead",3,32,"HL",3,"NG",7,3,0,0,"HL","45812",NA
+"SUM",33,"SR","Dead",3,33,"HL",1,"SR",3,6,0,1,"SF","45798",NA
+"WIL",33,"SR","Dead",3,33,"HL",1,"SR",3,6,0,1,"SF","45811",NA
+"SUM",33,"SR","Dead",3,33,"HL",2,"HG",10,0,0,0,"SF","45798",NA
+"WIL",33,"SR","Dead",3,33,"HL",2,"HG",5,4,1,0,"SF","45811",NA
+"SUM",33,"SR","Dead",3,33,"HL",3,"AH",10,0,0,0,"SF","45804",NA
+"WIL",33,"SR","Dead",3,33,"HL",3,"AH",9,1,0,0,"SF","45811",NA
+"SUM",34,"HG","Dead",3,34,"HL",1,"SR",3,7,0,0,"SF","45806","1 intact could be germ"
+"WIL",34,"HG","Dead",3,34,"HL",1,"SR",1,8,1,0,"SF","45810",NA
+"SUM",34,"HG","Dead",3,34,"HL",2,"CR",9,0,0,1,"SF","45806",NA
+"WIL",34,"HG","Dead",3,34,"HL",2,"CR",6,3,0,1,"SF","45810",NA
+"SUM",34,"HG","Dead",3,34,"HL",3,"OH",10,0,0,0,"SF","45798","1 intact could be germ"
+"WIL",34,"HG","Dead",3,34,"HL",3,"OH",2,4,1,3,"SF","45810",NA
+"SUM",35,"RC","Dead",2,35,"HL",1,"AH",8,2,0,0,"SF","45799",NA
+"WIL",35,"RC","Dead",2,35,"HL",1,"RC",7,2,1,0,"SF","45804",NA
+"SUM",35,"RC","Dead",2,35,"HL",2,"RC",1,9,0,0,"SF","45799",NA
+"WIL",35,"RC","Dead",2,35,"HL",2,"AH",10,0,0,0,"SF","45804",NA
+"SUM",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",35,"RC","Dead",2,35,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",36,"HG","Live",2,36,"HL",1,"HR",5,4,0,1,"SF","45799",NA
+"WIL",36,"HG","Live",2,36,"HL",1,"HR",9,1,0,0,"HL","45810",NA
+"SUM",36,"HG","Live",2,36,"HL",2,"HG",4,3,3,0,"SF","45799",NA
+"WIL",36,"HG","Live",2,36,"HL",2,"HG",10,0,0,0,"HL","45810",NA
+"SUM",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",36,"HG","Live",2,36,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",37,"CR","Live",3,37,"HL",1,"CR",4,6,0,0,"SF","45799",NA
+"WIL",37,"CR","Live",3,37,"HL",1,"HG",3,5,2,0,"HL","45810",NA
+"SUM",37,"CR","Live",3,37,"HL",2,"HG",8,2,0,0,"SF","45799","intact are very shriveled"
+"WIL",37,"CR","Live",3,37,"HL",2,"AH",7,3,0,0,"HL","45810","dropped 1 of the intact"
+"SUM",37,"CR","Live",3,37,"HL",3,"AH",9,0,0,1,"SF","45799","1 intact seed fell apart"
+"WIL",37,"CR","Live",3,37,"HL",3,"CR",6,4,0,0,"HL","45810",NA
+"SUM",38,"AH","Dead",3,38,"HL",1,"SR",4,6,0,0,"SF","45806",NA
+"WIL",38,"AH","Dead",3,38,"HL",1,"SR",6,4,0,0,"SF","45811",NA
+"SUM",38,"AH","Dead",3,38,"HL",2,"CR",8,2,0,0,"SF","45806",NA
+"WIL",38,"AH","Dead",3,38,"HL",2,"CR",8,2,0,0,"SF","45811",NA
+"SUM",38,"AH","Dead",3,38,"HL",3,"OH",5,5,0,0,"SF","45806",NA
+"WIL",38,"AH","Dead",3,38,"HL",3,"OH",8,1,0,1,"SF","45811","some seeds sealed in hot glue"
+"SUM",39,"CR","Live",3,39,"HL",1,"CR",6,4,0,0,"SF","45804",NA
+"WIL",39,"CR","Live",3,39,"HL",1,"CR",5,3,2,0,"HL","45811",NA
+"SUM",39,"CR","Live",3,39,"HL",2,"HG",5,3,0,2,"SF","45804",NA
+"WIL",39,"CR","Live",3,39,"HL",2,"HG",5,4,1,0,"HL","45811",NA
+"SUM",39,"CR","Live",3,39,"HL",3,"AH",7,3,0,0,"SF","45804",NA
+"WIL",39,"CR","Live",3,39,"HL",3,"AH",9,2,0,0,"HL","45811",NA
+"SUM",40,"AH","Live",3,40,"HL",1,"SR",5,5,0,0,"SF","45806","intact seeds mushy"
+"WIL",40,"AH","Live",3,40,"HL",1,"SR",8,3,0,0,"SF","45812","1 extra seed"
+"SUM",40,"AH","Live",3,40,"HL",2,"CR",8,2,0,0,"SF","45806",NA
+"WIL",40,"AH","Live",3,40,"HL",2,"CR",6,3,0,1,"SF","45812",NA
+"SUM",40,"AH","Live",3,40,"HL",3,"OH",8,2,0,0,"SF","45806",NA
+"WIL",40,"AH","Live",3,40,"HL",3,"OH",6,3,0,1,"SF","45812",NA
+"SUM",41,"HR","Live",2,41,"HL",1,"HR",5,4,1,0,"TN","45825",NA
+"WIL",41,"HR","Live",2,41,"HL",1,"HR",4,5,1,0,"TN","45827",NA
+"SUM",41,"HR","Live",2,41,"HL",2,"HG",7,3,2,0,"TN","45825","bag was open"
+"WIL",41,"HR","Live",2,41,"HL",2,"HG",7,1,2,0,"TN","45827",NA
+"SUM",41,"HR","Live",2,41,"HL",3,NA,NA,NA,NA,NA,"TN",NA,NA
+"WIL",41,"HR","Live",2,41,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",42,"SR","Live",3,42,"HL",1,"SR",1,7,2,0,"TN","45825",NA
+"WIL",42,"SR","Live",3,42,"HL",1,"SR",0,8,2,0,"TN","45827",NA
+"SUM",42,"SR","Live",3,42,"HL",2,"HG",7,1,7,0,"TN","45825",NA
+"WIL",42,"SR","Live",3,42,"HL",2,"HG",5,5,0,0,"TN","45827",NA
+"SUM",42,"SR","Live",3,42,"HL",3,"AH",9,0,0,1,"TN","45825",NA
+"WIL",42,"SR","Live",3,42,"HL",3,"AH",5,2,0,3,"TN","45827",NA
+"SUM",43,"OH","Live",2,43,"HL",1,"TI",4,5,1,0,"TN","45825",NA
+"WIL",43,"OH","Live",2,43,"HL",1,"TI",2,5,3,0,"TN","45827",NA
+"SUM",43,"OH","Live",2,43,"HL",2,"NG",0,3,0,0,"TN","45825",NA
+"WIL",43,"OH","Live",2,43,"HL",2,"NG",7,3,0,0,"TN","45827","lost 1 intact seed"
+"SUM",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",43,"OH","Live",2,43,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",44,"NG","Live",2,44,"HL",1,"SR",8,2,0,0,"TN","45825",NA
+"WIL",44,"NG","Live",2,44,"HL",1,"SR",6,4,0,0,"TN","45827",NA
+"SUM",44,"NG","Live",2,44,"HL",2,"OH",10,0,0,0,"TN","45825",NA
+"WIL",44,"NG","Live",2,44,"HL",2,"OH",7,3,0,0,"TN","45827",NA
+"SUM",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",44,"NG","Live",2,44,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",45,"RC","Live",2,45,"HL",1,"RC",0,9,1,0,"TN","45825",NA
+"WIL",45,"RC","Live",2,45,"HL",1,"RC",0,10,0,0,"TN","45827",NA
+"SUM",45,"RC","Live",2,45,"HL",2,"AH",9,1,0,0,"TN","45825",NA
+"WIL",45,"RC","Live",2,45,"HL",2,"AH",6,3,1,0,"TN","45827",NA
+"SUM",45,"RC","Live",2,45,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",45,"RC","Live",2,45,"HL",3,"CR",8,2,0,0,"TN","45827","extra bag not labeled on whirl pak"
+"SUM",46,"BB","Dead",2,46,"HL",1,"SR",8,1,1,0,"TN","45826",NA
+"WIL",46,"BB","Dead",2,46,"HL",1,"SR",4,5,1,0,"TN","45827",NA
+"SUM",46,"BB","Dead",2,46,"HL",2,"CR",7,3,0,0,"TN","45826",NA
+"WIL",46,"BB","Dead",2,46,"HL",2,"CR",6,2,2,0,"TN","45827",NA
+"SUM",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",46,"BB","Dead",2,46,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",47,"HR","Dead",2,47,"HL",1,"HG",8,2,0,0,"HL","45845",NA
+"WIL",47,"HR","Dead",2,47,"HL",1,"HR",7,0,3,0,"TN","45827",NA
+"SUM",47,"HR","Dead",2,47,"HL",2,"HR",9,0,0,1,"HL","45845",NA
+"WIL",47,"HR","Dead",2,47,"HL",2,"HG",5,5,0,0,"TN","45827",NA
+"SUM",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",47,"HR","Dead",2,47,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",48,"OH","Live",3,48,"HL",1,"OH",7,3,0,0,"TN","45825",NA
+"WIL",48,"OH","Live",3,48,"HL",1,"OH",6,0,4,0,"TN","45827",NA
+"SUM",48,"OH","Live",3,48,"HL",2,"HG",8,0,2,0,"TN","45825",NA
+"WIL",48,"OH","Live",3,48,"HL",2,"HG",6,4,0,0,"TN","45827",NA
+"SUM",48,"OH","Live",3,48,"HL",3,"AH",5,1,3,0,"TN","45825",NA
+"WIL",48,"OH","Live",3,48,"HL",3,"AH",9,0,1,0,"TN","45827",NA
+"SUM",49,"BB","Live",2,49,"HL",1,"SR",2,8,0,0,"TN","45825",NA
+"WIL",49,"BB","Live",2,49,"HL",1,"SR",1,7,2,0,"TN","45827",NA
+"SUM",49,"BB","Live",2,49,"HL",2,"CR",7,3,0,0,"TN","45825",NA
+"WIL",49,"BB","Live",2,49,"HL",2,"CR",7,3,0,0,"TN","45827",NA
+"SUM",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",49,"BB","Live",2,49,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",50,"HG","Dead",2,50,"HL",1,"HR",9,1,0,0,"HL","45845",NA
+"WIL",50,"HG","Dead",2,50,"HL",1,"HG",2,4,2,1,"HL","45841",NA
+"SUM",50,"HG","Dead",2,50,"HL",2,"HG",7,2,0,1,"HL","45845",NA
+"WIL",50,"HG","Dead",2,50,"HL",2,"HR",0,0,0,0,"HL","45841","bag was open"
+"SUM",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",50,"HG","Dead",2,50,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",51,"BB","Dead",2,51,"HL",1,"CR",5,4,0,1,"HL","45845",NA
+"WIL",51,"BB","Dead",2,51,"HL",1,"SR",0,10,0,0,"HL","45841",NA
+"SUM",51,"BB","Dead",2,51,"HL",2,"SR",0,8,0,2,"HL","45845",NA
+"WIL",51,"BB","Dead",2,51,"HL",2,"CR",0,10,0,0,"HL","45841",NA
+"SUM",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",51,"BB","Dead",2,51,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",52,"OH","Dead",3,52,"HL",1,"HG",3,3,2,2,"HL","45845","1 burst maybe broken intact"
+"WIL",52,"OH","Dead",3,52,"HL",1,"OH",2,7,0,1,"HL","45841","wet"
+"SUM",52,"OH","Dead",3,52,"HL",2,"OH",6,0,1,6,"HL","45845","tear in bag, 3 seeds found in whirlpak"
+"WIL",52,"OH","Dead",3,52,"HL",2,"HG",5,4,0,1,"HL","45841",NA
+"SUM",52,"OH","Dead",3,52,"HL",3,"AH",10,0,0,0,"HL","45845","white dots"
+"WIL",52,"OH","Dead",3,52,"HL",3,"AH",7,3,0,0,"HL","45841",NA
+"SUM",53,"HG","Dead",3,53,"HL",1,"CR",10,0,0,0,"HL","45845",NA
+"WIL",53,"HG","Dead",3,53,"HL",1,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",53,"HG","Dead",3,53,"HL",2,"SR",7,3,0,0,"HL","45845",NA
+"WIL",53,"HG","Dead",3,53,"HL",2,NA,0,NA,NA,NA,NA,NA,NA
+"SUM",53,"HG","Dead",3,53,"HL",3,"OH",6,4,0,0,"HL","45845",NA
+"WIL",53,"HG","Dead",3,53,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",54,"AH","Dead",3,54,"HL",1,"OH",9,1,0,0,"HL","45845",NA
+"WIL",54,"AH","Dead",3,54,"HL",1,"OH",7,3,0,0,"HL","45841",NA
+"SUM",54,"AH","Dead",3,54,"HL",2,"SR",7,3,0,0,"HL","45845","1 fell on bench"
+"WIL",54,"AH","Dead",3,54,"HL",2,"SR",4,6,0,0,"HL","45841",NA
+"SUM",54,"AH","Dead",3,54,"HL",3,"CR",8,2,0,0,"HL","45845",NA
+"WIL",54,"AH","Dead",3,54,"HL",3,"CR",4,4,2,0,"HL","45841",NA
+"SUM",55,"NG","Live",2,55,"HL",1,"SR",6,4,0,0,"TN","45824",NA
+"WIL",55,"NG","Live",2,55,"HL",1,"SR",1,7,2,0,"TN","45827",NA
+"SUM",55,"NG","Live",2,55,"HL",2,"OH",8,2,0,0,"TN","45824",NA
+"WIL",55,"NG","Live",2,55,"HL",2,"OH",2,7,0,1,"TN","45827",NA
+"SUM",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",55,"NG","Live",2,55,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",56,"HR","Dead",3,56,"HL",1,"TI",5,5,0,0,"TN","45824",NA
+"WIL",56,"HR","Dead",3,56,"HL",1,"BB",4,4,2,0,"HL","45841",NA
+"SUM",56,"HR","Dead",3,56,"HL",2,"NG",4,2,1,3,"TN","45824",NA
+"WIL",56,"HR","Dead",3,56,"HL",2,"TO",1,7,2,0,"HL","45841",NA
+"SUM",56,"HR","Dead",3,56,"HL",3,"BB",0,0,0,0,"TN","45824",NA
+"WIL",56,"HR","Dead",3,56,"HL",3,"NG",1,7,0,2,"HL","45841","wet, intact shriveled"
+"SUM",57,"BB","Live",2,57,"HL",1,"SR",6,6,2,0,"TN","45825",NA
+"WIL",57,"BB","Live",2,57,"HL",1,"SR",3,6,1,0,"TN","45827",NA
+"SUM",57,"BB","Live",2,57,"HL",2,"CR",9,1,0,0,"TN","45825",NA
+"WIL",57,"BB","Live",2,57,"HL",2,"CR",6,1,0,3,"TN","45827",NA
+"SUM",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",57,"BB","Live",2,57,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",58,"HR","Live",3,58,"HL",1,"TI",2,2,3,0,"TN","45825",NA
+"WIL",58,"HR","Live",3,58,"HL",1,"TI",1,6,0,3,"TN","45827",NA
+"SUM",58,"HR","Live",3,58,"HL",2,"NG",4,4,1,1,"TN","45825",NA
+"WIL",58,"HR","Live",3,58,"HL",2,"NG",1,6,0,4,"TN","45827",NA
+"SUM",58,"HR","Live",3,58,"HL",3,"BB",3,7,0,0,"TN","45825",NA
+"WIL",58,"HR","Live",3,58,"HL",3,"BB",6,2,0,2,"TN","45827",NA
+"SUM",59,"HG","Live",2,59,"HL",1,"HG",8,8,0,0,"TN","45825",NA
+"WIL",59,"HG","Live",2,59,"HL",1,"HG",7,1,2,0,"TN","45827",NA
+"SUM",59,"HG","Live",2,59,"HL",2,"HR",7,3,0,0,"TN","45825",NA
+"WIL",59,"HG","Live",2,59,"HL",2,"HR",6,4,0,0,"TN","45827",NA
+"SUM",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",59,"HG","Live",2,59,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",60,"HR","Dead",2,60,"HL",1,"HR",7,7,0,0,"TN","45825",NA
+"WIL",60,"HR","Dead",2,60,"HL",1,"HR",4,4,2,0,"TN","45826",NA
+"SUM",60,"HR","Dead",2,60,"HL",2,"HG",4,3,3,0,"TN","45825",NA
+"WIL",60,"HR","Dead",2,60,"HL",2,"HG",3,7,0,0,"TN","45826",NA
+"SUM",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",60,"HR","Dead",2,60,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",61,"SR","Live",3,61,"HL",1,"SR",7,7,2,0,"TN","45824",NA
+"WIL",61,"SR","Live",3,61,"HL",1,"SR",8,2,0,0,"TN","45827",NA
+"SUM",61,"SR","Live",3,61,"HL",2,"HG",9,1,0,0,"TN","45824",NA
+"WIL",61,"SR","Live",3,61,"HL",2,"HG",7,3,0,0,"TN","45827",NA
+"SUM",61,"SR","Live",3,61,"HL",3,"AH",10,0,0,0,"TN","45824",NA
+"WIL",61,"SR","Live",3,61,"HL",3,"AH",10,0,0,0,"TN","45827",NA
+"SUM",62,"CR","Live",3,62,"HL",1,"AH",10,10,0,0,"HL","45824",NA
+"WIL",62,"CR","Live",3,62,"HL",1,"CR",5,5,0,0,"TN","45827",NA
+"SUM",62,"CR","Live",3,62,"HL",2,"CR",4,4,2,0,"HL","45824",NA
+"WIL",62,"CR","Live",3,62,"HL",2,"HG",8,2,0,0,"TN","45827",NA
+"SUM",62,"CR","Live",3,62,"HL",3,"HG",8,2,0,0,"HL","45824",NA
+"WIL",62,"CR","Live",3,62,"HL",3,"AH",6,1,2,1,"TN","45827",NA
+"SUM",63,"AH","Live",2,63,"HL",1,"RC",2,5,0,0,"HL","45824",NA
+"WIL",63,"AH","Live",2,63,"HL",1,"AH",5,4,1,0,"TN","45827",NA
+"SUM",63,"AH","Live",2,63,"HL",2,"AH",8,2,0,0,"HL","45824",NA
+"WIL",63,"AH","Live",2,63,"HL",2,"RC",0,0,0,0,"TN","45827","missing"
+"SUM",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",63,"AH","Live",2,63,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",64,"NG","Dead",3,64,"HL",1,"HR",6,9,1,0,"HL","45824",NA
+"WIL",64,"NG","Dead",3,64,"HL",1,"HR",1,5,0,4,"HL","45841",NA
+"SUM",64,"NG","Dead",3,64,"HL",2,"NG",4,4,2,0,"HL","45824",NA
+"WIL",64,"NG","Dead",3,64,"HL",2,"NG",1,9,0,0,"HL","45841",NA
+"SUM",64,"NG","Dead",3,64,"HL",3,"RC",1,9,0,0,"HL","45824",NA
+"WIL",64,"NG","Dead",3,64,"HL",3,"RC",1,6,0,3,"HL","45841",NA
+"SUM",65,"SR","Live",2,65,"HL",1,"NG",3,3,2,1,"TN","45824",NA
+"WIL",65,"SR","Live",2,65,"HL",1,"NG",0,9,1,0,"TN","45827",NA
+"SUM",65,"SR","Live",2,65,"HL",2,"BB",7,3,0,0,"TN","45824",NA
+"WIL",65,"SR","Live",2,65,"HL",2,"BB",1,8,1,0,"TN","45827",NA
+"SUM",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",65,"SR","Live",2,65,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",66,"RC","Live",3,66,"HL",1,"NG",4,4,0,0,"HL","45824",NA
+"WIL",66,"RC","Live",3,66,"HL",1,"TI",2,5,3,0,"TN","45827",NA
+"SUM",66,"RC","Live",3,66,"HL",2,"TI",1,3,4,2,"HL","45824",NA
+"WIL",66,"RC","Live",3,66,"HL",2,"NG",4,6,0,0,"TN","45827",NA
+"SUM",66,"RC","Live",3,66,"HL",3,"BB",6,3,0,1,"HL","45824",NA
+"WIL",66,"RC","Live",3,66,"HL",3,"BB",5,4,1,0,"TN","45827",NA
+"SUM",67,"BB","Live",3,67,"HL",1,"BB",6,6,0,0,"TN","45825",NA
+"WIL",67,"BB","Live",3,67,"HL",1,"BB",9,1,0,0,"TN","45826",NA
+"SUM",67,"BB","Live",3,67,"HL",2,"RC",2,7,0,1,"TN","45825",NA
+"WIL",67,"BB","Live",3,67,"HL",2,"RC",3,7,0,0,"TN","45826",NA
+"SUM",67,"BB","Live",3,67,"HL",3,"HR- A and B",-4,-1,0,-5,"TN","45825","HR  had 2 bags, I separated them into A and B"
+"WIL",67,"BB","Live",3,67,"HL",3,"HR",0,5,2,3,"TN","45826",NA
+"SUM",68,"AH","Dead",3,68,"HL",1,"OH",5,5,0,0,"HL","45824",NA
+"WIL",68,"AH","Dead",3,68,"HL",1,"SR",2,7,1,0,"TN","45826",NA
+"SUM",68,"AH","Dead",3,68,"HL",2,"SR",5,5,0,0,"HL","45824",NA
+"WIL",68,"AH","Dead",3,68,"HL",2,"CR",5,4,1,0,"TN","45826",NA
+"SUM",68,"AH","Dead",3,68,"HL",3,"CR",6,3,0,1,"HL","45824",NA
+"WIL",68,"AH","Dead",3,68,"HL",3,"OH",5,4,1,0,"TN","45826",NA
+"SUM",69,"AH","Live",3,69,"HL",1,"SR",0,0,1,0,"TN","45825",NA
+"WIL",69,"AH","Live",3,69,"HL",1,"SR",3,4,2,1,"TN","45827",NA
+"SUM",69,"AH","Live",3,69,"HL",2,"CR",4,6,0,0,"TN","45825",NA
+"WIL",69,"AH","Live",3,69,"HL",2,"CR",8,1,0,1,"TN","45827",NA
+"SUM",69,"AH","Live",3,69,"HL",3,"OH",2,6,2,0,"TN","45825",NA
+"WIL",69,"AH","Live",3,69,"HL",3,"OH",7,3,0,0,"TN","45827","7 seeds had hairy fungus"
+"SUM",70,"AH","Dead",2,70,"HL",1,"AH",9,9,0,1,"HL","45821","one dropped when opening"
+"WIL",70,"AH","Dead",2,70,"HL",1,"AH",9,1,0,0,"TN","45827",NA
+"SUM",70,"AH","Dead",2,70,"HL",2,"RC",4,5,1,0,"HL","45821",NA
+"WIL",70,"AH","Dead",2,70,"HL",2,"RC",2,8,0,0,"TN","45827",NA
+"SUM",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",70,"AH","Dead",2,70,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",71,"HR","Live",3,71,"HL",1,"BB",4,6,0,0,"HL","45821",NA
+"WIL",71,"HR","Live",3,71,"HL",1,"TI",5,5,3,0,"TN","45826","bag had 13 seeds"
+"SUM",71,"HR","Live",3,71,"HL",2,"NG",3,6,0,1,"HL","45821",NA
+"WIL",71,"HR","Live",3,71,"HL",2,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",71,"HR","Live",3,71,"HL",3,"TI",0,10,0,0,"HL","45821",NA
+"WIL",71,"HR","Live",3,71,"HL",3,NA,NA,NA,NA,NA,NA,NA,"2 bags missing"
+"SUM",72,"NG","Dead",2,72,"HL",1,"SR",5,5,0,0,"HL","45821","2 shriveled, 1 broken"
+"WIL",72,"NG","Dead",2,72,"HL",1,"SR",4,5,1,0,"TN","45827",NA
+"SUM",72,"NG","Dead",2,72,"HL",2,"OH",4,5,1,0,"HL","45821",NA
+"WIL",72,"NG","Dead",2,72,"HL",2,"OH",2,5,3,0,"TN","45827",NA
+"SUM",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",72,"NG","Dead",2,72,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",73,"RC","Dead",2,73,"HL",1,"RC",1,8,1,0,"HL","45821",NA
+"WIL",73,"RC","Dead",2,73,"HL",1,"AH",9,1,0,0,"TN","45841",NA
+"SUM",73,"RC","Dead",2,73,"HL",2,"AH",22,3,0,0,"HL","45821","no idea what happened here"
+"WIL",73,"RC","Dead",2,73,"HL",2,"RC",2,3,1,4,"HL","45841","bag partially open"
+"SUM",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",73,"RC","Dead",2,73,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",74,"OH","Dead",2,74,"HL",1,"NG",5,4,0,1,"HL","45821",NA
+"WIL",74,"OH","Dead",2,74,"HL",1,"TI",4,5,1,0,"TN","45826","1 intact seed wet and mushy"
+"SUM",74,"OH","Dead",2,74,"HL",2,"TI",3,3,4,0,"HL","45821",NA
+"WIL",74,"OH","Dead",2,74,"HL",2,"NG",6,1,3,0,"TN","45826",NA
+"SUM",74,"OH","Dead",2,74,"HL",3,"HR",8,1,0,0,"HL","45821",NA
+"WIL",74,"OH","Dead",2,74,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",75,"TI","Dead",3,75,"HL",1,"TI",7,3,0,0,"HL","45821",NA
+"WIL",75,"TI","Dead",3,75,"HL",1,"TI",5,5,0,0,"HL","45841",NA
+"SUM",75,"TI","Dead",3,75,"HL",2,"RC",4,3,3,0,"HL","45821",NA
+"WIL",75,"TI","Dead",3,75,"HL",2,"RC",1,5,0,4,"HL","45841",NA
+"SUM",75,"TI","Dead",3,75,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",75,"TI","Dead",3,75,"HL",3,"HR",5,5,0,0,"HL","45841",NA
+"SUM",76,"OH","Dead",2,76,"HL",1,"NG",0,7,3,0,"HL","45821","large germs"
+"WIL",76,"OH","Dead",2,76,"HL",1,"NG",6,2,0,2,"HL","45841",NA
+"SUM",76,"OH","Dead",2,76,"HL",2,"TI",3,6,1,0,"HL","45821","intact small and flat"
+"WIL",76,"OH","Dead",2,76,"HL",2,"TI",4,4,1,1,"HL","45841",NA
+"SUM",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",76,"OH","Dead",2,76,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",77,"AH","Dead",2,77,"HL",1,"RC",3,4,1,1,"HL","45821",NA
+"WIL",77,"AH","Dead",2,77,"HL",1,"RC",4,6,0,0,"HL","45841",NA
+"SUM",77,"AH","Dead",2,77,"HL",2,"AH",7,3,0,0,"HL","45821","small white dots"
+"WIL",77,"AH","Dead",2,77,"HL",2,"AH",10,0,0,0,"HL","45841",NA
+"SUM",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",77,"AH","Dead",2,77,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",78,"TI","Dead",3,78,"HL",1,"HR",5,5,0,0,"HL","45820",NA
+"WIL",78,"TI","Dead",3,78,"HL",1,"TI",5,5,0,0,"HL","45841",NA
+"SUM",78,"TI","Dead",3,78,"HL",2,"RC",2,7,0,1,"HL","45820",NA
+"WIL",78,"TI","Dead",3,78,"HL",2,"HR",6,4,0,0,"HL","45841",NA
+"SUM",78,"TI","Dead",3,78,"HL",3,"TI",4,6,0,0,"HL","45820",NA
+"WIL",78,"TI","Dead",3,78,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",79,"OH","Dead",3,79,"HL",1,"OH",7,2,0,1,"HL","45821",NA
+"WIL",79,"OH","Dead",3,79,"HL",1,"OH",0,0,0,0,"TN","45826","bag missing"
+"SUM",79,"OH","Dead",3,79,"HL",2,"HG",1,7,2,0,"HL","45729",NA
+"WIL",79,"OH","Dead",3,79,"HL",2,"HG",0,0,0,0,"TN","45826","bag missing"
+"SUM",79,"OH","Dead",3,79,"HL",3,"AH",8,1,0,1,"HL","45821","1 shriveled with white dots"
+"WIL",79,"OH","Dead",3,79,"HL",3,"AH",0,0,0,0,"TN","45826","bag missing"
+"SUM",80,"RC","Live",2,80,"HL",1,"AH",9,1,0,0,"HL","45820",NA
+"WIL",80,"RC","Live",2,80,"HL",1,"RC",0,8,1,1,"TN","45826",NA
+"SUM",80,"RC","Live",2,80,"HL",2,"RC",10,0,0,0,"HL","45820",NA
+"WIL",80,"RC","Live",2,80,"HL",2,"AH",10,0,0,0,"TN","45826",NA
+"SUM",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",80,"RC","Live",2,80,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",81,"NG","Live",2,81,"HL",1,"SR",6,4,0,0,"HL","45821",NA
+"WIL",81,"NG","Live",2,81,"HL",1,"SR",5,5,0,0,"TN","45831",NA
+"SUM",81,"NG","Live",2,81,"HL",2,"OH",5,4,0,1,"HL","45821",NA
+"WIL",81,"NG","Live",2,81,"HL",2,"OH",2,7,1,0,"TN","45826",NA
+"SUM",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",81,"NG","Live",2,81,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",82,"CR","Live",2,82,"HL",1,"TI",2,7,0,1,"HL","45820",NA
+"WIL",82,"CR","Live",2,82,"HL",1,"TI",1,9,0,0,"TN","45831",NA
+"SUM",82,"CR","Live",2,82,"HL",2,"BB",7,3,0,0,"HL","45820",NA
+"WIL",82,"CR","Live",2,82,"HL",2,"BB",0,4,4,2,"TN","45831",NA
+"SUM",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",82,"CR","Live",2,82,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",83,"CR","Dead",2,83,"HL",1,"BB",2,8,0,0,"HL","45820",NA
+"WIL",83,"CR","Dead",2,83,"HL",1,"TI",2,4,4,0,"HL","45838",NA
+"SUM",83,"CR","Dead",2,83,"HL",2,"TI",0,7,0,3,"HL","45820","germs very large"
+"WIL",83,"CR","Dead",2,83,"HL",2,"BB",7,3,0,0,"HL","45838",NA
+"SUM",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",83,"CR","Dead",2,83,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",84,"TI","Live",3,84,"HL",1,"RC",4,4,2,0,"HL","45820",NA
+"WIL",84,"TI","Live",3,84,"HL",1,"TI",8,2,0,0,"TN","45830",NA
+"SUM",84,"TI","Live",3,84,"HL",2,"TI",3,7,0,0,"HL","45820","1 intact crumbled when touched"
+"WIL",84,"TI","Live",3,84,"HL",2,"RC",5,4,0,1,"TN","45831",NA
+"SUM",84,"TI","Live",3,84,"HL",3,"HR",9,1,0,0,"HL","45820",NA
+"WIL",84,"TI","Live",3,84,"HL",3,"HR",7,2,1,0,"TN","45831",NA
+"SUM",85,"HG","Dead",2,85,"HL",1,"HR",7,3,0,0,"TN/SF","45797",NA
+"WIL",85,"HG","Dead",2,85,"HL",1,"HG",3,4,3,0,"HL","45838",NA
+"SUM",85,"HG","Dead",2,85,"HL",2,"HG",6,3,0,1,"TN/SF","45797",NA
+"WIL",85,"HG","Dead",2,85,"HL",2,"HR",2,6,2,0,"HL","45838",NA
+"SUM",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",85,"HG","Dead",2,85,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",86,"NG","Dead",2,86,"HL",1,"SR",8,2,0,0,"HL","45820",NA
+"WIL",86,"NG","Dead",2,86,"HL",1,"OH",3,7,0,0,"HL","45839",NA
+"SUM",86,"NG","Dead",2,86,"HL",2,"OH",4,5,0,1,"HL","45820",NA
+"WIL",86,"NG","Dead",2,86,"HL",2,"SR",2,7,0,1,"HL","45839",NA
+"SUM",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",86,"NG","Dead",2,86,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",87,"CR","Live",2,87,"HL",1,"TI",4,6,0,0,"TN/SF","45797",NA
+"WIL",87,"CR","Live",2,87,"HL",1,"TI",3,7,0,0,"TN","45831",NA
+"SUM",87,"CR","Live",2,87,"HL",2,"BB",4,6,0,0,"TN/SF","45797",NA
+"WIL",87,"CR","Live",2,87,"HL",2,"BB",5,5,0,0,"TN","45831",NA
+"SUM",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",87,"CR","Live",2,87,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",88,"OH","Live",3,88,"HL",1,"OIH",8,1,1,0,"HL","45820",NA
+"WIL",88,"OH","Live",3,88,"HL",1,"OH",6,4,0,0,"TN","45831",NA
+"SUM",88,"OH","Live",3,88,"HL",2,"AH",9,0,1,0,"HL","45820","fuzzy white growth"
+"WIL",88,"OH","Live",3,88,"HL",2,"HG",4,4,2,0,"TN","45831",NA
+"SUM",88,"OH","Live",3,88,"HL",3,"HG",4,5,0,1,"HL","45820",NA
+"WIL",88,"OH","Live",3,88,"HL",3,"AH",7,2,0,1,"TN","45831",NA
+"SUM",89,"NG","Dead",3,89,"HL",1,"RC",0,7,2,1,"HL","45820",NA
+"WIL",89,"NG","Dead",3,89,"HL",1,"HR",2,6,0,2,"HL","45838","very wet"
+"SUM",89,"NG","Dead",3,89,"HL",2,"NG",1,9,0,0,"HL","45820",NA
+"WIL",89,"NG","Dead",3,89,"HL",2,"NG",4,3,0,3,"HL","45838","very wet"
+"SUM",89,"NG","Dead",3,89,"HL",3,"HR",5,4,0,1,"HL","45820",NA
+"WIL",89,"NG","Dead",3,89,"HL",3,"RC",3,5,0,2,"HL","45838","wet, bag partially open"
+"SUM",90,"TI","Dead",2,90,"HL",1,"CR",6,3,0,1,"SF","45798",NA
+"WIL",90,"TI","Dead",2,90,"HL",1,"OH",5,3,0,2,"HL","45838","bag partially open"
+"SUM",90,"TI","Dead",2,90,"HL",2,"OH",6,3,0,1,"HSF","45798",NA
+"WIL",90,"TI","Dead",2,90,"HL",2,"CR",10,0,0,0,"HL","45838",NA
+"SUM",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",90,"TI","Dead",2,90,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",91,"AH","Live",2,91,"HL",1,"AH",10,0,0,0,"SF","45798","white dots on seeds"
+"WIL",91,"AH","Live",2,91,"HL",1,"AH",10,0,0,0,"TN","45831",NA
+"SUM",91,"AH","Live",2,91,"HL",2,"RC",5,3,1,1,"SF","45798","intact shriveled"
+"WIL",91,"AH","Live",2,91,"HL",2,"RC",10,1,0,0,"TN","45831","extra seed, bag was found outside whirl pak"
+"SUM",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",91,"AH","Live",2,91,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",92,"HG","Live",2,92,"HL",1,"HG",9,0,0,1,"SF","45798",NA
+"WIL",92,"HG","Live",2,92,"HL",1,"HG",7,3,0,0,"TN","45830","intact seeds mushy"
+"SUM",92,"HG","Live",2,92,"HL",2,"HR",6,2,0,2,"SF","45798","3 seeds landed on bench, 2 missing seeds may bave been lost while opening the bag"
+"WIL",92,"HG","Live",2,92,"HL",2,"HR",7,3,0,0,"TN","45830",NA
+"SUM",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",92,"HG","Live",2,92,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",93,"TI","Dead",2,93,"HL",1,"CR",8,2,0,0,"SF","45798","1 seed lost when put in tube"
+"WIL",93,"TI","Dead",2,93,"HL",1,"OH",3,7,0,0,"HL","45839",NA
+"SUM",93,"TI","Dead",2,93,"HL",2,"OH",6,4,0,0,"SF","45798",NA
+"WIL",93,"TI","Dead",2,93,"HL",2,"CR",9,1,0,0,"HL","45839",NA
+"SUM",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",93,"TI","Dead",2,93,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",94,"HR","Dead",3,94,"HL",1,"BB",2,7,0,1,"HL","45846",NA
+"WIL",94,"HR","Dead",3,94,"HL",1,"TI",1,9,0,0,"HL","45839",NA
+"SUM",94,"HR","Dead",3,94,"HL",2,"NG",4,4,2,0,"HL","45846",NA
+"WIL",94,"HR","Dead",3,94,"HL",2,"BB",2,8,0,0,"HL","45839",NA
+"SUM",94,"HR","Dead",3,94,"HL",3,"TI",0,7,3,0,"HL","45846",NA
+"WIL",94,"HR","Dead",3,94,"HL",3,"NG",1,5,0,4,"HL","45839",NA
+"SUM",95,"BB","Dead",3,95,"HL",1,"BB",9,1,0,0,"HL","45846",NA
+"WIL",95,"BB","Dead",3,95,"HL",1,"HR",6,4,0,0,"HL","45838",NA
+"SUM",95,"BB","Dead",3,95,"HL",2,"HR",4,4,2,0,"HL","45846",NA
+"WIL",95,"BB","Dead",3,95,"HL",2,"RC",2,8,0,0,"HL","45838",NA
+"SUM",95,"BB","Dead",3,95,"HL",3,"RC",5,3,0,2,"HL","45846",NA
+"WIL",95,"BB","Dead",3,95,"HL",3,"BB",4,6,0,0,"HL","45838",NA
+"SUM",96,"CR","Dead",3,96,"HL",1,"HG",4,6,0,0,"HL","45846","2 intact flat and crumbly"
+"WIL",96,"CR","Dead",3,96,"HL",1,"CR",8,2,0,0,"HL","45838",NA
+"SUM",96,"CR","Dead",3,96,"HL",2,"CR",6,4,0,0,"HL","45846","1 intact broken"
+"WIL",96,"CR","Dead",3,96,"HL",2,"AH",8,2,0,0,"HL","45838",NA
+"SUM",96,"CR","Dead",3,96,"HL",3,"AH",4,6,0,0,"HL","45846",NA
+"WIL",96,"CR","Dead",3,96,"HL",3,"HG",7,3,0,0,"HL","45838",NA
+"SUM",97,"TI","Dead",2,97,"HL",1,"CR",10,0,0,0,"HL","45826",NA
+"WIL",97,"TI","Dead",2,97,"HL",1,"CR",6,3,0,0,"TN","45830",NA
+"SUM",97,"TI","Dead",2,97,"HL",2,"OH",10,0,0,0,"HL","45826",NA
+"WIL",97,"TI","Dead",2,97,"HL",2,"OH",10,0,0,0,"TN","45830",NA
+"SUM",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",97,"TI","Dead",2,97,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",98,"SR","Dead",2,98,"HL",1,"NG",3,7,0,0,"HL","45846",NA
+"WIL",98,"SR","Dead",2,98,"HL",1,"NG",2,8,0,0,"HL","45838",NA
+"SUM",98,"SR","Dead",2,98,"HL",2,"BB",3,7,0,0,"HL","45846",NA
+"WIL",98,"SR","Dead",2,98,"HL",2,"BB",5,5,0,0,"HL","45838",NA
+"SUM",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",98,"SR","Dead",2,98,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",99,"SR","Dead",3,99,"HL",1,"HG",5,5,0,0,"HL","45826",NA
+"WIL",99,"SR","Dead",3,99,"HL",1,"SR",0,0,0,0,"-","-","missing"
+"SUM",99,"SR","Dead",3,99,"HL",2,"SR",7,3,0,0,"HL","45826",NA
+"WIL",99,"SR","Dead",3,99,"HL",2,"HG",0,0,0,0,"-","-","missing"
+"SUM",99,"SR","Dead",3,99,"HL",3,"AH",9,0,0,1,"HL","45826",NA
+"WIL",99,"SR","Dead",3,99,"HL",3,"AH",0,0,0,0,"-","-","missing"
+"SUM",100,"CR","Dead",2,100,"HL",1,"TI",5,5,0,0,"HL","45846",NA
+"WIL",100,"CR","Dead",2,100,"HL",1,"TI",0,0,0,0,"-","-","missing"
+"SUM",100,"CR","Dead",2,100,"HL",2,"BB",2,8,0,0,"HL","45846","2 intact shriveled"
+"WIL",100,"CR","Dead",2,100,"HL",2,"BB",0,0,0,0,"-","-","missing"
+"SUM",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",100,"CR","Dead",2,100,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",101,"HG","Dead",2,101,"HL",1,"HG",7,2,1,0,"HL","45826",NA
+"WIL",101,"HG","Dead",2,101,"HL",1,"HG",7,2,1,0,"TN","45831",NA
+"SUM",101,"HG","Dead",2,101,"HL",2,"HR",6,3,1,0,"HL","45826",NA
+"WIL",101,"HG","Dead",2,101,"HL",2,"HR",5,3,0,2,"TN","45831",NA
+"SUM",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",101,"HG","Dead",2,101,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",102,"BB","Dead",2,102,"HL",1,"CR",7,3,0,0,"HL","45846",NA
+"WIL",102,"BB","Dead",2,102,"HL",1,"SR",0,0,0,0,"-","-","missing"
+"SUM",102,"BB","Dead",2,102,"HL",2,"SR",0,10,0,0,"HL","45846",NA
+"WIL",102,"BB","Dead",2,102,"HL",2,"CR",0,0,0,0,"-","-","missing"
+"SUM",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",102,"BB","Dead",2,102,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",103,"TI","Live",2,103,"HL",1,"OH",8,2,0,0,"HL","45826",NA
+"WIL",103,"TI","Live",2,103,"HL",1,"CR",5,0,0,5,"TN","45830",NA
+"SUM",103,"TI","Live",2,103,"HL",2,"CR",9,1,0,0,"HL","45826",NA
+"WIL",103,"TI","Live",2,103,"HL",2,"OH",9,0,1,0,"TN","45830",NA
+"SUM",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",103,"TI","Live",2,103,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",104,"TI","Dead",3,104,"HL",1,"TI",1,8,0,1,"HL","45846",NA
+"WIL",104,"TI","Dead",3,104,"HL",1,"HR",4,3,1,2,"HL","45838",NA
+"SUM",104,"TI","Dead",3,104,"HL",2,"RC",1,8,1,0,"HL","45846",NA
+"WIL",104,"TI","Dead",3,104,"HL",2,"TI",5,3,1,1,"HL","45838",NA
+"SUM",104,"TI","Dead",3,104,"HL",3,"HR",5,4,0,1,"HL","45846",NA
+"WIL",104,"TI","Dead",3,104,"HL",3,"RC",0,0,0,0,"-","-","missing"
+"SUM",105,"NG","Live",3,105,"HL",1,"HR",8,1,1,0,"HL","45826",NA
+"WIL",105,"NG","Live",3,105,"HL",1,"NG",3,6,0,1,"TN","45831",NA
+"SUM",105,"NG","Live",3,105,"HL",2,"NG",5,5,0,0,"HL","45826","1 intact broken"
+"WIL",105,"NG","Live",3,105,"HL",2,"RC",2,8,0,0,"TN","45831",NA
+"SUM",105,"NG","Live",3,105,"HL",3,"RC",0,8,1,1,"HL","45826",NA
+"WIL",105,"NG","Live",3,105,"HL",3,"HR",8,0,0,2,"TN","45831",NA
+"SUM",106,"RC","Dead",2,106,"HL",1,"RC",1,9,0,0,"HL","45826",NA
+"WIL",106,"RC","Dead",2,106,"HL",1,"RC",1,9,0,0,"TN","45830",NA
+"SUM",106,"RC","Dead",2,106,"HL",2,"AH",9,1,0,0,"HL","45826",NA
+"WIL",106,"RC","Dead",2,106,"HL",2,"AH",10,0,0,0,"TN","45830",NA
+"SUM",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",106,"RC","Dead",2,106,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",107,"OH","Live",2,107,"HL",1,"TI",3,6,1,0,"HL","45826",NA
+"WIL",107,"OH","Live",2,107,"HL",1,"TI",2,5,3,0,"TN","45830",NA
+"SUM",107,"OH","Live",2,107,"HL",2,"NG",4,5,1,0,"HL","45826",NA
+"WIL",107,"OH","Live",2,107,"HL",2,"NG",2,6,2,0,"TN","45830",NA
+"SUM",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",107,"OH","Live",2,107,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",108,"HR","Live",3,108,"HL",1,"NG",0,9,0,1,"HL","45846",NA
+"WIL",108,"HR","Live",3,108,"HL",1,"TI",4,6,0,0,"TN","45830",NA
+"SUM",108,"HR","Live",3,108,"HL",2,"TI",5,5,0,0,"HL","45846",NA
+"WIL",108,"HR","Live",3,108,"HL",2,"NG",5,5,0,0,"TN","45830",NA
+"SUM",108,"HR","Live",3,108,"HL",3,"BB",10,0,0,0,"HL","45846","1 intact shriveled,crumbly"
+"WIL",108,"HR","Live",3,108,"HL",3,"BB",6,4,0,0,"TN","45830",NA
+"SUM",109,"SR","Live",2,109,"HL",1,"NG",5,5,0,0,"HL","45826",NA
+"WIL",109,"SR","Live",2,109,"HL",1,"NG",5,5,0,0,"TN","45830",NA
+"SUM",109,"SR","Live",2,109,"HL",2,"BB",4,6,0,0,"HL","45826",NA
+"WIL",109,"SR","Live",2,109,"HL",2,"BB",6,4,0,0,"TN","45830",NA
+"SUM",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",109,"SR","Live",2,109,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",110,"HG","Dead",3,110,"HL",1,"OH",3,4,0,3,"HL","45846",NA
+"WIL",110,"HG","Dead",3,110,"HL",1,"SR",0,0,0,0,"-","-","missing"
+"SUM",110,"HG","Dead",3,110,"HL",2,"CR",5,4,1,0,"HL","45846",NA
+"WIL",110,"HG","Dead",3,110,"HL",2,"CR",0,0,0,0,"-","-","missing"
+"SUM",110,"HG","Dead",3,110,"HL",3,"SR",6,4,0,0,"HL","45846",NA
+"WIL",110,"HG","Dead",3,110,"HL",3,"OH",0,0,0,0,"-","-","missing"
+"SUM",111,"NG","Dead",2,111,"HL",1,"OH",6,2,2,0,"HL","45846",NA
+"WIL",111,"NG","Dead",2,111,"HL",1,"OH",2,4,4,0,"HL","45838",NA
+"SUM",111,"NG","Dead",2,111,"HL",2,"SR",6,3,0,1,"HL","45846",NA
+"WIL",111,"NG","Dead",2,111,"HL",2,"SR",7,3,0,0,"HL","45838",NA
+"SUM",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",111,"NG","Dead",2,111,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",112,"RC","Dead",3,112,"HL",1,"BB",4,6,0,0,"HL","45846",NA
+"WIL",112,"RC","Dead",3,112,"HL",1,"NG",3,7,0,0,"HL","45838",NA
+"SUM",112,"RC","Dead",3,112,"HL",2,"NG",4,6,0,0,"HL","45846",NA
+"WIL",112,"RC","Dead",3,112,"HL",2,"BB",5,4,1,0,"HL","45838",NA
+"SUM",112,"RC","Dead",3,112,"HL",3,"TI",5,5,0,0,"HL","45846",NA
+"WIL",112,"RC","Dead",3,112,"HL",3,"TI",4,6,0,0,"HL","45838",NA
+"SUM",113,"TI","Live",2,113,"HL",1,"OH",5,5,0,0,"HL","45826",NA
+"WIL",113,"TI","Live",2,113,"HL",1,"CR",9,0,1,0,"TN","45830",NA
+"SUM",113,"TI","Live",2,113,"HL",2,"CR",8,2,0,0,"HL","45826",NA
+"WIL",113,"TI","Live",2,113,"HL",2,"OH",10,0,0,0,"TN","45830",NA
+"SUM",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",113,"TI","Live",2,113,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",114,"RC","Live",2,114,"HL",1,"AH",9,0,0,1,"HL","45826",NA
+"WIL",114,"RC","Live",2,114,"HL",1,"RC",5,5,0,0,"TN","45831",NA
+"SUM",114,"RC","Live",2,114,"HL",2,"RC",0,10,0,0,"HL","45826",NA
+"WIL",114,"RC","Live",2,114,"HL",2,"AH",10,0,0,0,"TN","45831",NA
+"SUM",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",114,"RC","Live",2,114,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",115,"TI","Live",2,115,"HL",1,"CR",4,6,0,0,"HL","45826",NA
+"WIL",115,"TI","Live",2,115,"HL",1,"CR",6,3,1,0,"TN","45830",NA
+"SUM",115,"TI","Live",2,115,"HL",2,"OH",6,4,0,0,"HL","45826",NA
+"WIL",115,"TI","Live",2,115,"HL",2,"OH",6,2,2,0,"TN","45830",NA
+"SUM",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",115,"TI","Live",2,115,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"SUM",116,"BB","Dead",3,116,"HL",1,"BB",5,3,2,0,"TN","45826",NA
+"WIL",116,"BB","Dead",3,116,"HL",1,"BB",6,4,0,0,"TN","45830",NA
+"SUM",116,"BB","Dead",3,116,"HL",2,"RC",4,4,0,2,"TN","45826","2 intact seeds very small"
+"WIL",116,"BB","Dead",3,116,"HL",2,"RC",7,2,1,0,"TN","45830",NA
+"SUM",116,"BB","Dead",3,116,"HL",3,"HR",6,4,0,0,"TN","45826",NA
+"WIL",116,"BB","Dead",3,116,"HL",3,"HR",4,4,4,0,"TN","45830",NA
+"SUM",117,"RC","Dead",3,117,"HL",1,"TI",0,5,5,0,"TN","45826","no intact seeds"
+"WIL",117,"RC","Dead",3,117,"HL",1,"TI",1,8,1,0,"TN","45831",NA
+"SUM",117,"RC","Dead",3,117,"HL",2,"NG",2,5,3,0,"TN","45826",NA
+"WIL",117,"RC","Dead",3,117,"HL",2,"NG",4,5,1,0,"TN","45831",NA
+"SUM",117,"RC","Dead",3,117,"HL",3,"BB",6,3,1,0,"TN","45826",NA
+"WIL",117,"RC","Dead",3,117,"HL",3,"BB",4,6,0,0,"TN","45831",NA
+"SUM",118,"CR","Dead",3,118,"HL",1,"CR",4,5,1,0,"TN","45825",NA
+"WIL",118,"CR","Dead",3,118,"HL",1,"CR",8,2,0,0,"TN","45831",NA
+"SUM",118,"CR","Dead",3,118,"HL",2,"HG",3,3,3,1,"TN","45825",NA
+"WIL",118,"CR","Dead",3,118,"HL",2,"HG",8,0,1,1,"TN","45831",NA
+"SUM",118,"CR","Dead",3,118,"HL",3,"AH",10,0,0,0,"TN","45825",NA
+"WIL",118,"CR","Dead",3,118,"HL",3,"AH",10,0,0,0,"TN","45831",NA
+"SUM",119,"RC","Dead",3,119,"HL",1,"NG",7,3,0,0,"HL","45846","2 intact small and shriveled"
+"WIL",119,"RC","Dead",3,119,"HL",1,"NG",3,7,0,0,"HL","45838",NA
+"SUM",119,"RC","Dead",3,119,"HL",2,"TI",2,8,0,0,"HL","45846","1 intact flat"
+"WIL",119,"RC","Dead",3,119,"HL",2,"TI",5,5,0,0,"HL","45838",NA
+"SUM",119,"RC","Dead",3,119,"HL",3,"BB",2,8,0,0,"HL","45846",NA
+"WIL",119,"RC","Dead",3,119,"HL",3,"BB",12,8,0,0,"HL","45838",NA
+"SUM",120,"OH","Dead",2,120,"HL",1,"TI",0,10,0,0,"HL","45846",NA
+"WIL",120,"OH","Dead",2,120,"HL",1,"TI",0,0,0,0,"-","-","missing"
+"SUM",120,"OH","Dead",2,120,"HL",2,"NG",1,7,0,2,"HL","45846",NA
+"WIL",120,"OH","Dead",2,120,"HL",2,"NG",0,0,0,0,"-","-","missing"
+"SUM",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+"WIL",120,"OH","Dead",2,120,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",1,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,600,NA,NA,1,NA,1084,1060,133,75,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2352,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",2,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,600,NA,NA,2,NA,1233,865,104,99,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,2301,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,"HL",3,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,600,NA,NA,3,NA,697,352,37,46,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,1132,NA,NA,NA,NA
