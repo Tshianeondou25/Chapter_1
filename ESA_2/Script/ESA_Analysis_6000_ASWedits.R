@@ -140,7 +140,6 @@ intraspp_col_plot
 #Caption:
 
 
-
 #Model 3: Does the effect of home versus away soils on fungal colonization differ between comon gardens ( warm and cool garden)
 homeaway_garden_germ <- brm(
   germinated |trials(1) ~ treat * home_away * garden + 
